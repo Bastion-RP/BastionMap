@@ -1,0 +1,89 @@
+﻿////////////////////////////////////////////////////////////////////
+//DeRap: P:\BastionRPitems\Chiemsee\Atom\data\Atomkueler.rvmat
+//Produced from mikero's Dos Tools Dll version 7.70
+//https://mikero.bytex.digital/Downloads
+//'now' is Mon Aug 10 20:21:26 2020 : 'file' last modified on Mon Aug 10 20:21:26 2020
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {1.1,1,1,1};
+diffuse[] = {1.1,1,1,1};
+forcedDiffuse[] = {0,0,0,1};
+emmisive[] = {0,0,0,0};
+specular[] = {1,1,1,1};
+specularPower = 60;
+PixelShaderID = "Super";
+VertexShaderID = "Super";
+class Stage1
+{
+	texture = "BastionRPitems\Chiemsee\Atom\data\normal_nohq.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class Stage2
+{
+	texture = "BastionRPitems\Chiemsee\Atom\data\ao_AO.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class Stage3
+{
+	texture = "#(argb,8,8,3)color(0,0,0,0,MC)";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class Stage5
+{
+	texture = "BastionRPitems\Chiemsee\Atom\data\smdi_smdi.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class Stage6
+{
+	texture = "BastionRPitems\Chiemsee\Atom\data\displacment_DISP.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};
+class Stage7
+{
+	texture = "dz\data\data\env_land_co.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {1,0,0};
+		up[] = {0,1,0};
+		dir[] = {0,0,1};
+		pos[] = {0,0,0};
+	};
+};

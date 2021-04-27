@@ -1,0 +1,2 @@
+R, G, B, Climate, Land type
+170, 190, 80, "Temperate", "Dry grass",

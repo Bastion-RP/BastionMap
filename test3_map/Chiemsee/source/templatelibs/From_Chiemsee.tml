@@ -1,0 +1,3468 @@
+<?xml version="1.0" ?>
+<Library name="From_Chiemsee" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>Antwort_Sign1</Name>
+        <File>bastionrpitems\chiemsee\antwort\antwort_sign1.p3d</File>
+        <Date>08/11/20 22:30:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>923093814</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>atomkraftwerkkueler</Name>
+        <File>bastionrpitems\chiemsee\atom\atomkraftwerkkueler.p3d</File>
+        <Date>08/11/20 22:30:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2047582820</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.946019</BBRadius>
+        <BBHScale>1.001285</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.028718</YShift>
+        <ZShift>-0.022253</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.953660" Y="-0.173205" Z="-5.946019" />
+        <BoundingMax X="5.953660" Y="15.254905" Z="6.003456" />
+        <BoundingCenter X="-0.000000" Y="7.540850" Z="0.028718" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>atomkraftwerkkuelergestell</Name>
+        <File>bastionrpitems\chiemsee\atom\atomkraftwerkkuelergestell.p3d</File>
+        <Date>08/11/20 22:30:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>647791626</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.227838</BBRadius>
+        <BBHScale>0.996638</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.216063" Y="-0.021460" Z="-6.223442" />
+        <BoundingMax X="6.197741" Y="1.789338" Z="6.232233" />
+        <BoundingCenter X="-0.009161" Y="0.883939" Z="0.004395" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bachham_Sign1</Name>
+        <File>bastionrpitems\chiemsee\bachham\bachham_sign1.p3d</File>
+        <Date>08/11/20 22:30:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1344378875</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BadEndorf_Sign1</Name>
+        <File>bastionrpitems\chiemsee\badendorf\badendorf_sign1.p3d</File>
+        <Date>08/11/20 22:30:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>48254754</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Breitbrunn_Sign1</Name>
+        <File>bastionrpitems\chiemsee\breitbrunn\breitbrunn_sign1.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-659575782</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Smallbunker_open</Name>
+        <File>bastionrpitems\chiemsee\bunker\smallbunker_open.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1393104891</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.000000</BBRadius>
+        <BBHScale>1.074024</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.082601</YShift>
+        <ZShift>0.176198</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.480487" Y="-4.100936" Z="-10.000000" />
+        <BoundingMax X="10.000000" Y="5.160043" Z="10.165202" />
+        <BoundingCenter X="-0.740243" Y="0.529554" Z="0.082601" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>bunkerwandtest1</Name>
+        <File>bastionrpitems\chiemsee\bunkerwand\bunkerwandtest1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>113452226</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.500000</BBRadius>
+        <BBHScale>0.027778</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="0.250000" Y="2.500000" Z="9.000000" />
+        <BoundingCenter X="0.125000" Y="1.250000" Z="4.500000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Burgensdorf_Sign1</Name>
+        <File>bastionrpitems\chiemsee\burgensdorf\burgensdorf_sign1.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-424215946</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ChiemseeparkFelden_Sign1</Name>
+        <File>bastionrpitems\chiemsee\chiemseeparkfelden\chiemseeparkfelden_sign1.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1057571878</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>silo_01</Name>
+        <File>bastionrpitems\chiemsee\comatosebadger\silo_01.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1352755943</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.503551</BBRadius>
+        <BBHScale>1.008718</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.037763</XShift>
+        <YShift>-0.050040</YShift>
+        <ZShift>0.000224</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.695049" Y="-0.326065" Z="-3.605973" />
+        <BoundingMax X="3.616972" Y="13.403709" Z="3.706048" />
+        <BoundingCenter X="-0.039039" Y="6.538822" Z="0.050037" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>silo_02</Name>
+        <File>bastionrpitems\chiemsee\comatosebadger\silo_02.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1352755944</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.503551</BBRadius>
+        <BBHScale>1.008718</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.037763</XShift>
+        <YShift>-0.050040</YShift>
+        <ZShift>0.000224</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.695049" Y="-0.326065" Z="-3.605973" />
+        <BoundingMax X="3.616972" Y="13.403709" Z="3.706048" />
+        <BoundingCenter X="-0.039039" Y="6.538822" Z="0.050037" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>silo_03</Name>
+        <File>bastionrpitems\chiemsee\comatosebadger\silo_03.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1352755945</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.503551</BBRadius>
+        <BBHScale>1.008718</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.037763</XShift>
+        <YShift>-0.050040</YShift>
+        <ZShift>0.000224</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.695049" Y="-0.326065" Z="-3.605973" />
+        <BoundingMax X="3.616972" Y="13.403709" Z="3.706048" />
+        <BoundingCenter X="-0.039039" Y="6.538822" Z="0.050037" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>DeadBody</Name>
+        <File>bastionrpitems\chiemsee\deco\deadbody.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-191371226</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.998085</BBRadius>
+        <BBHScale>0.375724</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000007</XShift>
+        <YShift>0.048852</YShift>
+        <ZShift>-0.220764</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.066417" Y="-0.000000" Z="-2.913616" />
+        <BoundingMax X="1.066395" Y="0.681006" Z="2.762919" />
+        <BoundingCenter X="-0.000011" Y="0.340503" Z="-0.075348" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Dum_mesto2</Name>
+        <File>bastionrpitems\chiemsee\dum_mesto2\dum_mesto2.p3d</File>
+        <Date>08/12/20 18:46:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-611620257</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.746611</BBRadius>
+        <BBHScale>0.514833</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.081029</XShift>
+        <YShift>0.028248</YShift>
+        <ZShift>0.000001</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.643228" Y="-2.132292" Z="-8.876666" />
+        <BoundingMax X="6.781076" Y="11.428101" Z="8.868690" />
+        <BoundingCenter X="0.068924" Y="4.647904" Z="-0.003988" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dunkel03</Name>
+        <File>bastionrpitems\chiemsee\dunkel\dunkel03.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>267706328</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>14.330642</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.330642" Y="-14.330642" Z="-14.330642" />
+        <BoundingMax X="14.330642" Y="14.330642" Z="14.330642" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>edekaschild2</Name>
+        <File>bastionrpitems\chiemsee\ebeka\edekaschild2.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-409326675</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.430754</BBRadius>
+        <BBHScale>0.144724</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.002589</YShift>
+        <ZShift>-0.000956</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.062224" Y="-0.599910" Z="-0.657475" />
+        <BoundingMax X="0.062456" Y="0.555338" Z="0.209211" />
+        <BoundingCenter X="0.000116" Y="-0.022286" Z="-0.224132" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>edekaschild</Name>
+        <File>bastionrpitems\chiemsee\ebeka2\edekaschild.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1388558907</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.430754</BBRadius>
+        <BBHScale>0.144724</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.002589</YShift>
+        <ZShift>-0.000956</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.062224" Y="-0.599910" Z="-0.657475" />
+        <BoundingMax X="0.062456" Y="0.555338" Z="0.209211" />
+        <BoundingCenter X="0.000116" Y="-0.022286" Z="-0.224132" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Eggstaett_Sign1</Name>
+        <File>bastionrpitems\chiemsee\eggstaett\eggstaett_sign1.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1976592959</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.018751</BBRadius>
+        <BBHScale>19.445242</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000462</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.365838" Y="0.029390" Z="-0.023949" />
+        <BoundingMax X="0.363398" Y="2.111333" Z="0.015972" />
+        <BoundingCenter X="-0.001220" Y="1.070361" Z="-0.003988" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Ernsdorf_Sign1</Name>
+        <File>bastionrpitems\chiemsee\ernsdorf\ernsdorf_sign1.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-214297306</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>fakeground2</Name>
+        <File>bastionrpitems\chiemsee\fakelab\fakeground2.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1657690890</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.108848</XShift>
+        <YShift>0.004277</YShift>
+        <ZShift>-0.022538</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.246580" Y="-2.776706" Z="-11.266889" />
+        <BoundingMax X="11.971117" Y="1.323445" Z="12.857852" />
+        <BoundingCenter X="-0.137732" Y="-0.726630" Z="0.795482" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>feuerloescher</Name>
+        <File>bastionrpitems\chiemsee\feuerloescher\feuerloescher.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1557712794</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.087536</BBRadius>
+        <BBHScale>2.449964</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.212980" Y="-0.404981" Z="-0.089378" />
+        <BoundingMax X="0.215940" Y="0.408698" Z="0.085694" />
+        <BoundingCenter X="0.001480" Y="0.001859" Z="-0.001842" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>FlaggeBayern_01</Name>
+        <File>bastionrpitems\chiemsee\flagge\flaggebayern_01.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>89431983</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.034943</BBRadius>
+        <BBHScale>0.018911</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.155316" Y="-1.019337" Z="-1.034943" />
+        <BoundingMax X="0.194460" Y="2.589514" Z="1.034943" />
+        <BoundingCenter X="0.174888" Y="0.785088" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Flussbett1</Name>
+        <File>bastionrpitems\chiemsee\flussbett\flussbett1.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-735825377</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.274122</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.274122" Y="0.010000" Z="-2.274122" />
+        <BoundingMax X="2.274122" Y="0.010000" Z="2.274122" />
+        <BoundingCenter X="0.000000" Y="0.010000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Fwinkies</Name>
+        <File>bastionrpitems\chiemsee\fwinkies\fwinkies.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>318956162</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.021473</BBRadius>
+        <BBHScale>4.656929</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.009249</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.099231" Y="0.091383" Z="-0.022930" />
+        <BoundingMax X="0.100769" Y="0.234355" Z="0.020017" />
+        <BoundingCenter X="0.000769" Y="0.162869" Z="-0.001457" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Goldbarrenblend_03</Name>
+        <File>bastionrpitems\chiemsee\gold\goldbarrenblend_03.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-973047431</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.120628</BBRadius>
+        <BBHScale>0.378833</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.000330" Y="-0.000000" Z="0.000869" />
+        <BoundingMax X="0.091725" Y="0.046996" Z="0.242125" />
+        <BoundingCenter X="0.046028" Y="0.023498" Z="0.121497" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Gollenhausen_Sign1</Name>
+        <File>bastionrpitems\chiemsee\gollenhausen\gollenhausen_sign1.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1145143834</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Geimharting_Sign1</Name>
+        <File>bastionrpitems\chiemsee\greimharting\geimharting_sign1.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>835705530</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Gstadt_Sign1</Name>
+        <File>bastionrpitems\chiemsee\gstadt\gstadt_sign1.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1480942110</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>HallOfFame</Name>
+        <File>bastionrpitems\chiemsee\halloffame\halloffame.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-743889085</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hanged</Name>
+        <File>bastionrpitems\chiemsee\hanged\hanged.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-274560719</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.211542</BBRadius>
+        <BBHScale>1.010946</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.005258</XShift>
+        <YShift>0.102307</YShift>
+        <ZShift>0.016032</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.268964" Y="0.845620" Z="-0.476339" />
+        <BoundingMax X="0.279466" Y="4.722510" Z="0.287282" />
+        <BoundingCenter X="0.005251" Y="2.784065" Z="-0.094529" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hanged_color1</Name>
+        <File>bastionrpitems\chiemsee\hanged\hanged_color1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-755994372</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.211542</BBRadius>
+        <BBHScale>1.010946</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.005258</XShift>
+        <YShift>0.102307</YShift>
+        <ZShift>0.016032</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.268964" Y="0.845620" Z="-0.476339" />
+        <BoundingMax X="0.279466" Y="4.722510" Z="0.287282" />
+        <BoundingCenter X="0.005251" Y="2.784065" Z="-0.094529" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hanged_color2</Name>
+        <File>bastionrpitems\chiemsee\hanged\hanged_color2.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-755994371</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.211542</BBRadius>
+        <BBHScale>1.010946</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.005258</XShift>
+        <YShift>0.102307</YShift>
+        <ZShift>0.016032</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.268964" Y="0.845620" Z="-0.476339" />
+        <BoundingMax X="0.279466" Y="4.722510" Z="0.287282" />
+        <BoundingCenter X="0.005251" Y="2.784065" Z="-0.094529" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hanged_color3</Name>
+        <File>bastionrpitems\chiemsee\hanged\hanged_color3.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-755994370</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.211542</BBRadius>
+        <BBHScale>1.010946</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.005258</XShift>
+        <YShift>0.102307</YShift>
+        <ZShift>0.016032</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.268964" Y="0.845620" Z="-0.476339" />
+        <BoundingMax X="0.279466" Y="4.722510" Z="0.287282" />
+        <BoundingCenter X="0.005251" Y="2.784065" Z="-0.094529" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>hanged_color4</Name>
+        <File>bastionrpitems\chiemsee\hanged\hanged_color4.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-755994369</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.211542</BBRadius>
+        <BBHScale>1.010946</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.005258</XShift>
+        <YShift>0.102307</YShift>
+        <ZShift>0.016032</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.268964" Y="0.845620" Z="-0.476339" />
+        <BoundingMax X="0.279466" Y="4.722510" Z="0.287282" />
+        <BoundingCenter X="0.005251" Y="2.784065" Z="-0.094529" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>haus</Name>
+        <File>bastionrpitems\chiemsee\haus\haus.p3d</File>
+        <Date>08/11/20 22:30:42</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>385731255</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.805858</BBRadius>
+        <BBHScale>0.529309</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.285474" Y="-0.077402" Z="-2.829215" />
+        <BoundingMax X="1.684858" Y="1.751192" Z="2.782502" />
+        <BoundingCenter X="0.199692" Y="0.836895" Z="-0.023356" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>house_holz_finish_lug</Name>
+        <File>bastionrpitems\chiemsee\hausholz\house_holz_finish_lug.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>609515901</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.146261</BBRadius>
+        <BBHScale>1.292370</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000398</XShift>
+        <YShift>-0.275358</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.861354" Y="-1.088555" Z="-4.720006" />
+        <BoundingMax X="6.856447" Y="5.510175" Z="4.202491" />
+        <BoundingCenter X="1.497547" Y="2.210810" Z="-0.258757" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Heli</Name>
+        <File>bastionrpitems\chiemsee\heli\heli.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1209200282</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.149481</BBRadius>
+        <BBHScale>0.819472</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.317218" Y="0.061366" Z="-11.981820" />
+        <BoundingMax X="8.317204" Y="5.789091" Z="8.317142" />
+        <BoundingCenter X="-0.000007" Y="2.925228" Z="-1.832339" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Heli2</Name>
+        <File>bastionrpitems\chiemsee\heli\heli2.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1421690856</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.238489</BBRadius>
+        <BBHScale>0.843009</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.798460" Y="0.061366" Z="-11.738880" />
+        <BoundingMax X="7.777804" Y="5.002593" Z="6.738099" />
+        <BoundingCenter X="-0.010328" Y="2.531979" Z="-2.500391" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Hemhof_Sign1</Name>
+        <File>bastionrpitems\chiemsee\hemhof\hemhof_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>12857924</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Hochstadt_Sign1</Name>
+        <File>bastionrpitems\chiemsee\hochstadt\hochstadt_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2133741753</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Hub_Sign1</Name>
+        <File>bastionrpitems\chiemsee\hub\hub_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1800393770</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Jolling_Sign1</Name>
+        <File>bastionrpitems\chiemsee\jolling\jolling_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1113179826</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Leuchtturm</Name>
+        <File>bastionrpitems\chiemsee\leuchtturm\leuchtturm.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1625452623</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.699280</BBRadius>
+        <BBHScale>1.000002</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.049065</XShift>
+        <YShift>0.278964</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.431943" Y="-1.820200" Z="-3.544610" />
+        <BoundingMax X="3.313323" Y="18.118502" Z="2.605782" />
+        <BoundingCenter X="0.440690" Y="8.149151" Z="-0.469414" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Bergwasser</Name>
+        <File>bastionrpitems\chiemsee\lug_water\bergwasser.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-176934577</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>19.496029</BBRadius>
+        <BBHScale>0.463047</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.027579" Y="-0.239933" Z="-19.000769" />
+        <BoundingMax X="9.027578" Y="0.657964" Z="19.991289" />
+        <BoundingCenter X="-0.000000" Y="0.209015" Z="0.495260" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>KanalWasser</Name>
+        <File>bastionrpitems\chiemsee\lug_water\kanalwasser.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2126466234</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.932392</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.932392" Y="0.000000" Z="-24.932392" />
+        <BoundingMax X="24.932392" Y="0.000000" Z="24.932392" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pfuetzenwasser</Name>
+        <File>bastionrpitems\chiemsee\lug_water\pfuetzenwasser.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1963502164</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.037468</BBRadius>
+        <BBHScale>0.652459</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.000500</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="0.112779" Y="0.000000" Z="-1.172397" />
+        <BoundingMax X="1.466591" Y="0.001000" Z="0.902539" />
+        <BoundingCenter X="0.789685" Y="0.000500" Z="-0.134929" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pfuetzenwasser_02</Name>
+        <File>bastionrpitems\chiemsee\lug_water\pfuetzenwasser_02.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1826326475</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.142567</BBRadius>
+        <BBHScale>1.141468</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.000500</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.022397" Y="0.000000" Z="-1.250155" />
+        <BoundingMax X="1.586010" Y="0.001000" Z="1.034978" />
+        <BoundingCenter X="0.281806" Y="0.000500" Z="-0.107589" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pfueze</Name>
+        <File>bastionrpitems\chiemsee\lug_water\pfueze.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>963381649</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.000000" Y="0.001000" Z="-1.000000" />
+        <BoundingMax X="1.000000" Y="0.001000" Z="1.000000" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>See</Name>
+        <File>bastionrpitems\chiemsee\lug_water\see.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>692330515</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.974546</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.974546" Y="0.000000" Z="-24.974546" />
+        <BoundingMax X="24.974546" Y="0.000000" Z="24.974546" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wasserfall</Name>
+        <File>bastionrpitems\chiemsee\lug_water\wasserfall.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1881461202</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.984146</BBRadius>
+        <BBHScale>0.830292</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.272361" Y="-7.812972" Z="-11.118618" />
+        <BoundingMax X="8.307157" Y="3.496040" Z="8.849673" />
+        <BoundingCenter X="0.017398" Y="-2.158466" Z="-1.134472" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Wasserfluss</Name>
+        <File>bastionrpitems\chiemsee\lug_water\wasserfluss.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1864509592</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.902081</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-24.902081" Y="0.000000" Z="-24.902081" />
+        <BoundingMax X="24.902081" Y="0.000000" Z="24.902081" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>maibaum</Name>
+        <File>bastionrpitems\chiemsee\maibaum\maibaum.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1927299948</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.310629</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000377</YShift>
+        <ZShift>-0.004239</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.310629" Y="-5.005000" Z="-0.311382" />
+        <BoundingMax X="0.310629" Y="14.813336" Z="0.310629" />
+        <BoundingCenter X="0.000000" Y="4.904168" Z="-0.000377" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Mauerkirchen_Sign1</Name>
+        <File>bastionrpitems\chiemsee\mauerkrichen\mauerkirchen_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-906952055</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Mittermuehle_Sign1</Name>
+        <File>bastionrpitems\chiemsee\mittermuehle\mittermuehle_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-237880094</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Mitterweg_Sign1</Name>
+        <File>bastionrpitems\chiemsee\mitterweg\mitterweg_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2121912709</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Oberleiten_Sign1</Name>
+        <File>bastionrpitems\chiemsee\oberleiten\oberleiten_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>780126818</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Oberdorf_Sign1</Name>
+        <File>bastionrpitems\chiemsee\oberndorf\oberdorf_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-953634988</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Osternach_Sign1</Name>
+        <File>bastionrpitems\chiemsee\osternach\osternach_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1331327158</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Otterkring_Sign1</Name>
+        <File>bastionrpitems\chiemsee\otterkring\otterkring_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-272553740</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Pinswang_Sign1</Name>
+        <File>bastionrpitems\chiemsee\pinswang\pinswang_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1780563466</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Prien_Sign1</Name>
+        <File>bastionrpitems\chiemsee\prien\prien_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2098455355</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rimsting_Sign1</Name>
+        <File>bastionrpitems\chiemsee\rimsting\rimsting_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-225632512</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>boot_lug</Name>
+        <File>bastionrpitems\chiemsee\segelboot\boot_lug.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>661113425</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.058917</BBRadius>
+        <BBHScale>4.722515</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.316393</XShift>
+        <YShift>0.019223</YShift>
+        <ZShift>0.001730</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.391003" Y="-0.003688" Z="-3.181086" />
+        <BoundingMax X="14.133344" Y="15.830272" Z="3.142641" />
+        <BoundingCenter X="-0.628829" Y="7.913292" Z="-0.019222" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Elektroboot</Name>
+        <File>bastionrpitems\chiemsee\segelboot\elektroboot.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1321133910</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.963953</BBRadius>
+        <BBHScale>0.315207</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.594567" Y="-0.198010" Z="-2.294909" />
+        <BoundingMax X="0.643536" Y="0.624572" Z="1.632997" />
+        <BoundingCenter X="0.024485" Y="0.213281" Z="-0.330956" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Siggenham_Sign1</Name>
+        <File>bastionrpitems\chiemsee\siggenham\siggenham_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1430940470</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Soell_Sign1</Name>
+        <File>bastionrpitems\chiemsee\soell\soell_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>527517118</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Spawnpoint_Coast</Name>
+        <File>bastionrpitems\chiemsee\spawnpoints\spawnpoint_coast.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>862902668</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Spawnpoint_Crafting</Name>
+        <File>bastionrpitems\chiemsee\spawnpoints\spawnpoint_crafting.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1151303860</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Spawnpoint_CrashSide</Name>
+        <File>bastionrpitems\chiemsee\spawnpoints\spawnpoint_crashside.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1960275564</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Spawnpoint_Industrial</Name>
+        <File>bastionrpitems\chiemsee\spawnpoints\spawnpoint_industrial.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1672713309</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Spawnpoint_Medic</Name>
+        <File>bastionrpitems\chiemsee\spawnpoints\spawnpoint_medic.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>181834780</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Spawnpoint_SoftMilitary</Name>
+        <File>bastionrpitems\chiemsee\spawnpoints\spawnpoint_softmilitary.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>835788897</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Spawnpoint_SpecialMilitary</Name>
+        <File>bastionrpitems\chiemsee\spawnpoints\spawnpoint_specialmilitary.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1180387588</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>rockfree3</Name>
+        <File>bastionrpitems\chiemsee\steine\rockfree3.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-945711646</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.870761</BBRadius>
+        <BBHScale>1.595507</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.002076</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.003510</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.580448" Y="-0.577272" Z="-1.130448" />
+        <BoundingMax X="1.202314" Y="0.677584" Z="0.611074" />
+        <BoundingCenter X="-0.189067" Y="0.050156" Z="-0.259687" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>strasenblockade</Name>
+        <File>bastionrpitems\chiemsee\street\strasenblockade.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1170955649</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.347361</BBRadius>
+        <BBHScale>8.378391</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000368</XShift>
+        <YShift>0.027546</YShift>
+        <ZShift>0.006808</ZShift>
+        <Height>0.057479</Height>
+        <BoundingMin X="-2.927058" Y="-0.026400" Z="-0.427475" />
+        <BoundingMax X="2.897696" Y="0.102174" Z="0.372798" />
+        <BoundingCenter X="-0.014681" Y="0.037887" Z="-0.027339" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Lug_en_gras1_25</Name>
+        <File>bastionrpitems\chiemsee\surface\lug_en_gras1_25.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2012774723</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.511983</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.511983" Y="-0.460479" Z="-11.511983" />
+        <BoundingMax X="11.511983" Y="0.460479" Z="11.511983" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Teisenham_Sign1</Name>
+        <File>bastionrpitems\chiemsee\teisenham\teisenham_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1742196549</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ivepup</Name>
+        <File>bastionrpitems\chiemsee\tests\ivepup.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-101454253</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.769767</BBRadius>
+        <BBHScale>0.756054</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-1.524253</XShift>
+        <YShift>-1.482576</YShift>
+        <ZShift>1.322090</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.677204" Y="0.000000" Z="-11.522610" />
+        <BoundingMax X="5.519175" Y="3.096570" Z="8.521516" />
+        <BoundingCenter X="-1.579015" Y="1.548285" Z="-1.500547" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Uebersee_Sign1</Name>
+        <File>bastionrpitems\chiemsee\uebersee\uebersee_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1606505545</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Urschalling_Sign1</Name>
+        <File>bastionrpitems\chiemsee\urschalling\urschalling_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1957887249</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Weitmoos_Sign1</Name>
+        <File>bastionrpitems\chiemsee\weitmoos\weitmoos_sign1.p3d</File>
+        <Date>08/11/20 22:30:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-177741356</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zeroy_wind_turbine</Name>
+        <File>bastionrpitems\chiemsee\wind_turbine\zeroy_wind_turbine.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1640558906</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>85.676086</BBRadius>
+        <BBHScale>0.260432</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.416704</XShift>
+        <YShift>0.090923</YShift>
+        <ZShift>-0.534882</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-26.480772" Y="-4.098512" Z="-73.638382" />
+        <BoundingMax X="19.146055" Y="237.377228" Z="99.422348" />
+        <BoundingCenter X="-3.667358" Y="116.639359" Z="12.891983" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>test</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\test.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1195757874</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_bookshelf</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_bookshelf.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1346048160</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.314052</BBRadius>
+        <BBHScale>3.020121</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.114111</YShift>
+        <ZShift>0.000900</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.022306" Y="0.245856" Z="-0.856310" />
+        <BoundingMax X="0.874644" Y="3.156848" Z="0.000015" />
+        <BoundingCenter X="-0.073831" Y="1.701352" Z="-0.428147" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_bunker_door</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_bunker_door.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1660008335</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.345137</BBRadius>
+        <BBHScale>2.545429</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000999</XShift>
+        <YShift>-0.001282</YShift>
+        <ZShift>0.001439</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.878521" Y="-0.009630" Z="-0.345665" />
+        <BoundingMax X="0.880519" Y="2.596048" Z="0.348230" />
+        <BoundingCenter X="0.000999" Y="1.293209" Z="0.001282" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_bunker_light</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_bunker_light.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>357220789</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.059020</BBRadius>
+        <BBHScale>4.485769</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.500000</YShift>
+        <ZShift>-0.934627</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.264751" Y="-0.130747" Z="-0.118040" />
+        <BoundingMax X="0.264751" Y="2.000000" Z="1.000000" />
+        <BoundingCenter X="0.000000" Y="0.934627" Z="0.440980" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_garbage_pile</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_garbage_pile.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1156722525</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.282412</BBRadius>
+        <BBHScale>0.854444</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.513525" Y="-0.000000" Z="-5.308500" />
+        <BoundingMax X="4.513526" Y="9.058641" Z="5.256324" />
+        <BoundingCenter X="0.000000" Y="4.529321" Z="-0.026088" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_grate_door</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_grate_door.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-157265945</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.088970</BBRadius>
+        <BBHScale>25.813316</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.293135" Y="-0.072989" Z="-0.102358" />
+        <BoundingMax X="2.300102" Y="4.290009" Z="0.075582" />
+        <BoundingCenter X="0.003483" Y="2.108510" Z="-0.013388" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_PlankConsturction02</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_plankconsturction02.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>870674394</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.268220</BBRadius>
+        <BBHScale>1.388999</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.752298" Y="-1.319022" Z="-3.272812" />
+        <BoundingMax X="4.326811" Y="7.814637" Z="3.263628" />
+        <BoundingCenter X="-0.212744" Y="3.247808" Z="-0.004592" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_room1</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_room1.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>864969269</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.598859</BBRadius>
+        <BBHScale>1.022109</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.023359</XShift>
+        <YShift>0.007352</YShift>
+        <ZShift>-0.127147</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.718687" Y="-0.361671" Z="-7.231864" />
+        <BoundingMax X="3.852991" Y="4.555036" Z="0.140089" />
+        <BoundingCenter X="0.067152" Y="2.096683" Z="-3.545887" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_room4</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_room4.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>864969272</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.427657</BBRadius>
+        <BBHScale>1.003895</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.188080</XShift>
+        <YShift>0.219216</YShift>
+        <ZShift>-0.171221</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.631340" Y="-0.361670" Z="-5.142179" />
+        <BoundingMax X="4.708838" Y="4.643182" Z="4.764070" />
+        <BoundingCenter X="0.038749" Y="2.140756" Z="-0.189055" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_RoomHall01</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_roomhall01.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2018466614</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.552141</BBRadius>
+        <BBHScale>1.425019</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.024384</XShift>
+        <YShift>0.030755</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.923021" Y="-0.492683" Z="-12.583490" />
+        <BoundingMax X="17.911469" Y="10.990827" Z="12.582301" />
+        <BoundingCenter X="-0.005776" Y="5.249072" Z="-0.000595" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_Tun01_ConTun02</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_tun01_contun02.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1162992287</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_Tun02_ConTun01</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_tun02_contun01.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-156721955</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.362104</BBRadius>
+        <BBHScale>1.146242</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000005</XShift>
+        <YShift>-0.007707</YShift>
+        <ZShift>-0.014063</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.079400" Y="-0.079400" Z="-4.362122" />
+        <BoundingMax X="0.079400" Y="8.650800" Z="4.377500" />
+        <BoundingCenter X="-5.000000" Y="4.285700" Z="0.007689" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_Tun02_ConTun03</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_tun02_contun03.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-156721953</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.000002</BBRadius>
+        <BBHScale>0.887097</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.039684</XShift>
+        <YShift>0.000172</YShift>
+        <ZShift>-0.014098</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.514855" Y="-0.079365" Z="-0.079368" />
+        <BoundingMax X="4.435486" Y="8.650796" Z="10.079023" />
+        <BoundingCenter X="-0.039684" Y="4.285716" Z="4.999828" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_Tun02_Curve01</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_tun02_curve01.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1049488863</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.525045</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000006</XShift>
+        <YShift>0.000041</YShift>
+        <ZShift>0.009136</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.382300" Y="-0.064600" Z="-0.064600" />
+        <BoundingMax X="12.797000" Y="8.589600" Z="17.114601" />
+        <BoundingCenter X="4.207350" Y="4.262500" Z="8.525001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_Tun02_Straight01</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_tun02_straight01.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1802524780</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.317691</BBRadius>
+        <BBHScale>1.158027</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.032000</YShift>
+        <ZShift>-0.014063</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.079400" Y="-0.079400" Z="-4.397100" />
+        <BoundingMax X="10.079400" Y="8.650800" Z="4.333100" />
+        <BoundingCenter X="5.000000" Y="4.285700" Z="-0.032000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_Tun03_ConTun02</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_tun03_contun02.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1476436195</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_Tun03_Curve</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_tun03_curve.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1651466079</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.898945</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000002</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.002063</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.077206" Y="-0.029316" Z="-0.029315" />
+        <BoundingMax X="1.779315" Y="4.016206" Z="7.827207" />
+        <BoundingCenter X="-2.148946" Y="1.993445" Z="3.898946" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_Tun03_Stair</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_tun03_stair.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1782739961</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.750001</BBRadius>
+        <BBHScale>4.201344</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000015</XShift>
+        <YShift>-0.004886</YShift>
+        <ZShift>0.002870</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.130898" Y="-7.223117" Z="-1.780257" />
+        <BoundingMax X="14.634356" Y="3.850824" Z="1.790030" />
+        <BoundingCenter X="7.251729" Y="-1.686146" Z="0.004887" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_Tun03_Straight</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_tun03_straight.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1575529430</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.047888</BBRadius>
+        <BBHScale>0.289357</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.016975</XShift>
+        <YShift>0.000013</YShift>
+        <ZShift>0.010778</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.785368" Y="-0.191820" Z="-12.131168" />
+        <BoundingMax X="1.751417" Y="3.840110" Z="0.035373" />
+        <BoundingCenter X="-0.016975" Y="1.824145" Z="-6.047898" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>zisb_Tun03_T</Name>
+        <File>bastionrpitems\chiemsee\zisb_modular_metro\zisb_tun03_t.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1142421948</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.047888</BBRadius>
+        <BBHScale>0.644679</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.001622</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.002290</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.776880" Y="-0.183324" Z="-6.074769" />
+        <BoundingMax X="6.071523" Y="3.848587" Z="6.074769" />
+        <BoundingCenter X="2.147322" Y="1.832631" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Road_Sign1</Name>
+        <File>bastionrpitems\chiemsee\Überseeschild\road_sign1.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1358559381</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.014924</BBRadius>
+        <BBHScale>19.445244</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.291169" Y="0.023392" Z="-0.018466" />
+        <BoundingMax X="0.289227" Y="1.680402" Z="0.011382" />
+        <BoundingCenter X="-0.000971" Y="0.851897" Z="-0.003542" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Eggstaett_Sign1_1</Name>
+        <File>bastionrpitems\chiemsee\eggstaett\neu\eggstaett_sign1.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1976592959</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>

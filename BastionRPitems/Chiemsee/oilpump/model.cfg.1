@@ -1,0 +1,98 @@
+class CfgSkeletons
+{
+	class Default;
+	class Ind_Oil_Pump_EP1 : Default
+	{
+		skeletonInherit = "Default";
+		skeletonBones[] =
+		{
+			"telo","",
+			"pohon","",
+			"kladivo","",
+			"tyce_dole","pohon",
+			"tyce_up","kladivo",
+			"jezditko","",
+			"lano","",
+		};
+	};
+};
+class CfgModels
+{
+	class Default;
+	class Ind_Oil_Pump_EP1
+	{
+		skeletonName = "Ind_Oil_Pump_EP1";
+		sections[]={"damT1"};
+		sectionsInherit = "";
+		class Animations
+		{
+			class Vez_ropa_anim1_0
+			{
+				type = "rotation";
+				source="user";
+				sourceAddress = "loop";
+				selection = "tyce_dole";
+				axis = "osa_tyce_1";
+				angle0 = "rad (90+15)";
+				angle1 = "rad (-270+15)";
+				maxValue=LOOPTIME*2;
+			};
+			class Vez_ropa_anim1_1:Vez_ropa_anim1_0
+			{
+				angle0 = "rad 0";
+				angle1 = "rad -35";
+				sourceAddress = "mirror";
+				minValue=0.5*LOOPTIME;
+				maxValue=1.5*LOOPTIME;
+			};
+			class Vez_ropa_anim1_2:Vez_ropa_anim1_1
+			{
+				angle1 = "rad -10";
+				angle0 = "rad 45";
+				sourceAddress = "mirror";
+				selection = "tyce_up";
+				axis = "osa_tyce_2";
+				minValue=-0.20*LOOPTIME;
+				maxValue=0.80*LOOPTIME;
+			};
+			class Kladivo
+			{
+				type = "rotation";
+				source="user";
+				sourceAddress = "mirror";
+				selection = "kladivo";
+				axis = "osa_kladivo";
+				angle0 = "(rad -19)";
+				angle1 = "(rad 18)";
+				maxValue=LOOPTIME;
+			};
+			class Pohon
+			{
+				type = "rotation";
+				source="user";
+				sourceAddress = "loop";
+				selection = "pohon";
+				axis = "osa_pohon";
+				angle0 = "rad -90";
+				angle1 = "rad 270";
+				minValue=0.1*LOOPTIME;
+				maxValue=2.1*LOOPTIME;
+			};
+			class Jezditko1
+			{
+				type="translation";
+				source="user";
+				selection="jezditko";
+				axis = "osa_lano";
+				sourceAddress = "mirror";
+				offset0 = 0.25 ;
+				offset1 = -0.25;
+				maxValue=LOOPTIME;
+			};
+		};
+	};
+	class Ind_Oil_Tower_EP1: Default
+	{
+		sections[]={"damT1"};
+	};
+};

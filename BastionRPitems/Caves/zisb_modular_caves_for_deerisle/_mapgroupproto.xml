@@ -1,0 +1,251 @@
+			<group name="zisb_di_large_cave_90_bend_1" lootmax="2">
+				<usage name="Police" />
+				<usage name="Military" />
+				<usage name="Village" />
+				<usage name="Town" />
+				<usage name="School" />
+				<usage name="Hunting" />
+				<usage name="Farm" />
+				<usage name="Office" />
+				<usage name="Industrial" />
+				<usage name="Coast" />		
+				<usage name="Mine" />
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<point pos="-0.145 4.677 5.852" range="0.387367" height="0.181305" />
+						<point pos="6.695 4.677 -0.118" range="0.156253" height="0.177795" />
+						<point pos="0.840 4.677 0.752" range="0.156253" height="0.177795" />
+				</container>
+			</group>
+			
+			<group name="zisb_di_large_cave_cross_1" lootmax="2">
+				<usage name="Police" />
+				<usage name="Military" />
+				<usage name="Village" />
+				<usage name="Town" />
+				<usage name="School" />
+				<usage name="Hunting" />
+				<usage name="Farm" />
+				<usage name="Office" />
+				<usage name="Industrial" />
+				<usage name="Coast" />		
+				<usage name="Mine" />
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<point pos="-11.286 4.712 1.372" range="0.387367" height="0.181305" />
+						<point pos="-0.220 4.712 1.189" range="0.156253" height="0.177795" />
+						<point pos="0.055 4.712 14.358" range="0.387367" height="0.181305" />
+						<point pos="11.944 4.712 1.829" range="0.156253" height="0.177795" />
+						<point pos="-0.220 4.712 -10.792" range="0.387367" height="0.181305" />
+				</container>
+			</group>
+			
+			<group name="zisb_di_large_cave_end_1" lootmax="2">
+				<usage name="Police" />
+				<usage name="Military" />
+				<usage name="Village" />
+				<usage name="Town" />
+				<usage name="School" />
+				<usage name="Hunting" />
+				<usage name="Farm" />
+				<usage name="Office" />
+				<usage name="Industrial" />
+				<usage name="Coast" />		
+				<usage name="Mine" />
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<point pos="" range="0.387367" height="0.181305" />
+						<point pos="-2.485 4.821 4.421" range="0.156253" height="0.177795" />
+						<point pos="2.096 4.821 3.298"  range="0.156253" height="0.177795" />
+						<point pos="-0.497 4.821 1.872"  range="0.156253" height="0.177795" />
+				</container>
+			</group>
+			
+			<group name="zisb_di_large_cave_hall_1" lootmax="2">
+				<usage name="Police" />
+				<usage name="Military" />
+				<usage name="Village" />
+				<usage name="Town" />
+				<usage name="School" />
+				<usage name="Hunting" />
+				<usage name="Farm" />
+				<usage name="Office" />
+				<usage name="Industrial" />
+				<usage name="Coast" />		
+				<usage name="Mine" />
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<point pos="-4.854 4.749 -13.159" range="0.387367" height="0.181305" />
+						<point pos="5.417 4.749 -12.597" range="0.156253" height="0.177795" />
+						<point pos="4.995 4.749 2.035"  range="0.156253" height="0.177795" />
+						<point pos="-6.261 4.749 1.472" range="0.387367" height="0.181305" />
+						<point pos="-6.964 4.749 16.104" range="0.156253" height="0.177795" />
+						<point pos="7.386 4.749 16.667"  range="0.156253" height="0.177795" />
+				</container>
+			</group>
+			
+			<group name="zisb_di_large_cave_short_1" lootmax="2">
+				<usage name="Police" />
+				<usage name="Military" />
+				<usage name="Village" />
+				<usage name="Town" />
+				<usage name="School" />
+				<usage name="Hunting" />
+				<usage name="Farm" />
+				<usage name="Office" />
+				<usage name="Industrial" />
+				<usage name="Coast" />		
+				<usage name="Mine" />
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<point pos="-0.332 5.108 -14.066" range="0.387367" height="0.181305" />
+						<point pos="0.730 5.108 -1.592" range="0.156253" height="0.177795" />
+						<point pos="-1.791 5.108 7.696"  range="0.156253" height="0.177795" />
+				</container>
+			</group>
+			
+			<group name="zisb_di_small_cave_90_bend_1" lootmax="2">
+				<usage name="Police" />
+				<usage name="Military" />
+				<usage name="Village" />
+				<usage name="Town" />
+				<usage name="School" />
+				<usage name="Hunting" />
+				<usage name="Farm" />
+				<usage name="Office" />
+				<usage name="Industrial" />
+				<usage name="Coast" />		
+				<usage name="Mine" />
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<point pos="1.919 1.610 -0.949" range="0.387367" height="0.181305" />
+						<point pos="0.927 1.610 0.749" range="0.156253" height="0.177795" />
+						<point pos="-0.770 1.610 1.689" range="0.156253" height="0.177795" />
+				</container>
+			</group>
+			
+			<group name="zisb_di_small_cave_cross_1" lootmax="2">
+				<usage name="Police" />
+				<usage name="Military" />
+				<usage name="Village" />
+				<usage name="Town" />
+				<usage name="School" />
+				<usage name="Hunting" />
+				<usage name="Farm" />
+				<usage name="Office" />
+				<usage name="Industrial" />
+				<usage name="Coast" />		
+				<usage name="Mine" />
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<point pos="-4.045 1.695 0.418" range="0.387367" height="0.181305" />
+						<point pos="-0.058 1.695 0.231" range="0.156253" height="0.177795" />
+						<point pos="3.719 1.695 0.301" range="0.387367" height="0.181305" />
+						<point pos="-0.012 1.695 4.918" range="0.156253" height="0.177795" />
+						<point pos="0.035 1.695 -3.383" range="0.387367" height="0.181305" />
+				</container>
+			</group>
+			
+			<group name="zisb_di_small_cave_end_1" lootmax="2">
+				<usage name="Police" />
+				<usage name="Military" />
+				<usage name="Village" />
+				<usage name="Town" />
+				<usage name="School" />
+				<usage name="Hunting" />
+				<usage name="Farm" />
+				<usage name="Office" />
+				<usage name="Industrial" />
+				<usage name="Coast" />		
+				<usage name="Mine" />
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<point pos="" range="0.387367" height="0.181305" />
+						<point pos="0.455 1.719 0.095" range="0.156253" height="0.177795" />
+						<point pos="-0.758 1.719 0.282"  range="0.156253" height="0.177795" />
+						<point pos="0.058 1.719 1.028"  range="0.156253" height="0.177795" />
+				</container>
+			</group>
+			
+			<group name="zisb_di_small_cave_hall_1" lootmax="2">
+				<usage name="Police" />
+				<usage name="Military" />
+				<usage name="Village" />
+				<usage name="Town" />
+				<usage name="School" />
+				<usage name="Hunting" />
+				<usage name="Farm" />
+				<usage name="Office" />
+				<usage name="Industrial" />
+				<usage name="Coast" />		
+				<usage name="Mine" />
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<point pos="-1.635 1.888 -4.739" range="0.387367" height="0.181305" />
+						<point pos="1.702 1.888 -3.671" range="0.156253" height="0.177795" />
+						<point pos="-2.036 1.888 0.334"  range="0.156253" height="0.177795" />
+						<point pos="2.903 1.888 2.870" range="0.387367" height="0.181305" />
+						<point pos="-2.369 1.888 5.873" range="0.156253" height="0.177795" />
+						<point pos="1.969 1.888 6.674"  range="0.156253" height="0.177795" />
+				</container>
+			</group>
+			
+			<group name="zisb_di_small_cave_short_1" lootmax="2">
+				<usage name="Police" />
+				<usage name="Military" />
+				<usage name="Village" />
+				<usage name="Town" />
+				<usage name="School" />
+				<usage name="Hunting" />
+				<usage name="Farm" />
+				<usage name="Office" />
+				<usage name="Industrial" />
+				<usage name="Coast" />
+				<usage name="Mine" />				
+				<container name="lootFloor" lootmax="2">
+						<category name="tools" />
+						<category name="containers" />
+						<category name="clothes" />
+						<category name="weapons" />
+						<tag name="floor" />
+						<point pos="0.170 1.695 -4.533" range="0.387367" height="0.181305" />
+						<point pos="-0.434 1.695 -0.682" range="0.156253" height="0.177795" />
+						<point pos="0.208 1.695 3.508"  range="0.156253" height="0.177795" />
+				</container>
+			</group>

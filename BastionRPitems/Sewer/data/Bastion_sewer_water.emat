@@ -1,0 +1,31 @@
+MatWaterPool {
+ AlbedoMap "{C526FB3793F2C7B4}graphics/Textures/Water/algae.edds" 
+ Color 0.2196 0.2196 0.2196 1
+ Diffuse 0.2235 0.3216 0.2392 1
+ Emissive 0.3216 0.5922 0.2549 0
+ ReceiveShadow 1
+ DisableFog 1
+ DepthScattering 0.9
+ NormalMap "{54FEC9125F62E883}BastionRPitems/Sewer/data/enoch_pond_nohq.edds" 
+ NormalPower 12.3
+ NormalMapping 0.05
+ SunPower 2
+ SunInfluence 0
+ WaterExtinction 0.7
+ GeometryBlend 1
+ RefractScale 0.03
+ ChromAberation 0.168
+ CausticMap "{EA764AD7A6112284}graphics/Textures/Water/caustic.edds" 
+ Caustic 0.5
+ WetFloor 0.65
+ EnvironmentMap "{E2831F44577136E4}BastionRPitems/Sewer/data/env_bathroom_co.edds" 
+ FresnelRange 0.25
+ "Enable effect" 1
+ FoamMap "{A3B149218D8C5200}graphics/Textures/Water/foam.edds" 
+ FoamTerrainBlend 0.5
+ FoamPower 0.5
+ WaterStreamMap "{7A9D527477F99788}graphics/Textures/Water/streams_flowmap.edds" 
+ StreamSpeedInfl 0.5
+ StreamNormalSpeedInfl 0.5
+ StreamNormalPower 1
+}

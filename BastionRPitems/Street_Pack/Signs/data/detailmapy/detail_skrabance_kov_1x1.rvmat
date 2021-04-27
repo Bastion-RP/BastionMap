@@ -1,0 +1,29 @@
+////////////////////////////////////////////////////////////////////
+//DeRap: buildings\Data\DetailMapy\detail_skrabance_kov_1x1.rvmat
+//Produced from mikero's Dos Tools Dll version 7.25
+//https://armaservices.maverick-applications.com/Products/MikerosDosTools/default
+//'now' is Tue Jul 02 23:24:44 2019 : 'file' last modified on Tue Sep 29 09:14:06 2009
+////////////////////////////////////////////////////////////////////
+
+#define _ARMA_
+
+ambient[] = {1,1,1,1};
+diffuse[] = {1,1,1,1};
+forcedDiffuse[] = {0,0,0,0};
+emmisive[] = {0,0,0,1};
+specular[] = {0.15,0.15,0.1,1};
+specularPower = 28.3;
+PixelShaderID = "Detail";
+VertexShaderID = "Basic";
+class Stage1
+{
+	texture = "BastionRPitems\Street_Pack\Signs\data\detailmapy\skrabance2_detail.paa";
+	uvSource = "tex";
+	class uvTransform
+	{
+		aside[] = {3,0,0};
+		up[] = {0,3,0};
+		dir[] = {0,0,0};
+		pos[] = {0,0,0};
+	};
+};

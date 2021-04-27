@@ -1,0 +1,28 @@
+MatWaterPool {
+ Color 0.17412 0.18 0.19059 0.002
+ Diffuse 1 0.3922 1 1
+ Emissive 1 1 1 0
+ ZWrite 0
+ NormalMap "{DE3C572EA3CEAE70}BastionRPitems/Chiemsee/lug_water/textures/enoch_pond_nohq.edds" 
+ NormalPower 12.3
+ NormalMapping 0.01
+ SunPower 200
+ SunInfluence 0.2
+ WaterExtinction 40
+ GeometryBlend 15
+ RefractScale 0.03
+ ChromAberation 0.168
+ WindInfl 0
+ CausticMap "{EA764AD7A6112284}graphics/textures/water/caustic.edds" 
+ Caustic 0.5
+ WetFloor 0.75
+ EnvironmentMap "{794D45F412742AFD}BastionRPitems/Chiemsee/lug_water/textures/enoch_pond_env_co.edds" 
+ ReflectionColor 0.66 0.784 1 0.6
+ FresnelRange 0.25
+ "Enable effect" 1
+ WaterStreamMap "{7A9D527477F99788}graphics/textures/water/streams_flowmap.edds" 
+ StreamSpeedInfl 0.05
+ StreamNormalPower 75
+ StreamNormalSpeedInfl 0.3
+ DepthScattering 0
+}

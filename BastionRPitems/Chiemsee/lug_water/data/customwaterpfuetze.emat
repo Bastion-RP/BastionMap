@@ -1,0 +1,24 @@
+MatWaterPool {
+ Color 0.16 0.1451 0.0614 1
+ ZWrite 0
+ DepthScattering 0.8
+ NormalMap "{00043BD4DA5F1244}Graphics/Textures/Water/dayzwater1_no.edds"
+ NormalPower 0.05
+ NormalMapping 0.05
+ SunPower 500
+ SunInfluence 5
+ SunNormalMul 0.643
+ WaterExtinction 0.35
+ GeometryBlend 0
+ RefractScale 0.5
+ ChromAberation 0.168
+ WindInfl 0.4
+ CausticMap "{EA764AD7A6112284}graphics/textures/water/caustic.edds" 
+ Caustic 0.2
+ WetFloor 0.90
+ EnvironmentMap "dz/water_bliss/ponds/data/enoch_pond_env_co.edds" 
+ ReflectionColor 0.2 0.4 0.2 0
+ FresnelRange 1.9
+ "Enable effect" 1
+
+}

@@ -1,0 +1,3237 @@
+<?xml version="1.0" ?>
+<Library name="Custom" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>fishing_boat</Name>
+        <File>bastionrpitems\vehicles\fishing_boat.p3d</File>
+        <Date>08/11/20 22:30:54</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-905727083</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.025725</BBRadius>
+        <BBHScale>0.337335</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000005</XShift>
+        <YShift>-0.074342</YShift>
+        <ZShift>0.006987</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.405110" Y="-0.876383" Z="-7.076400" />
+        <BoundingMax X="2.402560" Y="9.190350" Z="7.123734" />
+        <BoundingCenter X="-0.001275" Y="4.156983" Z="0.023667" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RHIB</Name>
+        <File>bastionrpitems\vehicles\rhib.p3d</File>
+        <Date>08/11/20 22:30:54</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>183258031</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.786627</BBRadius>
+        <BBHScale>0.346786</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.114055</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.659934" Y="-0.701573" Z="-4.496881" />
+        <BoundingMax X="1.659934" Y="3.713342" Z="5.076372" />
+        <BoundingCenter X="-0.000000" Y="1.505885" Z="0.289746" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>blastwall_1</Name>
+        <File>bastionrpitems\blastwall\blastwall_1.p3d</File>
+        <Date>08/11/20 22:30:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1105161684</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.750000</BBRadius>
+        <BBHScale>0.761453</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.002951</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.571089" Y="-0.006880" Z="-0.750000" />
+        <BoundingMax X="0.571089" Y="3.750977" Z="0.750000" />
+        <BoundingCenter X="0.000000" Y="1.872049" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>blastwall_1_damaged</Name>
+        <File>bastionrpitems\blastwall\blastwall_1_damaged.p3d</File>
+        <Date>08/11/20 22:30:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-569073430</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.749879</BBRadius>
+        <BBHScale>0.761575</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000116</YShift>
+        <ZShift>0.002565</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.571089" Y="-0.006880" Z="-0.750000" />
+        <BoundingMax X="0.571089" Y="3.750977" Z="0.750000" />
+        <BoundingCenter X="0.000000" Y="1.872049" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>blastwall_1_destroyed</Name>
+        <File>bastionrpitems\blastwall\blastwall_1_destroyed.p3d</File>
+        <Date>08/11/20 22:30:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1320877294</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.748813</BBRadius>
+        <BBHScale>0.762659</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000496</YShift>
+        <ZShift>0.003440</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.571089" Y="-0.006880" Z="-0.750000" />
+        <BoundingMax X="0.571089" Y="2.777969" Z="0.750000" />
+        <BoundingCenter X="0.000000" Y="1.385544" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>blastwall_1line</Name>
+        <File>bastionrpitems\blastwall\blastwall_1line.p3d</File>
+        <Date>08/11/20 22:30:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1139564088</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.750000</BBRadius>
+        <BBHScale>0.761453</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.002951</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.571089" Y="-0.006880" Z="-0.750000" />
+        <BoundingMax X="0.571089" Y="3.750977" Z="0.750000" />
+        <BoundingCenter X="0.000000" Y="1.872049" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_barrier1</Name>
+        <File>bastionrpitems\street_pack\barrier\bastionrp_barrier1.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1100727149</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.257975</BBRadius>
+        <BBHScale>10.439812</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.002769</YShift>
+        <ZShift>-0.000083</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.235060" Y="-0.000299" Z="-0.267999" />
+        <BoundingMax X="5.151367" Y="1.519933" Z="0.253488" />
+        <BoundingCenter X="2.458154" Y="0.759817" Z="-0.007255" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_ArrowBoardTrailer2_nolights</Name>
+        <File>bastionrpitems\street_pack\arrowboardtrailer2\bastionrp_arrowboardtrailer2_nolights.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-569907576</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.365922</BBRadius>
+        <BBHScale>0.932611</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.001971</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.681163</Height>
+        <BoundingMin X="-1.273875" Y="-0.000019" Z="-1.369861" />
+        <BoundingMax X="1.273875" Y="3.362307" Z="1.365924" />
+        <BoundingCenter X="-0.000000" Y="1.681144" Z="-0.001968" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_ArrowBoardTrailer2_l</Name>
+        <File>bastionrpitems\street_pack\arrowboardtrailer2\bastionrp_arrowboardtrailer2_l.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1553614498</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.365922</BBRadius>
+        <BBHScale>0.932611</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.001971</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.273875" Y="-0.000019" Z="-1.369861" />
+        <BoundingMax X="1.273875" Y="3.362307" Z="1.365924" />
+        <BoundingCenter X="-0.000000" Y="1.681144" Z="-0.001968" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_ArrowBoardTrailer2_r</Name>
+        <File>bastionrpitems\street_pack\arrowboardtrailer2\bastionrp_arrowboardtrailer2_r.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1553614504</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.365922</BBRadius>
+        <BBHScale>0.932611</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.001971</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.273875" Y="-0.000019" Z="-1.369861" />
+        <BoundingMax X="1.273875" Y="3.362307" Z="1.365924" />
+        <BoundingCenter X="-0.000000" Y="1.681144" Z="-0.001968" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_FenceChainlink</Name>
+        <File>bastionrpitems\street_pack\fencechainlink\bastionrp_fencechainlink.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2131243651</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.025072</BBRadius>
+        <BBHScale>56.511585</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000265</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.000798</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.251053" Y="0.003343" Z="-0.006561" />
+        <BoundingMax X="1.583161" Y="1.624607" Z="0.044455" />
+        <BoundingCenter X="0.166054" Y="0.813975" Z="0.018947" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_IronFencePrefab</Name>
+        <File>bastionrpitems\street_pack\ironfenceprefab\bastionrp_ironfenceprefab.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-697318412</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.272371</BBRadius>
+        <BBHScale>4.708694</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000030</YShift>
+        <ZShift>0.000641</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.282510" Y="-0.000681" Z="-0.272430" />
+        <BoundingMax X="1.282509" Y="1.058243" Z="0.272371" />
+        <BoundingCenter X="-0.000000" Y="0.528781" Z="-0.000030" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_TrafficCylinder</Name>
+        <File>bastionrpitems\street_pack\trafficcylinder\bastionrp_trafficcylinder.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1099202394</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.367131</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.001590</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.367131" Y="-0.000000" Z="-0.367131" />
+        <BoundingMax X="0.367131" Y="1.052120" Z="0.367131" />
+        <BoundingCenter X="0.000000" Y="0.526060" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_ConcreteObstacleFence</Name>
+        <File>bastionrpitems\street_pack\concreteobstaclefence\bastionrp_concreteobstaclefence.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1609782244</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.161421</BBRadius>
+        <BBHScale>6.972663</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.002143</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.125534" Y="-0.005381" Z="-0.161422" />
+        <BoundingMax X="1.125534" Y="2.601034" Z="0.161419" />
+        <BoundingCenter X="0.000000" Y="1.297827" Z="-0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_TrafficCone2</Name>
+        <File>bastionrpitems\street_pack\trafficcone2\bastionrp_trafficcone2.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-91324437</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.246038</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.246038" Y="-0.000000" Z="-0.246038" />
+        <BoundingMax X="0.246038" Y="0.713772" Z="0.246038" />
+        <BoundingCenter X="0.000000" Y="0.356886" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_police_barrier</Name>
+        <File>bastionrpitems\street_pack\policebarrier\bastionrp_police_barrier.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-915111121</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.348234</BBRadius>
+        <BBHScale>4.950899</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.757607" Y="-0.000197" Z="-0.348059" />
+        <BoundingMax X="1.690539" Y="0.882350" Z="0.348410" />
+        <BoundingCenter X="-0.033534" Y="0.441076" Z="0.000176" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_maingates</Name>
+        <File>bastionrpitems\maingates\bastionrp_maingates.p3d</File>
+        <Date>08/11/20 22:30:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>140596726</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.111051</BBRadius>
+        <BBHScale>17.168402</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.008798</XShift>
+        <YShift>0.001243</YShift>
+        <ZShift>0.061627</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.978755" Y="-0.500000" Z="-0.129746" />
+        <BoundingMax X="1.935997" Y="2.048197" Z="0.155281" />
+        <BoundingCenter X="-0.021379" Y="0.774099" Z="0.012767" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_hugewall</Name>
+        <File>bastionrpitems\hugewall\bastionrp_hugewall.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1856058254</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.514980</BBRadius>
+        <BBHScale>3.394383</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.001961</XShift>
+        <YShift>0.002397</YShift>
+        <ZShift>0.000717</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.748353" Y="-0.038465" Z="-0.843570" />
+        <BoundingMax X="1.751647" Y="2.587969" Z="0.191185" />
+        <BoundingCenter X="0.001647" Y="1.274752" Z="-0.326193" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_hugewall_NoLC</Name>
+        <File>bastionrpitems\hugewall\bastionrp_hugewall_nolc.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-144956055</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.514980</BBRadius>
+        <BBHScale>3.394383</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.001961</XShift>
+        <YShift>0.002397</YShift>
+        <ZShift>0.000717</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.748353" Y="-0.038465" Z="-0.843570" />
+        <BoundingMax X="1.751647" Y="2.587969" Z="0.191185" />
+        <BoundingCenter X="0.001647" Y="1.274752" Z="-0.326193" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_ConcreteObstacleFence_NoLC</Name>
+        <File>bastionrpitems\street_pack\concreteobstaclefence\bastionrp_concreteobstaclefence_nolc.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1805299859</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.161421</BBRadius>
+        <BBHScale>6.972663</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.002143</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.125534" Y="-0.005381" Z="-0.161422" />
+        <BoundingMax X="1.125534" Y="2.601034" Z="0.161419" />
+        <BoundingCenter X="0.000000" Y="1.297827" Z="-0.000001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_straight_16m</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_straight_16m.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1790720471</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.061985</BBRadius>
+        <BBHScale>0.743919</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.004251</YShift>
+        <ZShift>0.038687</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000804" Y="-1.238983" Z="-8.010469" />
+        <BoundingMax X="5.994123" Y="6.362490" Z="8.126799" />
+        <BoundingCenter X="-0.003340" Y="2.561753" Z="0.058165" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_T</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_t.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1351987694</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.000048</BBRadius>
+        <BBHScale>0.784879</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.013608</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.021913</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000804" Y="-1.238983" Z="-8.998152" />
+        <BoundingMax X="8.154310" Y="6.362490" Z="9.001943" />
+        <BoundingCenter X="1.076753" Y="2.561753" Z="0.001895" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_T_nopillar</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_t_nopillar.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1144236092</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.062201</BBRadius>
+        <BBHScale>0.798250</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.013608</XShift>
+        <YShift>-0.007766</YShift>
+        <ZShift>0.021913</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.744202" Y="-1.238983" Z="-8.002574" />
+        <BoundingMax X="8.154310" Y="6.254693" Z="8.142483" />
+        <BoundingCenter X="1.705054" Y="2.507854" Z="0.069954" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_straight_16m_nopillar</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_straight_16m_nopillar.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1389274943</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.002565</BBRadius>
+        <BBHScale>0.749443</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.005116</YShift>
+        <ZShift>0.038687</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000804" Y="-1.238983" Z="-8.010469" />
+        <BoundingMax X="5.994123" Y="6.362490" Z="8.006230" />
+        <BoundingCenter X="-0.003340" Y="2.561753" Z="-0.002120" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_water</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_water.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1391409457</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.998168</BBRadius>
+        <BBHScale>0.311525</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.480314" Y="-0.239369" Z="-8.000520" />
+        <BoundingMax X="2.502946" Y="-0.239369" Z="7.995816" />
+        <BoundingCenter X="0.011316" Y="-0.239369" Z="-0.002352" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_X</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_x.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1351987698</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.122891</BBRadius>
+        <BBHScale>1.000093</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.018675</XShift>
+        <YShift>-0.004715</YShift>
+        <ZShift>0.038687</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.122891" Y="-1.238983" Z="-8.133053" />
+        <BoundingMax X="8.161751" Y="6.362490" Z="8.142483" />
+        <BoundingCenter X="0.019430" Y="2.561753" Z="0.004715" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_X_nopillar</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_x_nopillar.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>160346424</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.021463</BBRadius>
+        <BBHScale>0.997324</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.009899</XShift>
+        <YShift>-0.006002</YShift>
+        <ZShift>0.038687</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.000000" Y="-1.238983" Z="-8.042928" />
+        <BoundingMax X="8.019797" Y="6.362490" Z="8.012004" />
+        <BoundingCenter X="0.009899" Y="2.561753" Z="-0.015462" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_water_long</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_water_long.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>614779498</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>48.907993</BBRadius>
+        <BBHScale>0.054843</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.000890</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.664948" Y="-0.239369" Z="-48.935810" />
+        <BoundingMax X="2.699539" Y="-0.237588" Z="48.880177" />
+        <BoundingCenter X="0.017295" Y="-0.238479" Z="-0.027817" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_cap_door_left</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_cap_door_left.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>142245573</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.201557</BBRadius>
+        <BBHScale>1.483181</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.749501" Y="-1.217239" Z="-4.198615" />
+        <BoundingMax X="4.747475" Y="6.246667" Z="2.204499" />
+        <BoundingCenter X="-0.001013" Y="2.514714" Z="-0.997058" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_catwalk</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_catwalk.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1999687545</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.715777</BBRadius>
+        <BBHScale>3.138716</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.003146</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.022128</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.252911" Y="-1.216128" Z="-0.715777" />
+        <BoundingMax X="2.246619" Y="1.114820" Z="0.715777" />
+        <BoundingCenter X="-0.003146" Y="-0.050654" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_side_door</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_side_door.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1744988240</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.061985</BBRadius>
+        <BBHScale>0.743919</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000303</YShift>
+        <ZShift>0.038687</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000804" Y="-1.238983" Z="-8.002574" />
+        <BoundingMax X="5.994123" Y="6.362490" Z="8.126799" />
+        <BoundingCenter X="-0.003340" Y="2.561753" Z="0.062112" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_side_door_right</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_side_door_right.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1702316653</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.061985</BBRadius>
+        <BBHScale>0.743919</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.001503</YShift>
+        <ZShift>0.038687</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000804" Y="-1.238983" Z="-8.002574" />
+        <BoundingMax X="5.994123" Y="6.362490" Z="8.124400" />
+        <BoundingCenter X="-0.003340" Y="2.561753" Z="0.060913" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_small_6m</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_small_6m.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-933876203</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.037197</BBRadius>
+        <BBHScale>3.797698</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.021143</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.037227</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.011067" Y="-0.196721" Z="-1.029225" />
+        <BoundingMax X="4.006604" Y="3.065770" Z="1.045169" />
+        <BoundingCenter X="-0.002232" Y="1.434525" Z="0.007972" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_room</Name>
+        <File>bastionrpitems\sewer\room\bastionrp_sewer_room.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1371106209</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.249393</BBRadius>
+        <BBHScale>1.445813</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.078885</XShift>
+        <YShift>-0.179356</YShift>
+        <ZShift>-0.119897</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.972754" Y="-1.133548" Z="-8.372427" />
+        <BoundingMax X="12.130523" Y="4.321931" Z="8.571908" />
+        <BoundingCenter X="0.078885" Y="1.594192" Z="0.099741" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_exit</Name>
+        <File>bastionrpitems\sewer\exit\bastionrp_sewer_exit.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-112632828</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.737374</BBRadius>
+        <BBHScale>1.342356</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.002029</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.858407" Y="-1.191446" Z="-3.714943" />
+        <BoundingMax X="5.175362" Y="7.827585" Z="3.763864" />
+        <BoundingCenter X="0.158478" Y="3.318070" Z="0.024460" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Billboard_Ad_1</Name>
+        <File>bastionrpitems\street_pack\signs\billboard_ad_1.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1391638411</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.591950</BBRadius>
+        <BBHScale>5.067992</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.000000" Y="-0.000001" Z="-0.050001" />
+        <BoundingMax X="3.000000" Y="4.500000" Z="1.133900" />
+        <BoundingCenter X="0.000000" Y="2.250000" Z="0.541950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_cap_nodoor</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_cap_nodoor.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>712254690</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.484873</BBRadius>
+        <BBHScale>3.001286</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.004251</XShift>
+        <YShift>-0.144135</YShift>
+        <ZShift>0.068219</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.745281" Y="-1.160318" Z="-1.053517" />
+        <BoundingMax X="4.740510" Y="6.080538" Z="2.204499" />
+        <BoundingCenter X="-0.002385" Y="2.460110" Z="0.575491" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_concrete_wall</Name>
+        <File>bastionrpitems\concretewall\military_concrete_wall.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1590939854</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.050709</BBRadius>
+        <BBHScale>0.122791</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.003443</XShift>
+        <YShift>0.000549</YShift>
+        <ZShift>0.007115</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.523719" Y="-0.014230" Z="-5.789447" />
+        <BoundingMax X="0.232363" Y="4.580268" Z="0.315674" />
+        <BoundingCenter X="-0.145678" Y="2.283019" Z="-2.736887" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_concrete_wall2</Name>
+        <File>bastionrpitems\concretewall\military_concrete_wall2.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-653156992</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.050706</BBRadius>
+        <BBHScale>0.122791</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.003443</XShift>
+        <YShift>0.000551</YShift>
+        <ZShift>0.007115</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.523719" Y="-0.014230" Z="-5.789447" />
+        <BoundingMax X="0.232363" Y="4.580268" Z="0.315674" />
+        <BoundingCenter X="-0.145678" Y="2.283019" Z="-2.736887" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_concrete_wall3</Name>
+        <File>bastionrpitems\concretewall\military_concrete_wall3.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-653156991</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.050706</BBRadius>
+        <BBHScale>0.122791</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.003443</XShift>
+        <YShift>0.000551</YShift>
+        <ZShift>0.007115</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.523719" Y="-0.014230" Z="-5.789447" />
+        <BoundingMax X="0.232363" Y="4.580268" Z="0.315674" />
+        <BoundingCenter X="-0.145678" Y="2.283019" Z="-2.736887" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_concrete_wall4</Name>
+        <File>bastionrpitems\concretewall\military_concrete_wall4.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-653156990</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.490756</BBRadius>
+        <BBHScale>0.136366</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000521</YShift>
+        <ZShift>0.005692</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.418975" Y="-0.011384" Z="-4.730015" />
+        <BoundingMax X="0.260334" Y="3.664214" Z="0.252539" />
+        <BoundingCenter X="-0.079321" Y="1.826415" Z="-2.238738" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_concrete_wall5</Name>
+        <File>bastionrpitems\concretewall\military_concrete_wall5.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-653156989</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.055456</BBRadius>
+        <BBHScale>0.677806</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000651</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.004869" Y="-0.034369" Z="-5.796541" />
+        <BoundingMax X="2.137145" Y="4.580268" Z="0.315674" />
+        <BoundingCenter X="0.066138" Y="2.272950" Z="-2.740434" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_concrete_wall2_b</Name>
+        <File>bastionrpitems\concretewall\military_concrete_wall2_b.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-277220029</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.892807</BBRadius>
+        <BBHScale>0.129493</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.003443</XShift>
+        <YShift>0.158451</YShift>
+        <ZShift>0.007115</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.523719" Y="-0.014230" Z="-5.789447" />
+        <BoundingMax X="0.232363" Y="4.580268" Z="0.315674" />
+        <BoundingCenter X="-0.145678" Y="2.283019" Z="-2.736887" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_concrete_wall3_b</Name>
+        <File>bastionrpitems\concretewall\military_concrete_wall3_b.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-268958524</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.895906</BBRadius>
+        <BBHScale>0.129354</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.003443</XShift>
+        <YShift>0.155352</YShift>
+        <ZShift>0.007115</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.523719" Y="-0.014230" Z="-5.789447" />
+        <BoundingMax X="0.232363" Y="4.580268" Z="0.315674" />
+        <BoundingCenter X="-0.145678" Y="2.283019" Z="-2.736887" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_concrete_wall4_b</Name>
+        <File>bastionrpitems\concretewall\military_concrete_wall4_b.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-260697019</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.958083</BBRadius>
+        <BBHScale>0.131473</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.093175</YShift>
+        <ZShift>0.007115</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.452397" Y="-0.014230" Z="-5.789447" />
+        <BoundingMax X="0.325418" Y="4.479179" Z="0.315674" />
+        <BoundingCenter X="-0.063489" Y="2.232475" Z="-2.736887" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_concrete_wall5_b</Name>
+        <File>bastionrpitems\concretewall\military_concrete_wall5_b.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-252435514</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.898315</BBRadius>
+        <BBHScale>0.714555</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.152942</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.004869" Y="-0.034369" Z="-5.789447" />
+        <BoundingMax X="2.137145" Y="4.580268" Z="0.315674" />
+        <BoundingCenter X="0.066138" Y="2.272950" Z="-2.736887" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>military_concrete_wall_b</Name>
+        <File>bastionrpitems\concretewall\military_concrete_wall_b.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>151178741</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.892826</BBRadius>
+        <BBHScale>0.129492</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.003443</XShift>
+        <YShift>0.158432</YShift>
+        <ZShift>0.007115</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.523719" Y="-0.014230" Z="-5.789447" />
+        <BoundingMax X="0.232363" Y="4.580268" Z="0.315674" />
+        <BoundingCenter X="-0.145678" Y="2.283019" Z="-2.736887" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SidewalkClearLong_noLC</Name>
+        <File>bastionrpitems\sidewalks\sidewalkclearlong_nolc.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-381469202</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.049998</BBRadius>
+        <BBHScale>0.311881</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000952</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-5.100496" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="5.100500" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000002" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SidewalkClearMiddle_noLC</Name>
+        <File>bastionrpitems\sidewalks\sidewalkclearmiddle_nolc.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>716709237</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.550000</BBRadius>
+        <BBHScale>0.617647</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.001000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-2.575500" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="2.575500" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="-0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SidewalkClearShort_noLC</Name>
+        <File>bastionrpitems\sidewalks\sidewalkclearshort_nolc.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1234699784</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.550000</BBRadius>
+        <BBHScale>2.863636</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.001000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-0.555500" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="0.555500" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SidewalkClear_noLC</Name>
+        <File>bastionrpitems\sidewalks\sidewalkclear_nolc.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1446624010</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.550000</BBRadius>
+        <BBHScale>0.617647</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.001000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-2.575500" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="2.575500" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SidewalkCorner_noLC</Name>
+        <File>bastionrpitems\sidewalks\sidewalkcorner_nolc.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1267083934</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.575000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.001000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-1.590750" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="1.590750" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SidewalkCrossingT_noLC</Name>
+        <File>bastionrpitems\sidewalks\sidewalkcrossingt_nolc.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-436341787</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.575000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.001000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-1.590750" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="1.590750" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>SidewalkCrossing_noLC</Name>
+        <File>bastionrpitems\sidewalks\sidewalkcrossing_nolc.p3d</File>
+        <Date>08/11/20 22:30:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1267358453</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.575000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.001000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.590750" Y="-0.100000" Z="-1.590750" />
+        <BoundingMax X="1.590750" Y="0.102000" Z="1.590750" />
+        <BoundingCenter X="0.000000" Y="0.001000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>flat_block_32x32</Name>
+        <File>bastionrpitems\misc\flat_block_32x32.p3d</File>
+        <Date>08/11/20 22:30:48</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1200463872</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-16.000000" Y="-0.307815" Z="-16.000000" />
+        <BoundingMax X="16.000000" Y="0.014977" Z="16.000000" />
+        <BoundingCenter X="0.000000" Y="-0.146419" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_T_b</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_t_b.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-195120463</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.000048</BBRadius>
+        <BBHScale>0.784879</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.013608</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.021913</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.000804" Y="-1.238983" Z="-8.998152" />
+        <BoundingMax X="8.154310" Y="6.362490" Z="9.001943" />
+        <BoundingCenter X="1.076753" Y="2.561753" Z="0.001895" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_sewer_water_full</Name>
+        <File>bastionrpitems\sewer\bastionrp_sewer_water_full.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16776961</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>275661437</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_armored_tactical_wall_block1</Name>
+        <File>bastionrpitems\armoredwall\bastionrp_armored_tactical_wall_block1.p3d</File>
+        <Date>08/11/20 22:30:36</Date>
+        <Archive></Archive>
+        <Fill>-16777088</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1173157047</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.824625</BBRadius>
+        <BBHScale>0.606336</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000095</YShift>
+        <ZShift>-0.004592</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.500000" Y="-0.000000" Z="-0.999979" />
+        <BoundingMax X="0.500000" Y="3.009184" Z="0.649460" />
+        <BoundingCenter X="0.000000" Y="1.504592" Z="-0.175260" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_armored_tactical_wall_block2</Name>
+        <File>bastionrpitems\armoredwall\bastionrp_armored_tactical_wall_block2.p3d</File>
+        <Date>08/11/20 22:30:36</Date>
+        <Archive></Archive>
+        <Fill>-16777088</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1173157048</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.824625</BBRadius>
+        <BBHScale>1.212673</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000151</YShift>
+        <ZShift>-0.004592</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.000000" Y="-0.000000" Z="-1.000091" />
+        <BoundingMax X="1.000000" Y="3.009184" Z="0.649460" />
+        <BoundingCenter X="0.000000" Y="1.504592" Z="-0.175315" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_armored_tactical_wall_block3_A</Name>
+        <File>bastionrpitems\armoredwall\bastionrp_armored_tactical_wall_block3_a.p3d</File>
+        <Date>08/11/20 22:30:36</Date>
+        <Archive></Archive>
+        <Fill>-16777088</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1842659365</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.824625</BBRadius>
+        <BBHScale>1.212673</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000799</XShift>
+        <YShift>-0.000249</YShift>
+        <ZShift>-0.004592</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.000000" Y="-0.000000" Z="-1.000287" />
+        <BoundingMax X="1.001598" Y="3.009184" Z="0.649460" />
+        <BoundingCenter X="0.000799" Y="1.504592" Z="-0.175413" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_armored_tactical_wall_block4</Name>
+        <File>bastionrpitems\armoredwall\bastionrp_armored_tactical_wall_block4.p3d</File>
+        <Date>08/11/20 22:30:36</Date>
+        <Archive></Archive>
+        <Fill>-16777088</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1173157050</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.824625</BBRadius>
+        <BBHScale>1.212672</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.002246</XShift>
+        <YShift>-0.060761</YShift>
+        <ZShift>0.008970</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.000351" Y="-0.018106" Z="-1.000190" />
+        <BoundingMax X="1.004844" Y="3.000000" Z="0.770582" />
+        <BoundingCenter X="0.002246" Y="1.490947" Z="-0.114804" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_armored_tactical_wall_block5</Name>
+        <File>bastionrpitems\armoredwall\bastionrp_armored_tactical_wall_block5.p3d</File>
+        <Date>08/11/20 22:30:36</Date>
+        <Archive></Archive>
+        <Fill>-16777088</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1173157051</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.824625</BBRadius>
+        <BBHScale>1.212673</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000005</YShift>
+        <ZShift>-0.000568</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.000000" Y="-0.000000" Z="-0.999799" />
+        <BoundingMax X="1.000000" Y="3.001136" Z="0.649460" />
+        <BoundingCenter X="0.000000" Y="1.500568" Z="-0.175169" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>RadarTower</Name>
+        <File>bastionrpitems\radartower\radartower.p3d</File>
+        <Date>08/11/20 22:30:50</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>880693123</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.359505</BBRadius>
+        <BBHScale>1.065903</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.096584</XShift>
+        <YShift>2.617558</YShift>
+        <ZShift>-1.376705</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.054737" Y="-0.065567" Z="-13.651304" />
+        <BoundingMax X="12.852235" Y="30.810528" Z="13.423453" />
+        <BoundingCenter X="-0.101251" Y="15.372480" Z="-0.113925" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_MilitaryGate</Name>
+        <File>bastionrpitems\bastiongates\militarygates\twingate\militarygate.p3d</File>
+        <Date>08/18/20 17:36:52</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1440517199</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.316506</BBRadius>
+        <BBHScale>14.102495</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.096587</XShift>
+        <YShift>-2.543292</YShift>
+        <ZShift>-0.245504</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.054738" Y="-0.026271" Z="-0.451491" />
+        <BoundingMax X="4.852235" Y="4.810527" Z="5.393551" />
+        <BoundingCenter X="-0.101251" Y="2.392128" Z="2.471030" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_StopGate</Name>
+        <File>bastionrpitems\bastiongates\militarygates\stopgate\stopgate.p3d</File>
+        <Date>08/11/20 22:30:38</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>458141062</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.252603</BBRadius>
+        <BBHScale>13.679423</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.025075</XShift>
+        <YShift>-2.476672</YShift>
+        <ZShift>-0.043296</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.320896" Y="-0.026271" Z="-0.451491" />
+        <BoundingMax X="6.640172" Y="1.780527" Z="5.393551" />
+        <BoundingCenter X="3.159638" Y="0.877128" Z="2.471030" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_GateFrame</Name>
+        <File>bastionrpitems\bastiongates\securitygate\gateframe.p3d</File>
+        <Date>08/18/20 17:36:52</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1795190537</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.112807</BBRadius>
+        <BBHScale>8.716932</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.001251</XShift>
+        <YShift>0.544332</YShift>
+        <ZShift>0.019584</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.054738" Y="-0.039225" Z="-1.163719" />
+        <BoundingMax X="1.052235" Y="3.326538" Z="0.150669" />
+        <BoundingCenter X="-0.001251" Y="1.643657" Z="-0.506525" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_FenceLong</Name>
+        <File>bastionrpitems\bastiongates\securitygate\fencelong.p3d</File>
+        <Date>08/11/20 22:30:38</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1263893652</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.075000</BBRadius>
+        <BBHScale>40.997318</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.002450</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.152036" Y="-0.000093" Z="-0.117777" />
+        <BoundingMax X="3.152036" Y="3.326502" Z="0.117777" />
+        <BoundingCenter X="0.000000" Y="1.663204" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_FenceX1</Name>
+        <File>bastionrpitems\bastiongates\securitygate\fencex1.p3d</File>
+        <Date>08/11/20 22:30:38</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-465632943</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.075000</BBRadius>
+        <BBHScale>7.666188</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.004897</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.609070" Y="-0.000093" Z="-0.100000" />
+        <BoundingMax X="0.601961" Y="3.326502" Z="0.100000" />
+        <BoundingCenter X="-0.003555" Y="1.663204" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_FenceX2</Name>
+        <File>bastionrpitems\bastiongates\securitygate\fencex2.p3d</File>
+        <Date>08/11/20 22:30:38</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-465632942</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.075000</BBRadius>
+        <BBHScale>14.257701</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.007538</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.103645" Y="-0.000093" Z="-0.107899" />
+        <BoundingMax X="1.114477" Y="3.326502" Z="0.107899" />
+        <BoundingCenter X="0.005416" Y="1.663204" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_FenceX3</Name>
+        <File>bastionrpitems\bastiongates\securitygate\fencex3.p3d</File>
+        <Date>08/11/20 22:30:38</Date>
+        <Archive></Archive>
+        <Fill>-32768</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-465632941</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.075000</BBRadius>
+        <BBHScale>21.024473</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.003569</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.666978" Y="-0.000093" Z="-0.105037" />
+        <BoundingMax X="1.562623" Y="3.328037" Z="0.105037" />
+        <BoundingCenter X="-0.052178" Y="1.663972" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Flat_Platform1_Block</Name>
+        <File>bastionrpitems\block\block.p3d</File>
+        <Date>08/11/20 22:30:40</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>321195206</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.056033</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.460214" Y="-0.150604" Z="-6.460214" />
+        <BoundingMax X="6.460214" Y="0.262670" Z="6.460214" />
+        <BoundingCenter X="0.000000" Y="0.056033" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MetroTube_Master2</Name>
+        <File>bastionrpitems\metrotube\metrotube_master2.p3d</File>
+        <Date>08/11/20 22:30:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2032129390</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.084371</BBRadius>
+        <BBHScale>0.964734</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000942</XShift>
+        <YShift>-0.471966</YShift>
+        <ZShift>-1.086577</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.454737" Y="-6.026271" Z="-8.677848" />
+        <BoundingMax X="7.420432" Y="9.073998" Z="8.649998" />
+        <BoundingCenter X="-0.017153" Y="1.523864" Z="-0.013925" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MetroTube_Master</Name>
+        <File>bastionrpitems\metrotube\metrotube_master.p3d</File>
+        <Date>08/11/20 22:30:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-43312188</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.084371</BBRadius>
+        <BBHScale>0.964734</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000942</XShift>
+        <YShift>-0.471966</YShift>
+        <ZShift>-1.086577</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.454737" Y="-6.026271" Z="-8.677848" />
+        <BoundingMax X="7.420432" Y="9.073998" Z="8.649998" />
+        <BoundingCenter X="-0.017153" Y="1.523864" Z="-0.013925" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>MetroTubeWall_Proxy</Name>
+        <File>bastionrpitems\metrotube\proxy\metrotubewall_proxy.p3d</File>
+        <Date>08/11/20 22:30:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-955454282</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.930125</BBRadius>
+        <BBHScale>0.986837</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000357</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.001113</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.844053" Y="-7.389887" Z="-8.522615" />
+        <BoundingMax X="7.812236" Y="8.268169" Z="7.337636" />
+        <BoundingCenter X="-0.015908" Y="0.439141" Z="-0.592490" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>littleshop</Name>
+        <File>bastionrpitems\littleshop\littleshop.p3d</File>
+        <Date>08/11/20 22:30:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1764676116</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.271288</BBRadius>
+        <BBHScale>1.436509</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.038293</XShift>
+        <YShift>-0.048137</YShift>
+        <ZShift>0.010256</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.240878" Y="-0.009044" Z="-1.389730" />
+        <BoundingMax X="6.107194" Y="6.959709" Z="7.249120" />
+        <BoundingCenter X="-0.066842" Y="3.475332" Z="2.929695" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>grassblock</Name>
+        <File>bastionrpitems\grassblock\grassblock.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>682897687</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.579776</BBRadius>
+        <BBHScale>1.129220</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.035139</XShift>
+        <YShift>0.579776</YShift>
+        <ZShift>-0.656557</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.460214" Y="-0.150604" Z="-6.460214" />
+        <BoundingMax X="6.460214" Y="2.149967" Z="6.460214" />
+        <BoundingCenter X="0.000000" Y="0.999681" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>grassblock2</Name>
+        <File>bastionrpitems\grassblock\grassblock2.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>896472283</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.257080</BBRadius>
+        <BBHScale>1.073194</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.641865</XShift>
+        <YShift>0.257080</YShift>
+        <ZShift>-0.656557</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.460214" Y="-0.150604" Z="-6.460214" />
+        <BoundingMax X="6.460214" Y="2.149967" Z="6.460214" />
+        <BoundingCenter X="0.000000" Y="0.999681" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>grassblock3</Name>
+        <File>bastionrpitems\grassblock\grassblock3.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>896472284</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.522254</BBRadius>
+        <BBHScale>1.021660</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.641865</XShift>
+        <YShift>0.522254</YShift>
+        <ZShift>-0.656557</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.460214" Y="-0.150604" Z="-6.460214" />
+        <BoundingMax X="6.460214" Y="2.149967" Z="6.460214" />
+        <BoundingCenter X="0.000000" Y="0.999681" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>grassblock_clean</Name>
+        <File>bastionrpitems\grassblock\grassblock_clean.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1575732959</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.056033</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.460214" Y="-0.150604" Z="-6.460214" />
+        <BoundingMax X="6.460214" Y="0.262670" Z="6.460214" />
+        <BoundingCenter X="0.000000" Y="0.056033" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>grass_big</Name>
+        <File>bastionrpitems\grassobject\grass_big.p3d</File>
+        <Date>08/11/20 22:30:46</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1588472425</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.579550</BBRadius>
+        <BBHScale>1.114070</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-1.000196</XShift>
+        <YShift>0.001459</YShift>
+        <ZShift>-0.680473</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.937939" Y="0.000000" Z="-8.698750" />
+        <BoundingMax X="10.207778" Y="2.000000" Z="7.998612" />
+        <BoundingCenter X="0.634920" Y="1.000000" Z="-0.350069" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BigCityBuilding</Name>
+        <File>bastionrpitems\bigcitybuilding\bigcitybuilding.p3d</File>
+        <Date>08/11/20 22:30:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-955126817</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.912735</BBRadius>
+        <BBHScale>0.442027</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.403654</XShift>
+        <YShift>0.112846</YShift>
+        <ZShift>3.532106</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.327155" Y="0.000000" Z="-25.126238" />
+        <BoundingMax X="10.850443" Y="30.737484" Z="26.558609" />
+        <BoundingCenter X="-0.238356" Y="15.368742" Z="0.716186" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>decals_damage</Name>
+        <File>bastionrpitems\bigcitybuilding\decals_damage.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>523806344</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>decals_graffiti</Name>
+        <File>bastionrpitems\bigcitybuilding\decals_graffiti.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1136370849</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>decals_leaking</Name>
+        <File>bastionrpitems\bigcitybuilding\decals_leaking.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>45533574</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>door</Name>
+        <File>bastionrpitems\bigcitybuilding\door.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1673617230</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>doors_closed</Name>
+        <File>bastionrpitems\bigcitybuilding\doors_closed.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-598155066</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Geometry</Name>
+        <File>bastionrpitems\bigcitybuilding\geometry.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-696483598</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>House</Name>
+        <File>bastionrpitems\bigcitybuilding\house.p3d</File>
+        <Date>08/13/20 19:37:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2130743872</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.248428</BBRadius>
+        <BBHScale>0.429855</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.047433" Y="1.207227" Z="-23.938251" />
+        <BoundingMax X="11.658873" Y="34.165466" Z="26.558605" />
+        <BoundingCenter X="0.805720" Y="17.686346" Z="1.310177" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>House1</Name>
+        <File>bastionrpitems\bigcitybuilding\house1.p3d</File>
+        <Date>08/14/20 22:11:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>748421745</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.248428</BBRadius>
+        <BBHScale>0.429855</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.047433" Y="1.207227" Z="-23.938251" />
+        <BoundingMax X="11.658873" Y="34.165466" Z="26.558605" />
+        <BoundingCenter X="0.805720" Y="17.686346" Z="1.310177" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>House2</Name>
+        <File>bastionrpitems\bigcitybuilding\house2.p3d</File>
+        <Date>08/14/20 22:11:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>748421746</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.424393</BBRadius>
+        <BBHScale>1.538492</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.327155" Y="-0.385772" Z="11.938328" />
+        <BoundingMax X="11.517589" Y="24.675453" Z="26.787113" />
+        <BoundingCenter X="0.095217" Y="12.144840" Z="19.362720" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>House3</Name>
+        <File>bastionrpitems\bigcitybuilding\house3.p3d</File>
+        <Date>08/14/20 22:11:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>748421747</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.397968</BBRadius>
+        <BBHScale>0.775012</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.394629" Y="16.793108" Z="-11.144464" />
+        <BoundingMax X="8.272495" Y="30.780043" Z="11.651473" />
+        <BoundingCenter X="-0.561067" Y="23.786575" Z="0.253505" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>House4</Name>
+        <File>bastionrpitems\bigcitybuilding\house4.p3d</File>
+        <Date>08/14/20 22:11:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>748421748</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.720505</BBRadius>
+        <BBHScale>0.624125</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.912653" Y="0.377725" Z="-8.879936" />
+        <BoundingMax X="10.958714" Y="20.292442" Z="24.561073" />
+        <BoundingCenter X="0.523030" Y="10.335084" Z="7.840569" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>House5</Name>
+        <File>bastionrpitems\bigcitybuilding\house5.p3d</File>
+        <Date>08/14/20 22:11:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>748421749</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.865730</BBRadius>
+        <BBHScale>0.480548</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.975988" Y="-0.017895" Z="-20.121176" />
+        <BoundingMax X="8.272495" Y="34.613991" Z="11.610284" />
+        <BoundingCenter X="0.648254" Y="17.298048" Z="-4.255446" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>House6</Name>
+        <File>bastionrpitems\bigcitybuilding\house6.p3d</File>
+        <Date>08/14/20 22:11:40</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>748421750</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.368261</BBRadius>
+        <BBHScale>0.414679</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.961385" Y="0.294573" Z="-25.126238" />
+        <BoundingMax X="8.272495" Y="38.251572" Z="11.610284" />
+        <BoundingCenter X="0.655555" Y="19.273073" Z="-6.757977" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_OpenBarrel_blue</Name>
+        <File>bastionrpitems\openbarrel\bastionrp_openbarrel_blue.p3d</File>
+        <Date>08/11/20 22:30:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>759303984</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.312051</BBRadius>
+        <BBHScale>0.896215</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.002593</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.279665" Y="-0.000436" Z="-0.312051" />
+        <BoundingMax X="0.279665" Y="1.157857" Z="0.312051" />
+        <BoundingCenter X="0.000000" Y="0.578711" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_OpenBarrel_green</Name>
+        <File>bastionrpitems\openbarrel\bastionrp_openbarrel_green.p3d</File>
+        <Date>08/11/20 22:30:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1789426515</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.312051</BBRadius>
+        <BBHScale>0.896215</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.002593</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.279665" Y="-0.000436" Z="-0.312051" />
+        <BoundingMax X="0.279665" Y="1.157857" Z="0.312051" />
+        <BoundingCenter X="0.000000" Y="0.578711" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_OpenBarrel_yellow</Name>
+        <File>bastionrpitems\openbarrel\bastionrp_openbarrel_yellow.p3d</File>
+        <Date>08/11/20 22:30:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1434989462</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.312051</BBRadius>
+        <BBHScale>0.896215</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.002593</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.279665" Y="-0.000436" Z="-0.312051" />
+        <BoundingMax X="0.279665" Y="1.157857" Z="0.312051" />
+        <BoundingCenter X="0.000000" Y="0.578711" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>BastionRP_ArrowBoardTrailer2</Name>
+        <File>bastionrpitems\street_pack\arrowboardtrailer2\bastionrp_arrowboardtrailer2.p3d</File>
+        <Date>11/09/20 20:30:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2045474475</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>
