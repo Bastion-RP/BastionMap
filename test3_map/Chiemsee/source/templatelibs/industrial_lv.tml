@@ -3,7 +3,7 @@
     <Template>
         <Name>Construction_Hopper</Name>
         <File>dz\structures_bliss\industrial\construction\construction_hopper.p3d</File>
-        <Date>08/05/20 21:34:31</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -27,7 +27,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>10.921652</Height>
         <BoundingMin X="-2.504040" Y="-2.492450" Z="-2.571351" />
         <BoundingMax X="2.506820" Y="19.350853" Z="2.661134" />
         <BoundingCenter X="0.001390" Y="8.429201" Z="0.044892" />
@@ -36,7 +36,7 @@
     <Template>
         <Name>DieselPowerPlant_Building</Name>
         <File>dz\structures_bliss\industrial\dieselpowerplant\dieselpowerplant_building.p3d</File>
-        <Date>08/05/20 21:34:26</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -60,7 +60,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>12.395544</Height>
         <BoundingMin X="-25.279499" Y="-1.871088" Z="-20.997000" />
         <BoundingMax X="21.501331" Y="22.920000" Z="21.023233" />
         <BoundingCenter X="-1.889084" Y="10.524456" Z="0.013117" />
@@ -69,7 +69,7 @@
     <Template>
         <Name>DieselPowerPlant_Cooling</Name>
         <File>dz\structures_bliss\industrial\dieselpowerplant\dieselpowerplant_cooling.p3d</File>
-        <Date>08/05/20 21:34:31</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.815260</Height>
         <BoundingMin X="-4.781031" Y="-1.658340" Z="-2.552150" />
         <BoundingMax X="5.322380" Y="5.972180" Z="4.716160" />
         <BoundingCenter X="0.270675" Y="2.156920" Z="1.082005" />
@@ -102,7 +102,7 @@
     <Template>
         <Name>DieselPowerPlant_Tank_Big</Name>
         <File>dz\structures_bliss\industrial\dieselpowerplant\dieselpowerplant_tank_big.p3d</File>
-        <Date>08/05/20 21:34:24</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -126,7 +126,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.388871</Height>
         <BoundingMin X="-9.034098" Y="-1.402742" Z="-9.195998" />
         <BoundingMax X="9.034096" Y="7.375000" Z="10.179200" />
         <BoundingCenter X="-0.000001" Y="2.986129" Z="0.491601" />
@@ -135,7 +135,7 @@
     <Template>
         <Name>DieselPowerPlant_Tank_Small</Name>
         <File>dz\structures_bliss\industrial\dieselpowerplant\dieselpowerplant_tank_small.p3d</File>
-        <Date>08/05/20 21:34:31</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -159,7 +159,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.209948</Height>
         <BoundingMin X="-3.926847" Y="-1.416495" Z="-3.933848" />
         <BoundingMax X="3.940850" Y="11.003400" Z="3.933848" />
         <BoundingCenter X="0.007002" Y="4.793452" Z="0.000000" />
@@ -168,7 +168,7 @@
     <Template>
         <Name>DieselPowerPlant_Transformer</Name>
         <File>dz\structures_bliss\industrial\dieselpowerplant\dieselpowerplant_transformer.p3d</File>
-        <Date>08/05/20 21:34:24</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -192,7 +192,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.250888</Height>
         <BoundingMin X="-1.880151" Y="-0.732636" Z="-2.161127" />
         <BoundingMax X="1.854585" Y="3.769139" Z="1.636818" />
         <BoundingCenter X="-0.012783" Y="1.518251" Z="-0.262154" />
@@ -201,7 +201,7 @@
     <Template>
         <Name>DieselPowerPlant_Building_Accessories_1</Name>
         <File>dz\structures_bliss\industrial\dieselpowerplant\proxy\dieselpowerplant_building_accessories_1.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>DieselPowerPlant_Building_Accessories_2</Name>
         <File>dz\structures_bliss\industrial\dieselpowerplant\proxy\dieselpowerplant_building_accessories_2.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>DieselPowerPlant_Building_Accessories_3</Name>
         <File>dz\structures_bliss\industrial\dieselpowerplant\proxy\dieselpowerplant_building_accessories_3.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>DieselPowerPlant_Building_Accessories_4</Name>
         <File>dz\structures_bliss\industrial\dieselpowerplant\proxy\dieselpowerplant_building_accessories_4.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>DieselPowerPlant_Cooling_Accessories</Name>
         <File>dz\structures_bliss\industrial\dieselpowerplant\proxy\dieselpowerplant_cooling_accessories.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>Farm_Hopper2</Name>
         <File>dz\structures_bliss\industrial\farms\farm_hopper2.p3d</File>
-        <Date>08/05/20 21:34:36</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -390,7 +390,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.656635</Height>
         <BoundingMin X="-1.454186" Y="-1.122687" Z="-1.927497" />
         <BoundingMax X="1.481884" Y="10.190583" Z="2.265724" />
         <BoundingCenter X="0.013849" Y="4.533948" Z="0.169114" />
@@ -399,7 +399,7 @@
     <Template>
         <Name>Farm_ManurePile</Name>
         <File>dz\structures_bliss\industrial\farms\farm_manurepile.p3d</File>
-        <Date>08/05/20 21:34:10</Date>
+        <Date>07/28/21 17:16:02</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -423,7 +423,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.171860</Height>
         <BoundingMin X="-2.689721" Y="-0.790274" Z="-4.211682" />
         <BoundingMax X="2.805994" Y="1.553446" Z="4.868509" />
         <BoundingCenter X="0.058136" Y="0.381586" Z="0.328413" />
@@ -432,7 +432,7 @@
     <Template>
         <Name>Farm_SilageStorage</Name>
         <File>dz\structures_bliss\industrial\farms\farm_silagestorage.p3d</File>
-        <Date>08/05/20 21:34:21</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -456,7 +456,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.710508</Height>
         <BoundingMin X="-4.934437" Y="-0.995081" Z="-11.517794" />
         <BoundingMax X="5.241555" Y="2.425936" Z="9.319603" />
         <BoundingCenter X="0.153559" Y="0.715428" Z="-1.099095" />
@@ -465,7 +465,7 @@
     <Template>
         <Name>Garage_Medium</Name>
         <File>dz\structures_bliss\industrial\garages\garage_medium.p3d</File>
-        <Date>08/05/20 21:34:21</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -489,7 +489,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.527264</Height>
         <BoundingMin X="-5.701590" Y="-1.795538" Z="-10.827987" />
         <BoundingMax X="5.749451" Y="5.258990" Z="10.767600" />
         <BoundingCenter X="0.023931" Y="1.731726" Z="-0.030193" />
@@ -498,7 +498,7 @@
     <Template>
         <Name>Garage_Tall</Name>
         <File>dz\structures_bliss\industrial\garages\garage_tall.p3d</File>
-        <Date>08/05/20 21:34:40</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -522,7 +522,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.977795</Height>
         <BoundingMin X="-5.902420" Y="-2.380000" Z="-3.874430" />
         <BoundingMax X="5.704600" Y="9.575590" Z="3.777410" />
         <BoundingCenter X="-0.098910" Y="3.597795" Z="-0.048510" />
@@ -531,7 +531,7 @@
     <Template>
         <Name>Pier_Wooden2</Name>
         <File>dz\structures_bliss\industrial\harbour\pier_wooden2.p3d</File>
-        <Date>08/05/20 21:34:37</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -555,7 +555,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>20.188299</Height>
         <BoundingMin X="-0.992049" Y="-38.562851" Z="-7.891108" />
         <BoundingMax X="1.002882" Y="1.813747" Z="8.224125" />
         <BoundingCenter X="0.005416" Y="-18.374552" Z="0.166509" />
@@ -564,7 +564,7 @@
     <Template>
         <Name>Workshop_FuelStation</Name>
         <File>dz\structures_bliss\industrial\houses\workshop_fuelstation.p3d</File>
-        <Date>08/05/20 21:34:35</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -588,7 +588,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.852500</Height>
         <BoundingMin X="-5.697021" Y="-3.065001" Z="-14.490000" />
         <BoundingMax X="6.169394" Y="6.640000" Z="7.775896" />
         <BoundingCenter X="0.236186" Y="1.787500" Z="-3.357052" />
@@ -597,7 +597,7 @@
     <Template>
         <Name>Misc_CinderBlocks</Name>
         <File>dz\structures_bliss\industrial\misc\misc_cinderblocks.p3d</File>
-        <Date>08/05/20 21:34:26</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -621,7 +621,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.860909</Height>
         <BoundingMin X="-0.794564" Y="-0.008670" Z="-0.559780" />
         <BoundingMax X="0.961154" Y="1.713149" Z="0.541525" />
         <BoundingCenter X="0.083295" Y="0.852239" Z="-0.009127" />
@@ -630,7 +630,7 @@
     <Template>
         <Name>Misc_HayBale_Packed</Name>
         <File>dz\structures_bliss\industrial\misc\misc_haybale_packed.p3d</File>
-        <Date>08/05/20 21:34:21</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -654,7 +654,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.827551</Height>
         <BoundingMin X="-0.839887" Y="-0.097568" Z="-0.008471" />
         <BoundingMax X="0.839887" Y="1.557535" Z="1.724908" />
         <BoundingCenter X="0.000000" Y="0.729984" Z="0.858218" />
@@ -663,7 +663,7 @@
     <Template>
         <Name>Misc_HayBale_Packed_Stack</Name>
         <File>dz\structures_bliss\industrial\misc\misc_haybale_packed_stack.p3d</File>
-        <Date>08/05/20 21:34:18</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -687,7 +687,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.719707</Height>
         <BoundingMin X="-2.718739" Y="-0.135025" Z="-3.299308" />
         <BoundingMax X="0.939122" Y="3.304390" Z="3.293959" />
         <BoundingCenter X="-0.889808" Y="1.584682" Z="-0.002675" />
@@ -696,7 +696,7 @@
     <Template>
         <Name>Misc_SurveyMarker_Cover</Name>
         <File>dz\structures_bliss\industrial\misc\misc_surveymarker_cover.p3d</File>
-        <Date>08/05/20 21:34:48</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -720,7 +720,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.410877</Height>
         <BoundingMin X="-0.650772" Y="-0.305657" Z="-0.662706" />
         <BoundingMax X="0.650772" Y="0.516097" Z="0.662706" />
         <BoundingCenter X="0.000000" Y="0.105220" Z="-0.000000" />
@@ -729,7 +729,7 @@
     <Template>
         <Name>Misc_SurveyMarker_Post</Name>
         <File>dz\structures_bliss\industrial\misc\misc_surveymarker_post.p3d</File>
-        <Date>08/05/20 21:34:37</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -753,7 +753,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.229023</Height>
         <BoundingMin X="-0.035453" Y="-0.329023" Z="-0.048824" />
         <BoundingMax X="0.035567" Y="2.129023" Z="0.048582" />
         <BoundingCenter X="0.000057" Y="0.900000" Z="-0.000121" />
@@ -762,7 +762,7 @@
     <Template>
         <Name>Misc_SurveyMarker_Rod</Name>
         <File>dz\structures_bliss\industrial\misc\misc_surveymarker_rod.p3d</File>
-        <Date>08/05/20 21:34:40</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -786,7 +786,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.336596</Height>
         <BoundingMin X="-0.381416" Y="-0.336596" Z="-0.477151" />
         <BoundingMax X="0.465144" Y="0.336596" Z="0.330627" />
         <BoundingCenter X="0.041864" Y="0.000000" Z="-0.073262" />
@@ -795,7 +795,7 @@
     <Template>
         <Name>Misc_Tire</Name>
         <File>dz\structures_bliss\industrial\misc\misc_tire.p3d</File>
-        <Date>08/05/20 21:34:10</Date>
+        <Date>07/28/21 17:16:02</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -819,7 +819,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.086500</Height>
         <BoundingMin X="-0.449660" Y="-0.021652" Z="-0.365054" />
         <BoundingMax X="0.245220" Y="0.151348" Z="0.330264" />
         <BoundingCenter X="-0.102220" Y="0.064848" Z="-0.017395" />
@@ -828,7 +828,7 @@
     <Template>
         <Name>Misc_TirePile_Large</Name>
         <File>dz\structures_bliss\industrial\misc\misc_tirepile_large.p3d</File>
-        <Date>08/05/20 21:34:31</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -852,7 +852,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.689829</Height>
         <BoundingMin X="-1.641315" Y="-0.417484" Z="-1.344121" />
         <BoundingMax X="1.759679" Y="0.962173" Z="1.220677" />
         <BoundingCenter X="0.059182" Y="0.272345" Z="-0.061722" />
@@ -861,7 +861,7 @@
     <Template>
         <Name>Misc_Transformer</Name>
         <File>dz\structures_bliss\industrial\misc\misc_transformer.p3d</File>
-        <Date>08/05/20 21:34:39</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -885,7 +885,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.445549</Height>
         <BoundingMin X="-1.567912" Y="-0.702039" Z="-3.092672" />
         <BoundingMax X="1.225985" Y="2.189058" Z="3.093655" />
         <BoundingCenter X="-0.170963" Y="0.743510" Z="0.000492" />
@@ -894,7 +894,7 @@
     <Template>
         <Name>Pipe_Small2_24m</Name>
         <File>dz\structures_bliss\industrial\pipes\pipe_small2_24m.p3d</File>
-        <Date>08/05/20 21:34:38</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -918,7 +918,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.716935</Height>
         <BoundingMin X="-1.989954" Y="-1.961230" Z="-12.958101" />
         <BoundingMax X="1.982069" Y="1.472640" Z="12.456800" />
         <BoundingCenter X="-0.003942" Y="-0.244295" Z="-0.250650" />
@@ -927,7 +927,7 @@
     <Template>
         <Name>Pipe_Small2_8m</Name>
         <File>dz\structures_bliss\industrial\pipes\pipe_small2_8m.p3d</File>
-        <Date>08/05/20 21:34:26</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -951,7 +951,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.756400</Height>
         <BoundingMin X="-1.493520" Y="-1.961230" Z="-4.836580" />
         <BoundingMax X="1.493520" Y="1.551570" Z="4.976911" />
         <BoundingCenter X="0.000000" Y="-0.204830" Z="0.070165" />
@@ -960,7 +960,7 @@
     <Template>
         <Name>Pipe_Small2_Curve</Name>
         <File>dz\structures_bliss\industrial\pipes\pipe_small2_curve.p3d</File>
-        <Date>08/05/20 21:34:33</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -984,7 +984,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.749315</Height>
         <BoundingMin X="-2.501460" Y="-1.957500" Z="-1.722610" />
         <BoundingMax X="0.588968" Y="1.541130" Z="2.081280" />
         <BoundingCenter X="-0.956246" Y="-0.208185" Z="0.179335" />
@@ -993,7 +993,7 @@
     <Template>
         <Name>Pipe_Small2_Ground</Name>
         <File>dz\structures_bliss\industrial\pipes\pipe_small2_ground.p3d</File>
-        <Date>08/05/20 21:34:18</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1017,7 +1017,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.750000</Height>
         <BoundingMin X="-1.329940" Y="-1.966760" Z="-1.590890" />
         <BoundingMax X="1.322020" Y="1.533240" Z="2.038250" />
         <BoundingCenter X="-0.003960" Y="-0.216760" Z="0.223680" />
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>Pipe_Small2_High_24m</Name>
         <File>dz\structures_bliss\industrial\pipes\pipe_small2_high_24m.p3d</File>
-        <Date>08/05/20 21:34:33</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1050,7 +1050,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.481185</Height>
         <BoundingMin X="-1.995174" Y="-1.969470" Z="-13.038702" />
         <BoundingMax X="2.000117" Y="10.992901" Z="12.499701" />
         <BoundingCenter X="0.002471" Y="4.511715" Z="-0.269501" />
@@ -1059,7 +1059,7 @@
     <Template>
         <Name>Pipe_Small2_High_8m</Name>
         <File>dz\structures_bliss\industrial\pipes\pipe_small2_high_8m.p3d</File>
-        <Date>08/05/20 21:34:48</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1083,7 +1083,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.439235</Height>
         <BoundingMin X="-1.337770" Y="-1.969470" Z="-5.241530" />
         <BoundingMax X="1.251510" Y="10.909000" Z="4.587640" />
         <BoundingCenter X="-0.043130" Y="4.469765" Z="-0.326945" />
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>Pipe_Small2_High_Curve</Name>
         <File>dz\structures_bliss\industrial\pipes\pipe_small2_high_curve.p3d</File>
-        <Date>08/05/20 21:34:30</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1116,7 +1116,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.523425</Height>
         <BoundingMin X="-2.487570" Y="-2.063750" Z="-1.922860" />
         <BoundingMax X="1.707660" Y="10.983100" Z="2.071610" />
         <BoundingCenter X="-0.389955" Y="4.459675" Z="0.074375" />
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>Pipe_Small2_High_Ground</Name>
         <File>dz\structures_bliss\industrial\pipes\pipe_small2_high_ground.p3d</File>
-        <Date>08/05/20 21:34:37</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1149,7 +1149,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.410795</Height>
         <BoundingMin X="-1.339880" Y="-1.969690" Z="-3.050650" />
         <BoundingMax X="1.336770" Y="10.851901" Z="2.227800" />
         <BoundingCenter X="-0.001555" Y="4.441106" Z="-0.411425" />
@@ -1158,7 +1158,7 @@
     <Template>
         <Name>Power_Pole_Wood4</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood4.p3d</File>
-        <Date>08/05/20 21:34:38</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1182,7 +1182,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.462438</Height>
         <BoundingMin X="-1.068133" Y="-1.644767" Z="-0.177092" />
         <BoundingMax X="1.081230" Y="9.280108" Z="0.228860" />
         <BoundingCenter X="0.006548" Y="3.817671" Z="0.025884" />
@@ -1191,7 +1191,7 @@
     <Template>
         <Name>Power_Pole_Wood4_A</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood4_a.p3d</File>
-        <Date>08/05/20 21:34:40</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1215,7 +1215,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.462438</Height>
         <BoundingMin X="-1.958674" Y="-1.644767" Z="-0.177092" />
         <BoundingMax X="1.081230" Y="9.280108" Z="0.228860" />
         <BoundingCenter X="-0.438722" Y="3.817671" Z="0.025884" />
@@ -1224,7 +1224,7 @@
     <Template>
         <Name>Power_Pole_Wood4_A_End</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood4_a_end.p3d</File>
-        <Date>08/05/20 21:34:30</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1248,7 +1248,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.462438</Height>
         <BoundingMin X="-1.958674" Y="-1.644767" Z="-0.177092" />
         <BoundingMax X="1.081230" Y="9.280108" Z="0.458987" />
         <BoundingCenter X="-0.438722" Y="3.817671" Z="0.140948" />
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>Power_Pole_Wood4_A_J</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood4_a_j.p3d</File>
-        <Date>08/05/20 21:34:40</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1281,7 +1281,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.513522</Height>
         <BoundingMin X="-1.967675" Y="-1.644767" Z="-1.070464" />
         <BoundingMax X="1.095011" Y="11.382277" Z="1.077237" />
         <BoundingCenter X="-0.436332" Y="4.868754" Z="0.003387" />
@@ -1290,7 +1290,7 @@
     <Template>
         <Name>Power_Pole_Wood4_A_J_Nest</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood4_a_j_nest.p3d</File>
-        <Date>08/05/20 21:34:42</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1314,7 +1314,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.513522</Height>
         <BoundingMin X="-1.967675" Y="-1.644767" Z="-1.070464" />
         <BoundingMax X="1.095011" Y="11.382277" Z="1.077237" />
         <BoundingCenter X="-0.436332" Y="4.868754" Z="0.003387" />
@@ -1323,7 +1323,7 @@
     <Template>
         <Name>Power_Pole_Wood4_End</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood4_end.p3d</File>
-        <Date>08/05/20 21:34:12</Date>
+        <Date>07/28/21 17:16:02</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1347,7 +1347,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.462438</Height>
         <BoundingMin X="-1.068133" Y="-1.644767" Z="-0.177092" />
         <BoundingMax X="1.081230" Y="9.280108" Z="0.458987" />
         <BoundingCenter X="0.006548" Y="3.817671" Z="0.140948" />
@@ -1356,7 +1356,7 @@
     <Template>
         <Name>Power_Pole_Wood4_Lamp</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood4_lamp.p3d</File>
-        <Date>08/05/20 21:34:39</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1380,7 +1380,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.462438</Height>
         <BoundingMin X="-1.068133" Y="-1.644767" Z="-0.177092" />
         <BoundingMax X="1.324377" Y="9.280108" Z="0.228860" />
         <BoundingCenter X="0.128122" Y="3.817671" Z="0.025884" />
@@ -1389,7 +1389,7 @@
     <Template>
         <Name>Power_Pole_Wood5</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood5.p3d</File>
-        <Date>08/05/20 21:34:15</Date>
+        <Date>07/28/21 17:16:02</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1413,7 +1413,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.607788</Height>
         <BoundingMin X="-1.510629" Y="-0.033050" Z="-0.196667" />
         <BoundingMax X="1.500234" Y="9.182526" Z="0.196667" />
         <BoundingCenter X="-0.005197" Y="4.574738" Z="0.000000" />
@@ -1422,7 +1422,7 @@
     <Template>
         <Name>Power_Pole_Wood5_End</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood5_end.p3d</File>
-        <Date>08/05/20 21:34:19</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1446,7 +1446,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.607788</Height>
         <BoundingMin X="-1.510629" Y="-0.033051" Z="-0.983906" />
         <BoundingMax X="1.500234" Y="9.182526" Z="0.283163" />
         <BoundingCenter X="-0.005197" Y="4.574738" Z="-0.350371" />
@@ -1455,7 +1455,7 @@
     <Template>
         <Name>Power_Pole_Wood5_J</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood5_j.p3d</File>
-        <Date>08/05/20 21:34:31</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1479,7 +1479,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.607863</Height>
         <BoundingMin X="-1.510903" Y="-0.033200" Z="-1.146544" />
         <BoundingMax X="1.501949" Y="9.182526" Z="1.305498" />
         <BoundingCenter X="-0.004477" Y="4.574663" Z="0.079477" />
@@ -1488,7 +1488,7 @@
     <Template>
         <Name>Power_Pole_Wood6_End</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood6_end.p3d</File>
-        <Date>08/05/20 21:34:25</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1512,7 +1512,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.857706</Height>
         <BoundingMin X="-0.207876" Y="-1.644767" Z="-0.209149" />
         <BoundingMax X="0.351593" Y="8.070645" Z="0.309905" />
         <BoundingCenter X="0.071858" Y="3.212939" Z="0.050378" />
@@ -1521,7 +1521,7 @@
     <Template>
         <Name>Power_Pole_Wood6_H</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood6_h.p3d</File>
-        <Date>08/05/20 21:34:29</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1545,7 +1545,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.357706</Height>
         <BoundingMin X="-0.178036" Y="-1.644767" Z="-0.135366" />
         <BoundingMax X="0.351593" Y="9.070645" Z="0.138222" />
         <BoundingCenter X="0.086778" Y="3.712939" Z="0.001428" />
@@ -1554,7 +1554,7 @@
     <Template>
         <Name>Power_Pole_Wood6_J</Name>
         <File>dz\structures_bliss\industrial\power\power_pole_wood6_j.p3d</File>
-        <Date>08/05/20 21:34:30</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1578,7 +1578,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.857706</Height>
         <BoundingMin X="-0.207876" Y="-1.644767" Z="-0.209149" />
         <BoundingMax X="0.351593" Y="8.070645" Z="0.206604" />
         <BoundingCenter X="0.071858" Y="3.212939" Z="-0.001272" />
@@ -1587,7 +1587,7 @@
     <Template>
         <Name>Power_VHV_End</Name>
         <File>dz\structures_bliss\industrial\power\power_vhv_end.p3d</File>
-        <Date>08/05/20 21:34:40</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1611,7 +1611,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>7.765000</Height>
         <BoundingMin X="-9.730007" Y="-1.720000" Z="-3.233546" />
         <BoundingMax X="9.794880" Y="13.810000" Z="2.600000" />
         <BoundingCenter X="0.032436" Y="6.045000" Z="-0.316773" />
@@ -1620,7 +1620,7 @@
     <Template>
         <Name>Power_VHV_Tower</Name>
         <File>dz\structures_bliss\industrial\power\power_vhv_tower.p3d</File>
-        <Date>08/05/20 21:34:32</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1644,7 +1644,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>21.823669</Height>
         <BoundingMin X="-11.795943" Y="-5.223970" Z="-7.858350" />
         <BoundingMax X="11.967153" Y="38.423370" Z="7.858350" />
         <BoundingCenter X="0.085605" Y="16.599701" Z="0.000000" />
@@ -1653,7 +1653,7 @@
     <Template>
         <Name>Power_VHV_Tower_Corner</Name>
         <File>dz\structures_bliss\industrial\power\power_vhv_tower_corner.p3d</File>
-        <Date>08/05/20 21:34:37</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1677,7 +1677,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>21.823669</Height>
         <BoundingMin X="-11.795943" Y="-5.223970" Z="-7.858350" />
         <BoundingMax X="12.431060" Y="38.423370" Z="7.858350" />
         <BoundingCenter X="0.317558" Y="16.599701" Z="0.000000" />
@@ -1686,7 +1686,7 @@
     <Template>
         <Name>Power_VHV_Wires_Direct</Name>
         <File>dz\structures_bliss\industrial\power\power_vhv_wires_direct.p3d</File>
-        <Date>08/05/20 21:34:12</Date>
+        <Date>07/28/21 17:16:02</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1710,7 +1710,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>19.737528</Height>
         <BoundingMin X="-12.398533" Y="0.000000" Z="-0.349609" />
         <BoundingMax X="12.498533" Y="39.475056" Z="247.714737" />
         <BoundingCenter X="0.050000" Y="19.737528" Z="123.682564" />
@@ -1719,7 +1719,7 @@
     <Template>
         <Name>Power_VHV_Wires_Direct_Short</Name>
         <File>dz\structures_bliss\industrial\power\power_vhv_wires_direct_short.p3d</File>
-        <Date>08/05/20 21:34:39</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1743,7 +1743,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>19.826221</Height>
         <BoundingMin X="-12.407858" Y="-0.000004" Z="-98.948990" />
         <BoundingMax X="12.525923" Y="39.652439" Z="99.688400" />
         <BoundingCenter X="0.059032" Y="19.826218" Z="0.369705" />
@@ -1752,7 +1752,7 @@
     <Template>
         <Name>Power_VHV_Wires_End</Name>
         <File>dz\structures_bliss\industrial\power\power_vhv_wires_end.p3d</File>
-        <Date>08/05/20 21:34:15</Date>
+        <Date>07/28/21 17:16:02</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1776,7 +1776,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>19.837132</Height>
         <BoundingMin X="-12.094459" Y="-0.000006" Z="-55.805611" />
         <BoundingMax X="13.292693" Y="39.674255" Z="58.397133" />
         <BoundingCenter X="0.599117" Y="19.837124" Z="1.295761" />
@@ -1785,7 +1785,7 @@
     <Template>
         <Name>Power_VHV_Wires_Left</Name>
         <File>dz\structures_bliss\industrial\power\power_vhv_wires_left.p3d</File>
-        <Date>08/05/20 21:34:33</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1809,7 +1809,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>19.635746</Height>
         <BoundingMin X="-12.519551" Y="0.000000" Z="-1.347488" />
         <BoundingMax X="12.642694" Y="39.271492" Z="243.607254" />
         <BoundingCenter X="0.061571" Y="19.635746" Z="121.129883" />
@@ -1818,7 +1818,7 @@
     <Template>
         <Name>Power_VHV_Wires_Right</Name>
         <File>dz\structures_bliss\industrial\power\power_vhv_wires_right.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1851,7 +1851,7 @@
     <Template>
         <Name>Power_WireTel_50_Main</Name>
         <File>dz\structures_bliss\industrial\power\power_wiretel_50_main.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1884,7 +1884,7 @@
     <Template>
         <Name>Power_Wire_50</Name>
         <File>dz\structures_bliss\industrial\power\power_wire_50.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1917,7 +1917,7 @@
     <Template>
         <Name>Power_Wire_50_Main</Name>
         <File>dz\structures_bliss\industrial\power\power_wire_50_main.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1950,7 +1950,7 @@
     <Template>
         <Name>Power_VHV_Tower_Corner_Proxy</Name>
         <File>dz\structures_bliss\industrial\power\proxy\power_vhv_tower_corner_proxy.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -1983,7 +1983,7 @@
     <Template>
         <Name>Power_VHV_Tower_Proxy</Name>
         <File>dz\structures_bliss\industrial\power\proxy\power_vhv_tower_proxy.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2016,7 +2016,7 @@
     <Template>
         <Name>Shed_Closed2</Name>
         <File>dz\structures_bliss\industrial\sheds\shed_closed2.p3d</File>
-        <Date>08/05/20 21:34:26</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2040,7 +2040,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.502450</Height>
         <BoundingMin X="-18.541601" Y="-2.962480" Z="-11.308201" />
         <BoundingMax X="14.689051" Y="6.042420" Z="8.362204" />
         <BoundingCenter X="-1.926275" Y="1.539970" Z="-1.472999" />
@@ -2049,7 +2049,7 @@
     <Template>
         <Name>Shed_Closed_Small1</Name>
         <File>dz\structures_bliss\industrial\sheds\shed_closed_small1.p3d</File>
-        <Date>08/05/20 21:34:49</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2073,7 +2073,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.779436</Height>
         <BoundingMin X="-5.247074" Y="-1.435000" Z="-3.024499" />
         <BoundingMax X="5.236509" Y="4.123872" Z="6.005123" />
         <BoundingCenter X="-0.005282" Y="1.344436" Z="1.490312" />
@@ -2082,7 +2082,7 @@
     <Template>
         <Name>Shed_Closed_Small2</Name>
         <File>dz\structures_bliss\industrial\sheds\shed_closed_small2.p3d</File>
-        <Date>08/05/20 21:34:36</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2106,7 +2106,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.779436</Height>
         <BoundingMin X="-5.261747" Y="-1.435000" Z="-3.024499" />
         <BoundingMax X="5.236510" Y="4.123872" Z="2.896150" />
         <BoundingCenter X="-0.012619" Y="1.344436" Z="-0.064175" />
@@ -2115,7 +2115,7 @@
     <Template>
         <Name>Shed_Open_Big2_Complete</Name>
         <File>dz\structures_bliss\industrial\sheds\shed_open_big2_complete.p3d</File>
-        <Date>08/05/20 21:34:30</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2139,7 +2139,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.411290</Height>
         <BoundingMin X="-10.888621" Y="-2.178880" Z="-18.221909" />
         <BoundingMax X="10.782985" Y="16.643700" Z="18.488503" />
         <BoundingCenter X="-0.052818" Y="7.232409" Z="0.133297" />
@@ -2148,7 +2148,7 @@
     <Template>
         <Name>Shed_Open_Big_Complete</Name>
         <File>dz\structures_bliss\industrial\sheds\shed_open_big_complete.p3d</File>
-        <Date>08/05/20 21:34:13</Date>
+        <Date>07/28/21 17:16:02</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2172,7 +2172,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.770910</Height>
         <BoundingMin X="-8.103240" Y="-1.392770" Z="-2.120621" />
         <BoundingMax X="8.103240" Y="8.149050" Z="22.229401" />
         <BoundingCenter X="0.000000" Y="3.378140" Z="10.054390" />
@@ -2181,7 +2181,7 @@
     <Template>
         <Name>Shed_Open_Small_Complete</Name>
         <File>dz\structures_bliss\industrial\sheds\shed_open_small_complete.p3d</File>
-        <Date>08/05/20 21:34:23</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2205,7 +2205,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.528633</Height>
         <BoundingMin X="-0.091787" Y="-1.397286" Z="-2.120620" />
         <BoundingMax X="8.103661" Y="5.659980" Z="22.238832" />
         <BoundingCenter X="4.005937" Y="2.131347" Z="10.059107" />
@@ -2214,7 +2214,7 @@
     <Template>
         <Name>Smokestack_Big_Ruin_Bottom</Name>
         <File>dz\structures_bliss\industrial\smokestacks\smokestack_big_ruin_bottom.p3d</File>
-        <Date>08/05/20 21:34:42</Date>
+        <Date>07/28/21 17:16:04</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2238,7 +2238,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.496190</Height>
         <BoundingMin X="-19.855001" Y="-8.570611" Z="-25.639202" />
         <BoundingMax X="27.329302" Y="10.421769" Z="20.361401" />
         <BoundingCenter X="3.737150" Y="0.925579" Z="-2.638901" />
@@ -2247,7 +2247,7 @@
     <Template>
         <Name>Smokestack_Big_Ruin_Low</Name>
         <File>dz\structures_bliss\industrial\smokestacks\smokestack_big_ruin_low.p3d</File>
-        <Date>08/05/20 21:34:28</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2271,7 +2271,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.710895</Height>
         <BoundingMin X="-2.393475" Y="0.469812" Z="-3.493240" />
         <BoundingMax X="3.093057" Y="23.891602" Z="2.849247" />
         <BoundingCenter X="0.349791" Y="12.180707" Z="-0.321997" />
@@ -2280,7 +2280,7 @@
     <Template>
         <Name>Smokestack_Big_Ruin_Mid</Name>
         <File>dz\structures_bliss\industrial\smokestacks\smokestack_big_ruin_mid.p3d</File>
-        <Date>08/05/20 21:34:30</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2304,7 +2304,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.077005</Height>
         <BoundingMin X="-2.941193" Y="19.539291" Z="-3.106650" />
         <BoundingMax X="3.307160" Y="41.693302" Z="3.126710" />
         <BoundingCenter X="0.182983" Y="30.616297" Z="0.010030" />
@@ -2313,7 +2313,7 @@
     <Template>
         <Name>Smokestack_Big_Ruin_Up</Name>
         <File>dz\structures_bliss\industrial\smokestacks\smokestack_big_ruin_up.p3d</File>
-        <Date>08/05/20 21:34:49</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2337,7 +2337,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>13.024426</Height>
         <BoundingMin X="-2.719519" Y="37.322453" Z="-2.767621" />
         <BoundingMax X="2.950690" Y="63.371304" Z="2.787680" />
         <BoundingCenter X="0.115585" Y="50.346878" Z="0.010030" />
@@ -2346,7 +2346,7 @@
     <Template>
         <Name>WindPowerPlant_Grey</Name>
         <File>dz\structures_bliss\industrial\windpowerplant\windpowerplant_grey.p3d</File>
-        <Date>08/05/20 21:34:35</Date>
+        <Date>07/28/21 17:16:03</Date>
         <Archive></Archive>
         <Fill>-32768</Fill>
         <Outline>-1</Outline>
@@ -2370,7 +2370,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>23.885918</Height>
         <BoundingMin X="-10.346701" Y="-2.419184" Z="-3.667583" />
         <BoundingMax X="10.451300" Y="45.352650" Z="2.518903" />
         <BoundingCenter X="0.052299" Y="21.466732" Z="-0.574340" />

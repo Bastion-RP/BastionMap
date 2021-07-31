@@ -3,7 +3,7 @@
     <Template>
         <Name>b_corylusAvellana_1f</Name>
         <File>dz\plants\bush\b_corylusavellana_1f.p3d</File>
-        <Date>08/05/20 20:26:30</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -27,7 +27,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.294067</Height>
         <BoundingMin X="-2.206150" Y="-0.109474" Z="-1.860100" />
         <BoundingMax X="2.272600" Y="2.478660" Z="1.624050" />
         <BoundingCenter X="0.033225" Y="1.184593" Z="-0.118025" />
@@ -36,7 +36,7 @@
     <Template>
         <Name>b_corylusAvellana_2s</Name>
         <File>dz\plants\bush\b_corylusavellana_2s.p3d</File>
-        <Date>08/05/20 20:25:56</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -60,7 +60,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.216218</Height>
         <BoundingMin X="-6.036390" Y="-0.560026" Z="-5.575291" />
         <BoundingMax X="5.426670" Y="5.872410" Z="5.119190" />
         <BoundingCenter X="-0.304860" Y="2.656192" Z="-0.228050" />
@@ -69,7 +69,7 @@
     <Template>
         <Name>b_crataegusLaevigata_1s</Name>
         <File>dz\plants\bush\b_crataeguslaevigata_1s.p3d</File>
-        <Date>08/05/20 20:26:10</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.887994</Height>
         <BoundingMin X="-2.730220" Y="-0.105617" Z="-2.519900" />
         <BoundingMax X="2.305340" Y="3.670370" Z="2.681790" />
         <BoundingCenter X="-0.212440" Y="1.782377" Z="0.080945" />
@@ -102,7 +102,7 @@
     <Template>
         <Name>b_prunusSpinosa_1s</Name>
         <File>dz\plants\bush\b_prunusspinosa_1s.p3d</File>
-        <Date>08/05/20 20:26:28</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -126,7 +126,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.830787</Height>
         <BoundingMin X="-2.027310" Y="-0.359154" Z="-2.002760" />
         <BoundingMax X="2.037390" Y="3.302420" Z="2.000870" />
         <BoundingCenter X="0.005040" Y="1.471633" Z="-0.000945" />
@@ -135,7 +135,7 @@
     <Template>
         <Name>b_prunusSpinosa_2s</Name>
         <File>dz\plants\bush\b_prunusspinosa_2s.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -159,7 +159,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.069154</Height>
         <BoundingMin X="-2.836050" Y="-0.420558" Z="-2.838420" />
         <BoundingMax X="2.826690" Y="5.717750" Z="2.766150" />
         <BoundingCenter X="-0.004680" Y="2.648596" Z="-0.036135" />
@@ -168,7 +168,7 @@
     <Template>
         <Name>b_rosaCanina_1s</Name>
         <File>dz\plants\bush\b_rosacanina_1s.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -192,7 +192,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.333588</Height>
         <BoundingMin X="-1.319390" Y="-0.393455" Z="-1.356370" />
         <BoundingMax X="1.372390" Y="2.273720" Z="1.300940" />
         <BoundingCenter X="0.026500" Y="0.940132" Z="-0.027715" />
@@ -201,7 +201,7 @@
     <Template>
         <Name>b_rosaCanina_2s</Name>
         <File>dz\plants\bush\b_rosacanina_2s.p3d</File>
-        <Date>08/05/20 20:26:02</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -225,7 +225,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.977374</Height>
         <BoundingMin X="-2.138730" Y="-0.494727" Z="-2.110110" />
         <BoundingMax X="1.972330" Y="3.460020" Z="1.899060" />
         <BoundingCenter X="-0.083200" Y="1.482646" Z="-0.105525" />
@@ -234,7 +234,7 @@
     <Template>
         <Name>b_sambucusNigra_1s</Name>
         <File>dz\plants\bush\b_sambucusnigra_1s.p3d</File>
-        <Date>08/05/20 20:26:16</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -258,7 +258,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.815552</Height>
         <BoundingMin X="-2.582150" Y="-0.131333" Z="-1.464910" />
         <BoundingMax X="1.880610" Y="3.499770" Z="1.996240" />
         <BoundingCenter X="-0.350770" Y="1.684219" Z="0.265665" />
@@ -267,7 +267,7 @@
     <Template>
         <Name>b_sambucusNigra_2s</Name>
         <File>dz\plants\bush\b_sambucusnigra_2s.p3d</File>
-        <Date>08/05/20 20:26:01</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -291,7 +291,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.150395</Height>
         <BoundingMin X="-4.718640" Y="-0.453589" Z="-4.180800" />
         <BoundingMax X="4.258070" Y="5.847200" Z="4.795910" />
         <BoundingCenter X="-0.230285" Y="2.696806" Z="0.307555" />
@@ -300,7 +300,7 @@
     <Template>
         <Name>b_BetulaPendula_1f</Name>
         <File>dz\plants\tree\b_betulapendula_1f.p3d</File>
-        <Date>08/05/20 20:26:35</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -324,7 +324,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.188961</Height>
         <BoundingMin X="-0.686706" Y="-0.159502" Z="-0.819985" />
         <BoundingMax X="1.357720" Y="2.218420" Z="1.213100" />
         <BoundingCenter X="0.335507" Y="1.029459" Z="0.196558" />
@@ -333,7 +333,7 @@
     <Template>
         <Name>b_FagusSylvatica_1f</Name>
         <File>dz\plants\tree\b_fagussylvatica_1f.p3d</File>
-        <Date>08/05/20 20:26:25</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -357,7 +357,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.228396</Height>
         <BoundingMin X="-0.730348" Y="-0.096775" Z="-0.757826" />
         <BoundingMax X="0.705288" Y="2.360018" Z="0.805777" />
         <BoundingCenter X="-0.012530" Y="1.131622" Z="0.023976" />
@@ -366,7 +366,7 @@
     <Template>
         <Name>b_PiceaAbies_1f</Name>
         <File>dz\plants\tree\b_piceaabies_1f.p3d</File>
-        <Date>08/05/20 20:26:29</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -390,7 +390,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.244076</Height>
         <BoundingMin X="-0.816476" Y="-0.589402" Z="-0.838087" />
         <BoundingMax X="0.899106" Y="1.898750" Z="0.896943" />
         <BoundingCenter X="0.041315" Y="0.654674" Z="0.029428" />
@@ -399,7 +399,7 @@
     <Template>
         <Name>b_PiceaAbies_1fb</Name>
         <File>dz\plants\tree\b_piceaabies_1fb.p3d</File>
-        <Date>08/05/20 20:26:24</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -423,7 +423,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.487001</Height>
         <BoundingMin X="-0.749005" Y="-0.799372" Z="-0.780988" />
         <BoundingMax X="0.783324" Y="2.174630" Z="0.690836" />
         <BoundingCenter X="0.017159" Y="0.687629" Z="-0.045076" />
@@ -432,7 +432,7 @@
     <Template>
         <Name>b_quercusRobur_1f</Name>
         <File>dz\plants\tree\b_quercusrobur_1f.p3d</File>
-        <Date>08/05/20 20:26:01</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -456,7 +456,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.334423</Height>
         <BoundingMin X="-0.906205" Y="-0.158196" Z="-0.836378" />
         <BoundingMax X="0.849289" Y="2.510650" Z="0.779905" />
         <BoundingCenter X="-0.028458" Y="1.176227" Z="-0.028237" />
@@ -465,7 +465,7 @@
     <Template>
         <Name>d_FagusSylvatica_fallen</Name>
         <File>dz\plants\tree\d_fagussylvatica_fallen.p3d</File>
-        <Date>08/05/20 20:26:22</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -489,7 +489,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.863885</Height>
         <BoundingMin X="-10.778101" Y="-3.190970" Z="-4.149980" />
         <BoundingMax X="8.488951" Y="4.536800" Z="3.788780" />
         <BoundingCenter X="-1.144575" Y="0.672915" Z="-0.180600" />
@@ -498,7 +498,7 @@
     <Template>
         <Name>d_FagusSylvatica_fallenb</Name>
         <File>dz\plants\tree\d_fagussylvatica_fallenb.p3d</File>
-        <Date>08/05/20 20:26:23</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -522,7 +522,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.868786</Height>
         <BoundingMin X="-2.424020" Y="-0.209412" Z="-1.160170" />
         <BoundingMax X="1.949070" Y="1.528160" Z="1.479160" />
         <BoundingCenter X="-0.237475" Y="0.659374" Z="0.159495" />
@@ -531,7 +531,7 @@
     <Template>
         <Name>d_FagusSylvatica_fallenc</Name>
         <File>dz\plants\tree\d_fagussylvatica_fallenc.p3d</File>
-        <Date>08/05/20 20:26:22</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -555,7 +555,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.710169</Height>
         <BoundingMin X="-1.308780" Y="-0.093606" Z="-0.332510" />
         <BoundingMax X="1.190660" Y="1.326732" Z="0.938317" />
         <BoundingCenter X="-0.059060" Y="0.616563" Z="0.302904" />
@@ -564,7 +564,7 @@
     <Template>
         <Name>d_FagusSylvatica_stump</Name>
         <File>dz\plants\tree\d_fagussylvatica_stump.p3d</File>
-        <Date>08/05/20 20:26:15</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -588,7 +588,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.741152</Height>
         <BoundingMin X="-0.661573" Y="-0.608614" Z="-0.631002" />
         <BoundingMax X="0.900433" Y="2.873690" Z="0.749109" />
         <BoundingCenter X="0.119430" Y="1.132538" Z="0.059054" />
@@ -597,7 +597,7 @@
     <Template>
         <Name>d_FagusSylvatica_stumpb</Name>
         <File>dz\plants\tree\d_fagussylvatica_stumpb.p3d</File>
-        <Date>08/05/20 20:26:06</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -621,7 +621,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.112795</Height>
         <BoundingMin X="-1.809370" Y="-1.151120" Z="-1.549310" />
         <BoundingMax X="1.943840" Y="3.074470" Z="1.590110" />
         <BoundingCenter X="0.067235" Y="0.961675" Z="0.020400" />
@@ -630,7 +630,7 @@
     <Template>
         <Name>d_FagusSylvatica_stumpc</Name>
         <File>dz\plants\tree\d_fagussylvatica_stumpc.p3d</File>
-        <Date>08/05/20 20:26:04</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -654,7 +654,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.954742</Height>
         <BoundingMin X="-0.619531" Y="-0.582752" Z="-0.607790" />
         <BoundingMax X="0.907680" Y="1.326732" Z="0.749109" />
         <BoundingCenter X="0.144074" Y="0.371990" Z="0.070660" />
@@ -663,7 +663,7 @@
     <Template>
         <Name>d_piceaabies_fallen</Name>
         <File>dz\plants\tree\d_piceaabies_fallen.p3d</File>
-        <Date>08/05/20 20:25:59</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -687,7 +687,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.223385</Height>
         <BoundingMin X="-7.950080" Y="-1.038600" Z="-0.808900" />
         <BoundingMax X="5.935811" Y="1.408170" Z="1.178412" />
         <BoundingCenter X="-1.007135" Y="0.184785" Z="0.184756" />
@@ -696,7 +696,7 @@
     <Template>
         <Name>d_piceaabies_fallenb</Name>
         <File>dz\plants\tree\d_piceaabies_fallenb.p3d</File>
-        <Date>08/05/20 20:26:32</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -720,7 +720,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.195956</Height>
         <BoundingMin X="-3.699290" Y="-1.065180" Z="-1.141230" />
         <BoundingMax X="4.031240" Y="1.326732" Z="1.261410" />
         <BoundingCenter X="0.165975" Y="0.130776" Z="0.060090" />
@@ -729,7 +729,7 @@
     <Template>
         <Name>d_piceaabies_fallenc</Name>
         <File>dz\plants\tree\d_piceaabies_fallenc.p3d</File>
-        <Date>08/05/20 20:26:30</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -753,7 +753,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.693725</Height>
         <BoundingMin X="-1.245240" Y="-0.060719" Z="-0.181170" />
         <BoundingMax X="1.334900" Y="1.326732" Z="0.749109" />
         <BoundingCenter X="0.044830" Y="0.633007" Z="0.283970" />
@@ -762,7 +762,7 @@
     <Template>
         <Name>d_piceaabies_stump</Name>
         <File>dz\plants\tree\d_piceaabies_stump.p3d</File>
-        <Date>08/05/20 20:25:59</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -786,7 +786,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.211136</Height>
         <BoundingMin X="-0.944219" Y="-1.095540" Z="-0.773856" />
         <BoundingMax X="1.153330" Y="1.326732" Z="0.754067" />
         <BoundingCenter X="0.104555" Y="0.115596" Z="-0.009894" />
@@ -795,7 +795,7 @@
     <Template>
         <Name>d_piceaabies_stumpb</Name>
         <File>dz\plants\tree\d_piceaabies_stumpb.p3d</File>
-        <Date>08/05/20 20:26:28</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -819,7 +819,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.881090</Height>
         <BoundingMin X="-0.954024" Y="-1.105380" Z="-0.780192" />
         <BoundingMax X="1.150190" Y="2.656800" Z="0.756742" />
         <BoundingCenter X="0.098083" Y="0.775710" Z="-0.011725" />
@@ -828,7 +828,7 @@
     <Template>
         <Name>d_PinusSylvestris_fallen</Name>
         <File>dz\plants\tree\d_pinussylvestris_fallen.p3d</File>
-        <Date>08/05/20 20:26:34</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -852,7 +852,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.983646</Height>
         <BoundingMin X="-4.586300" Y="-0.434681" Z="-1.036730" />
         <BoundingMax X="4.657881" Y="1.532610" Z="1.623030" />
         <BoundingCenter X="0.035790" Y="0.548965" Z="0.293150" />
@@ -861,7 +861,7 @@
     <Template>
         <Name>d_PinusSylvestris_fallenb</Name>
         <File>dz\plants\tree\d_pinussylvestris_fallenb.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -885,7 +885,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.966757</Height>
         <BoundingMin X="-2.802400" Y="-0.474474" Z="-1.025620" />
         <BoundingMax X="3.308670" Y="1.459040" Z="1.613980" />
         <BoundingCenter X="0.253135" Y="0.492283" Z="0.294180" />
@@ -894,7 +894,7 @@
     <Template>
         <Name>d_PinusSylvestris_fallenc</Name>
         <File>dz\plants\tree\d_pinussylvestris_fallenc.p3d</File>
-        <Date>08/05/20 20:26:15</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -918,7 +918,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.657235</Height>
         <BoundingMin X="-1.398830" Y="-0.199700" Z="-0.832989" />
         <BoundingMax X="1.356200" Y="1.114769" Z="0.686650" />
         <BoundingCenter X="-0.021315" Y="0.457535" Z="-0.073169" />
@@ -927,7 +927,7 @@
     <Template>
         <Name>d_PinusSylvestris_stump</Name>
         <File>dz\plants\tree\d_pinussylvestris_stump.p3d</File>
-        <Date>08/05/20 20:26:07</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -951,7 +951,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.554939</Height>
         <BoundingMin X="-1.022400" Y="-0.532968" Z="-1.022700" />
         <BoundingMax X="0.799303" Y="2.576910" Z="0.812525" />
         <BoundingCenter X="-0.111549" Y="1.021971" Z="-0.105088" />
@@ -960,7 +960,7 @@
     <Template>
         <Name>d_PinusSylvestris_stumpb</Name>
         <File>dz\plants\tree\d_pinussylvestris_stumpb.p3d</File>
-        <Date>08/05/20 20:26:24</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -984,7 +984,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.898734</Height>
         <BoundingMin X="-1.383330" Y="-0.682699" Z="-1.091530" />
         <BoundingMax X="0.501576" Y="1.114769" Z="1.016920" />
         <BoundingCenter X="-0.440877" Y="0.216035" Z="-0.037305" />
@@ -993,7 +993,7 @@
     <Template>
         <Name>d_quercusRobur_fallenb</Name>
         <File>dz\plants\tree\d_quercusrobur_fallenb.p3d</File>
-        <Date>08/05/20 20:25:51</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -1017,7 +1017,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.949770</Height>
         <BoundingMin X="-1.475690" Y="-0.488229" Z="-3.148596" />
         <BoundingMax X="1.865576" Y="1.411310" Z="5.934391" />
         <BoundingCenter X="0.194943" Y="0.461541" Z="1.392897" />
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>d_quercusRobur_fallenc</Name>
         <File>dz\plants\tree\d_quercusrobur_fallenc.p3d</File>
-        <Date>08/05/20 20:26:34</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -1050,7 +1050,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.278811</Height>
         <BoundingMin X="-0.259935" Y="-0.053946" Z="-1.787050" />
         <BoundingMax X="0.259299" Y="0.503676" Z="2.026250" />
         <BoundingCenter X="-0.000318" Y="0.224865" Z="0.119600" />
@@ -1059,7 +1059,7 @@
     <Template>
         <Name>d_quercusRobur_stump</Name>
         <File>dz\plants\tree\d_quercusrobur_stump.p3d</File>
-        <Date>08/05/20 20:26:35</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -1083,7 +1083,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.398358</Height>
         <BoundingMin X="-0.810251" Y="-0.711776" Z="-0.914267" />
         <BoundingMax X="0.747403" Y="2.084940" Z="0.687063" />
         <BoundingCenter X="-0.031424" Y="0.686582" Z="-0.113602" />
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>d_quercusRobur_stumpb</Name>
         <File>dz\plants\tree\d_quercusrobur_stumpb.p3d</File>
-        <Date>08/05/20 20:26:23</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -1116,7 +1116,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.592095</Height>
         <BoundingMin X="-0.536075" Y="-0.507333" Z="-0.659263" />
         <BoundingMax X="0.494217" Y="0.676857" Z="0.616963" />
         <BoundingCenter X="-0.020929" Y="0.084762" Z="-0.021150" />
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>t_BetulaPendula_1f</Name>
         <File>dz\plants\tree\t_betulapendula_1f.p3d</File>
-        <Date>08/05/20 20:26:21</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -1149,7 +1149,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.678917</Height>
         <BoundingMin X="-2.033230" Y="-0.444033" Z="-2.399330" />
         <BoundingMax X="2.489700" Y="10.913800" Z="2.423910" />
         <BoundingCenter X="0.228235" Y="5.234883" Z="0.012290" />
@@ -1158,7 +1158,7 @@
     <Template>
         <Name>t_BetulaPendula_1fb</Name>
         <File>dz\plants\tree\t_betulapendula_1fb.p3d</File>
-        <Date>08/05/20 20:26:22</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -1182,7 +1182,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.587071</Height>
         <BoundingMin X="-1.751860" Y="-0.273922" Z="-1.711550" />
         <BoundingMax X="1.711550" Y="4.900220" Z="1.720070" />
         <BoundingCenter X="-0.020155" Y="2.313149" Z="0.004260" />
@@ -1191,7 +1191,7 @@
     <Template>
         <Name>t_BetulaPendula_1s</Name>
         <File>dz\plants\tree\t_betulapendula_1s.p3d</File>
-        <Date>08/05/20 20:25:57</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -1215,7 +1215,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.040349</Height>
         <BoundingMin X="-2.772410" Y="-0.331067" Z="-2.854970" />
         <BoundingMax X="2.772410" Y="7.749631" Z="2.772410" />
         <BoundingCenter X="0.000000" Y="3.709282" Z="-0.041280" />
@@ -1224,7 +1224,7 @@
     <Template>
         <Name>t_BetulaPendula_2f</Name>
         <File>dz\plants\tree\t_betulapendula_2f.p3d</File>
-        <Date>08/05/20 20:26:05</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -1248,7 +1248,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.669801</Height>
         <BoundingMin X="-4.646170" Y="-3.919200" Z="-4.667670" />
         <BoundingMax X="4.865530" Y="19.420401" Z="4.844029" />
         <BoundingCenter X="0.109680" Y="7.750600" Z="0.088180" />
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>t_BetulaPendula_2fb</Name>
         <File>dz\plants\tree\t_betulapendula_2fb.p3d</File>
-        <Date>08/05/20 20:26:26</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -1281,7 +1281,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.638848</Height>
         <BoundingMin X="-2.756910" Y="-0.551296" Z="-2.703060" />
         <BoundingMax X="4.004020" Y="18.726400" Z="4.606620" />
         <BoundingCenter X="0.623555" Y="9.087552" Z="0.951780" />
@@ -1290,7 +1290,7 @@
     <Template>
         <Name>t_BetulaPendula_2fc</Name>
         <File>dz\plants\tree\t_betulapendula_2fc.p3d</File>
-        <Date>08/05/20 20:26:25</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -1314,7 +1314,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>7.784006</Height>
         <BoundingMin X="-4.967040" Y="-0.600511" Z="-4.220540" />
         <BoundingMax X="6.847970" Y="14.967501" Z="4.541830" />
         <BoundingCenter X="0.940465" Y="7.183495" Z="0.160645" />
@@ -1323,7 +1323,7 @@
     <Template>
         <Name>t_BetulaPendula_2s</Name>
         <File>dz\plants\tree\t_betulapendula_2s.p3d</File>
-        <Date>08/05/20 20:26:27</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -1347,7 +1347,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>7.740749</Height>
         <BoundingMin X="-4.370000" Y="-0.513998" Z="-3.888280" />
         <BoundingMax X="4.752770" Y="14.967501" Z="5.479490" />
         <BoundingCenter X="0.191385" Y="7.226751" Z="0.795605" />
@@ -1356,7 +1356,7 @@
     <Template>
         <Name>t_BetulaPendula_3f</Name>
         <File>dz\plants\tree\t_betulapendula_3f.p3d</File>
-        <Date>08/05/20 20:26:34</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -1380,7 +1380,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.902866</Height>
         <BoundingMin X="-4.767461" Y="-0.550733" Z="-4.456890" />
         <BoundingMax X="4.532870" Y="23.255001" Z="4.419540" />
         <BoundingCenter X="-0.117295" Y="11.352135" Z="-0.018675" />
@@ -1389,7 +1389,7 @@
     <Template>
         <Name>t_BetulaPendula_3fb</Name>
         <File>dz\plants\tree\t_betulapendula_3fb.p3d</File>
-        <Date>08/05/20 20:26:30</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -1413,7 +1413,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.154099</Height>
         <BoundingMin X="-4.260780" Y="-0.554197" Z="-4.190260" />
         <BoundingMax X="4.285070" Y="21.754002" Z="4.167101" />
         <BoundingCenter X="0.012145" Y="10.599902" Z="-0.011580" />
@@ -1422,7 +1422,7 @@
     <Template>
         <Name>t_BetulaPendula_3fc</Name>
         <File>dz\plants\tree\t_betulapendula_3fc.p3d</File>
-        <Date>08/05/20 20:26:28</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -1446,7 +1446,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>10.553156</Height>
         <BoundingMin X="-7.000000" Y="-0.541212" Z="-7.609460" />
         <BoundingMax X="7.000000" Y="20.565100" Z="7.551930" />
         <BoundingCenter X="0.000000" Y="10.011944" Z="-0.028765" />
@@ -1455,7 +1455,7 @@
     <Template>
         <Name>t_BetulaPendula_3s</Name>
         <File>dz\plants\tree\t_betulapendula_3s.p3d</File>
-        <Date>08/05/20 20:26:16</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -1479,7 +1479,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>10.156137</Height>
         <BoundingMin X="-7.932850" Y="-0.567174" Z="-6.398400" />
         <BoundingMax X="6.020240" Y="19.745100" Z="7.135051" />
         <BoundingCenter X="-0.956305" Y="9.588963" Z="0.368325" />
@@ -1488,7 +1488,7 @@
     <Template>
         <Name>t_FagusSylvatica_1f</Name>
         <File>dz\plants\tree\t_fagussylvatica_1f.p3d</File>
-        <Date>08/05/20 20:26:27</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1512,7 +1512,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>7.657834</Height>
         <BoundingMin X="-1.899020" Y="-0.565368" Z="-2.096240" />
         <BoundingMax X="2.095900" Y="14.750300" Z="1.515550" />
         <BoundingCenter X="0.098440" Y="7.092466" Z="-0.290345" />
@@ -1521,7 +1521,7 @@
     <Template>
         <Name>t_FagusSylvatica_1fb</Name>
         <File>dz\plants\tree\t_fagussylvatica_1fb.p3d</File>
-        <Date>08/05/20 20:26:04</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1545,7 +1545,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.308121</Height>
         <BoundingMin X="-1.998950" Y="-0.610061" Z="-1.230610" />
         <BoundingMax X="1.371820" Y="6.006180" Z="1.033780" />
         <BoundingCenter X="-0.313565" Y="2.698060" Z="-0.098415" />
@@ -1554,7 +1554,7 @@
     <Template>
         <Name>t_FagusSylvatica_1fc</Name>
         <File>dz\plants\tree\t_fagussylvatica_1fc.p3d</File>
-        <Date>08/05/20 20:26:03</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1578,7 +1578,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>10.951252</Height>
         <BoundingMin X="-4.168310" Y="-0.647002" Z="-5.091010" />
         <BoundingMax X="4.056790" Y="21.255501" Z="4.880561" />
         <BoundingCenter X="-0.055760" Y="10.304249" Z="-0.105225" />
@@ -1587,7 +1587,7 @@
     <Template>
         <Name>t_FagusSylvatica_1fd</Name>
         <File>dz\plants\tree\t_fagussylvatica_1fd.p3d</File>
-        <Date>08/05/20 20:26:01</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1611,7 +1611,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.836777</Height>
         <BoundingMin X="-3.952000" Y="-2.856250" Z="-4.834080" />
         <BoundingMax X="5.837720" Y="20.817303" Z="3.183260" />
         <BoundingCenter X="0.942860" Y="8.980526" Z="-0.825410" />
@@ -1620,7 +1620,7 @@
     <Template>
         <Name>t_FagusSylvatica_1fe</Name>
         <File>dz\plants\tree\t_fagussylvatica_1fe.p3d</File>
-        <Date>08/05/20 20:25:59</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1644,7 +1644,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>10.234215</Height>
         <BoundingMin X="-4.852871" Y="-0.953230" Z="-4.859650" />
         <BoundingMax X="5.456430" Y="19.515200" Z="5.786850" />
         <BoundingCenter X="0.301780" Y="9.280985" Z="0.463600" />
@@ -1653,7 +1653,7 @@
     <Template>
         <Name>t_FagusSylvatica_1s</Name>
         <File>dz\plants\tree\t_fagussylvatica_1s.p3d</File>
-        <Date>08/05/20 20:26:05</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1677,7 +1677,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.305808</Height>
         <BoundingMin X="-2.050461" Y="-0.240056" Z="-2.353353" />
         <BoundingMax X="2.194749" Y="8.371560" Z="2.082048" />
         <BoundingCenter X="0.072144" Y="4.065752" Z="-0.135653" />
@@ -1686,7 +1686,7 @@
     <Template>
         <Name>t_FagusSylvatica_2d</Name>
         <File>dz\plants\tree\t_fagussylvatica_2d.p3d</File>
-        <Date>08/05/20 20:26:21</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1710,7 +1710,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.475826</Height>
         <BoundingMin X="-3.892820" Y="-0.965752" Z="-2.969090" />
         <BoundingMax X="3.141230" Y="17.985901" Z="3.510850" />
         <BoundingCenter X="-0.375795" Y="8.510075" Z="0.270880" />
@@ -1719,7 +1719,7 @@
     <Template>
         <Name>t_FagusSylvatica_2f</Name>
         <File>dz\plants\tree\t_fagussylvatica_2f.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1743,7 +1743,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>13.283020</Height>
         <BoundingMin X="-7.095890" Y="-0.894939" Z="-6.231491" />
         <BoundingMax X="5.333290" Y="25.671101" Z="6.546520" />
         <BoundingCenter X="-0.881300" Y="12.388081" Z="0.157515" />
@@ -1752,7 +1752,7 @@
     <Template>
         <Name>t_FagusSylvatica_2fb</Name>
         <File>dz\plants\tree\t_fagussylvatica_2fb.p3d</File>
-        <Date>08/05/20 20:26:09</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1776,7 +1776,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>12.180201</Height>
         <BoundingMin X="-4.758080" Y="-0.958099" Z="-6.652600" />
         <BoundingMax X="4.333570" Y="23.402302" Z="7.323350" />
         <BoundingCenter X="-0.212255" Y="11.222101" Z="0.335375" />
@@ -1785,7 +1785,7 @@
     <Template>
         <Name>t_FagusSylvatica_2fc</Name>
         <File>dz\plants\tree\t_fagussylvatica_2fc.p3d</File>
-        <Date>08/05/20 20:26:07</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1809,7 +1809,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>12.248680</Height>
         <BoundingMin X="-4.483181" Y="-1.510760" Z="-6.060990" />
         <BoundingMax X="4.315130" Y="22.986601" Z="7.175660" />
         <BoundingCenter X="-0.084025" Y="10.737921" Z="0.557335" />
@@ -1818,7 +1818,7 @@
     <Template>
         <Name>t_FagusSylvatica_2s</Name>
         <File>dz\plants\tree\t_fagussylvatica_2s.p3d</File>
-        <Date>08/05/20 20:26:34</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1842,7 +1842,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>8.691312</Height>
         <BoundingMin X="-5.171542" Y="-1.042884" Z="-6.192573" />
         <BoundingMax X="6.387412" Y="16.339739" Z="6.141065" />
         <BoundingCenter X="0.607935" Y="7.648427" Z="-0.025754" />
@@ -1851,7 +1851,7 @@
     <Template>
         <Name>t_FagusSylvatica_2sb</Name>
         <File>dz\plants\tree\t_fagussylvatica_2sb.p3d</File>
-        <Date>08/05/20 20:26:08</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1875,7 +1875,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.208700</Height>
         <BoundingMin X="-6.383030" Y="-1.388800" Z="-5.683110" />
         <BoundingMax X="6.487780" Y="17.028601" Z="6.209020" />
         <BoundingCenter X="0.052375" Y="7.819901" Z="0.262955" />
@@ -1884,7 +1884,7 @@
     <Template>
         <Name>t_FagusSylvatica_3d</Name>
         <File>dz\plants\tree\t_fagussylvatica_3d.p3d</File>
-        <Date>08/05/20 20:26:04</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1908,7 +1908,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.370607</Height>
         <BoundingMin X="-5.015275" Y="-1.391370" Z="-3.668650" />
         <BoundingMax X="4.514790" Y="21.349844" Z="3.417870" />
         <BoundingCenter X="-0.250242" Y="9.979237" Z="-0.125390" />
@@ -1917,7 +1917,7 @@
     <Template>
         <Name>t_FagusSylvatica_3f</Name>
         <File>dz\plants\tree\t_fagussylvatica_3f.p3d</File>
-        <Date>08/05/20 20:26:02</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1941,7 +1941,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.446415</Height>
         <BoundingMin X="-6.234521" Y="-1.290230" Z="-6.762610" />
         <BoundingMax X="6.209750" Y="27.602600" Z="5.769080" />
         <BoundingCenter X="-0.012385" Y="13.156185" Z="-0.496765" />
@@ -1950,7 +1950,7 @@
     <Template>
         <Name>t_FagusSylvatica_3fb</Name>
         <File>dz\plants\tree\t_fagussylvatica_3fb.p3d</File>
-        <Date>08/05/20 20:26:09</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -1974,7 +1974,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>13.724991</Height>
         <BoundingMin X="-5.170470" Y="-1.100680" Z="-7.463701" />
         <BoundingMax X="6.896701" Y="26.349302" Z="7.511900" />
         <BoundingCenter X="0.863115" Y="12.624311" Z="0.024100" />
@@ -1983,7 +1983,7 @@
     <Template>
         <Name>t_FagusSylvatica_3s</Name>
         <File>dz\plants\tree\t_fagussylvatica_3s.p3d</File>
-        <Date>08/05/20 20:26:24</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -2007,7 +2007,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>13.270077</Height>
         <BoundingMin X="-10.868551" Y="-1.484224" Z="-11.035778" />
         <BoundingMax X="9.049513" Y="25.055929" Z="9.651203" />
         <BoundingCenter X="-0.909519" Y="11.785852" Z="-0.692287" />
@@ -2016,7 +2016,7 @@
     <Template>
         <Name>t_FraxinusExcelsior_2f</Name>
         <File>dz\plants\tree\t_fraxinusexcelsior_2f.p3d</File>
-        <Date>08/05/20 20:26:25</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -2040,7 +2040,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.704451</Height>
         <BoundingMin X="-8.704651" Y="-2.733600" Z="-9.756961" />
         <BoundingMax X="8.256220" Y="20.675303" Z="9.084260" />
         <BoundingCenter X="-0.224216" Y="8.970852" Z="-0.336350" />
@@ -2049,7 +2049,7 @@
     <Template>
         <Name>t_FraxinusExcelsior_3s</Name>
         <File>dz\plants\tree\t_fraxinusexcelsior_3s.p3d</File>
-        <Date>08/05/20 20:26:30</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -2073,7 +2073,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.224426</Height>
         <BoundingMin X="-10.447500" Y="-2.719851" Z="-12.245800" />
         <BoundingMax X="12.183001" Y="25.729002" Z="11.135502" />
         <BoundingCenter X="0.867750" Y="11.504576" Z="-0.555149" />
@@ -2082,7 +2082,7 @@
     <Template>
         <Name>t_juglansRegia_2s</Name>
         <File>dz\plants\tree\t_juglansregia_2s.p3d</File>
-        <Date>08/05/20 20:26:25</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -2106,7 +2106,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.877710</Height>
         <BoundingMin X="-8.921322" Y="-2.765221" Z="-8.546890" />
         <BoundingMax X="8.079491" Y="16.990200" Z="7.494600" />
         <BoundingCenter X="-0.420916" Y="7.112490" Z="-0.526145" />
@@ -2115,7 +2115,7 @@
     <Template>
         <Name>t_juglansRegia_3s</Name>
         <File>dz\plants\tree\t_juglansregia_3s.p3d</File>
-        <Date>08/05/20 20:26:15</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -2139,7 +2139,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>13.278805</Height>
         <BoundingMin X="-11.906700" Y="-4.929610" Z="-13.431101" />
         <BoundingMax X="16.379002" Y="21.628000" Z="14.258600" />
         <BoundingCenter X="2.236151" Y="8.349195" Z="0.413750" />
@@ -2148,7 +2148,7 @@
     <Template>
         <Name>t_LarixDecidua_1f</Name>
         <File>dz\plants\tree\t_larixdecidua_1f.p3d</File>
-        <Date>08/05/20 20:26:34</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-1017856</Fill>
         <Outline>-1</Outline>
@@ -2172,7 +2172,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.640990</Height>
         <BoundingMin X="-2.415170" Y="-0.164120" Z="-2.381770" />
         <BoundingMax X="2.291430" Y="7.117860" Z="2.337280" />
         <BoundingCenter X="-0.061870" Y="3.476870" Z="-0.022245" />
@@ -2181,7 +2181,7 @@
     <Template>
         <Name>t_LarixDecidua_1s</Name>
         <File>dz\plants\tree\t_larixdecidua_1s.p3d</File>
-        <Date>08/05/20 20:26:16</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-1017856</Fill>
         <Outline>-1</Outline>
@@ -2205,7 +2205,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.061918</Height>
         <BoundingMin X="-2.006180" Y="-0.220856" Z="-1.985270" />
         <BoundingMax X="2.026510" Y="5.902980" Z="2.047420" />
         <BoundingCenter X="0.010165" Y="2.841062" Z="0.031075" />
@@ -2214,7 +2214,7 @@
     <Template>
         <Name>t_LarixDecidua_2f</Name>
         <File>dz\plants\tree\t_larixdecidua_2f.p3d</File>
-        <Date>08/05/20 20:26:24</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-1017856</Fill>
         <Outline>-1</Outline>
@@ -2238,7 +2238,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.670551</Height>
         <BoundingMin X="-5.433560" Y="-2.638700" Z="-5.550470" />
         <BoundingMax X="5.393420" Y="20.702402" Z="5.705120" />
         <BoundingCenter X="-0.020070" Y="9.031851" Z="0.077325" />
@@ -2247,7 +2247,7 @@
     <Template>
         <Name>t_LarixDecidua_2fb</Name>
         <File>dz\plants\tree\t_larixdecidua_2fb.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-1017856</Fill>
         <Outline>-1</Outline>
@@ -2271,7 +2271,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.754810</Height>
         <BoundingMin X="-4.531350" Y="-2.989420" Z="-4.432880" />
         <BoundingMax X="3.772950" Y="20.520201" Z="4.375790" />
         <BoundingCenter X="-0.379200" Y="8.765390" Z="-0.028545" />
@@ -2280,7 +2280,7 @@
     <Template>
         <Name>t_LarixDecidua_2s</Name>
         <File>dz\plants\tree\t_larixdecidua_2s.p3d</File>
-        <Date>08/05/20 20:26:01</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-1017856</Fill>
         <Outline>-1</Outline>
@@ -2304,7 +2304,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.847631</Height>
         <BoundingMin X="-5.093571" Y="-2.624761" Z="-5.422350" />
         <BoundingMax X="5.112770" Y="17.070501" Z="6.357690" />
         <BoundingCenter X="0.009600" Y="7.222870" Z="0.467670" />
@@ -2313,7 +2313,7 @@
     <Template>
         <Name>t_LarixDecidua_3f</Name>
         <File>dz\plants\tree\t_larixdecidua_3f.p3d</File>
-        <Date>08/05/20 20:26:09</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-1017856</Fill>
         <Outline>-1</Outline>
@@ -2337,7 +2337,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.074796</Height>
         <BoundingMin X="-6.148710" Y="-3.698290" Z="-6.395830" />
         <BoundingMax X="6.249930" Y="24.451302" Z="6.667231" />
         <BoundingCenter X="0.050610" Y="10.376506" Z="0.135700" />
@@ -2346,7 +2346,7 @@
     <Template>
         <Name>t_LarixDecidua_3fb</Name>
         <File>dz\plants\tree\t_larixdecidua_3fb.p3d</File>
-        <Date>08/05/20 20:26:22</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-1017856</Fill>
         <Outline>-1</Outline>
@@ -2370,7 +2370,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>13.950691</Height>
         <BoundingMin X="-4.963960" Y="-3.701580" Z="-4.768351" />
         <BoundingMax X="4.509010" Y="24.199802" Z="4.500040" />
         <BoundingCenter X="-0.227475" Y="10.249111" Z="-0.134155" />
@@ -2379,7 +2379,7 @@
     <Template>
         <Name>t_malusDomestica_2s</Name>
         <File>dz\plants\tree\t_malusdomestica_2s.p3d</File>
-        <Date>08/05/20 20:26:25</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -2403,7 +2403,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.803938</Height>
         <BoundingMin X="-4.509820" Y="-0.515656" Z="-4.513590" />
         <BoundingMax X="4.494920" Y="9.092220" Z="4.416500" />
         <BoundingCenter X="-0.007450" Y="4.288282" Z="-0.048545" />
@@ -2412,7 +2412,7 @@
     <Template>
         <Name>t_malusDomestica_3s</Name>
         <File>dz\plants\tree\t_malusdomestica_3s.p3d</File>
-        <Date>08/05/20 20:26:14</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -2436,7 +2436,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>7.003036</Height>
         <BoundingMin X="-6.065721" Y="-0.672273" Z="-6.028721" />
         <BoundingMax X="5.963571" Y="13.333800" Z="6.000570" />
         <BoundingCenter X="-0.051075" Y="6.330764" Z="-0.014075" />
@@ -2445,7 +2445,7 @@
     <Template>
         <Name>t_PiceaAbies_1f</Name>
         <File>dz\plants\tree\t_piceaabies_1f.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -2469,7 +2469,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.413132</Height>
         <BoundingMin X="-1.984690" Y="-0.822592" Z="-2.040430" />
         <BoundingMax X="2.040150" Y="8.003671" Z="2.047070" />
         <BoundingCenter X="0.027730" Y="3.590539" Z="0.003320" />
@@ -2478,7 +2478,7 @@
     <Template>
         <Name>t_PiceaAbies_1s</Name>
         <File>dz\plants\tree\t_piceaabies_1s.p3d</File>
-        <Date>08/05/20 20:26:33</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -2502,7 +2502,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.443669</Height>
         <BoundingMin X="-1.603460" Y="-0.791527" Z="-1.572980" />
         <BoundingMax X="1.592860" Y="4.095810" Z="1.598860" />
         <BoundingCenter X="-0.005300" Y="1.652142" Z="0.012940" />
@@ -2511,7 +2511,7 @@
     <Template>
         <Name>t_PiceaAbies_1sb</Name>
         <File>dz\plants\tree\t_piceaabies_1sb.p3d</File>
-        <Date>08/05/20 20:26:03</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -2535,7 +2535,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.446439</Height>
         <BoundingMin X="-1.440350" Y="-0.891517" Z="-1.403610" />
         <BoundingMax X="1.413870" Y="4.001360" Z="1.570600" />
         <BoundingCenter X="-0.013240" Y="1.554922" Z="0.083495" />
@@ -2544,7 +2544,7 @@
     <Template>
         <Name>t_piceaabies_2d</Name>
         <File>dz\plants\tree\t_piceaabies_2d.p3d</File>
-        <Date>08/05/20 20:26:04</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -2568,7 +2568,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>8.514971</Height>
         <BoundingMin X="-1.666560" Y="-1.441640" Z="-1.112880" />
         <BoundingMax X="1.406770" Y="15.588301" Z="1.361730" />
         <BoundingCenter X="-0.129895" Y="7.073330" Z="0.124425" />
@@ -2577,7 +2577,7 @@
     <Template>
         <Name>t_PiceaAbies_2f</Name>
         <File>dz\plants\tree\t_piceaabies_2f.p3d</File>
-        <Date>08/05/20 20:26:01</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -2601,7 +2601,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.982056</Height>
         <BoundingMin X="-3.077250" Y="-2.280510" Z="-3.371430" />
         <BoundingMax X="3.333440" Y="21.683601" Z="3.775100" />
         <BoundingCenter X="0.128095" Y="9.701546" Z="0.201835" />
@@ -2610,7 +2610,7 @@
     <Template>
         <Name>t_PiceaAbies_2fb</Name>
         <File>dz\plants\tree\t_piceaabies_2fb.p3d</File>
-        <Date>08/05/20 20:26:03</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -2634,7 +2634,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>12.038111</Height>
         <BoundingMin X="-3.461670" Y="-1.580720" Z="-3.745600" />
         <BoundingMax X="2.788660" Y="22.495501" Z="3.338320" />
         <BoundingCenter X="-0.336505" Y="10.457390" Z="-0.203640" />
@@ -2643,7 +2643,7 @@
     <Template>
         <Name>t_PiceaAbies_2s</Name>
         <File>dz\plants\tree\t_piceaabies_2s.p3d</File>
-        <Date>08/05/20 20:26:24</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -2667,7 +2667,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>8.830151</Height>
         <BoundingMin X="-4.222380" Y="-1.339600" Z="-4.218250" />
         <BoundingMax X="4.238190" Y="16.320702" Z="4.175529" />
         <BoundingCenter X="0.007905" Y="7.490551" Z="-0.021360" />
@@ -2676,7 +2676,7 @@
     <Template>
         <Name>t_PiceaAbies_2sb</Name>
         <File>dz\plants\tree\t_piceaabies_2sb.p3d</File>
-        <Date>08/05/20 20:26:07</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -2700,7 +2700,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.074190</Height>
         <BoundingMin X="-3.599780" Y="-1.288380" Z="-3.828500" />
         <BoundingMax X="3.747920" Y="16.860001" Z="3.467070" />
         <BoundingCenter X="0.074070" Y="7.785810" Z="-0.180715" />
@@ -2709,7 +2709,7 @@
     <Template>
         <Name>t_piceaabies_3d</Name>
         <File>dz\plants\tree\t_piceaabies_3d.p3d</File>
-        <Date>08/05/20 20:26:33</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -2733,7 +2733,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>12.693996</Height>
         <BoundingMin X="-3.201920" Y="-2.395190" Z="-2.773990" />
         <BoundingMax X="2.604620" Y="22.992802" Z="2.658090" />
         <BoundingCenter X="-0.298650" Y="10.298805" Z="-0.057950" />
@@ -2742,7 +2742,7 @@
     <Template>
         <Name>t_PiceaAbies_3f</Name>
         <File>dz\plants\tree\t_piceaabies_3f.p3d</File>
-        <Date>08/05/20 20:26:30</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-14307307</Fill>
         <Outline>-1</Outline>
@@ -2766,7 +2766,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.605995</Height>
         <BoundingMin X="-4.207231" Y="-2.366890" Z="-4.575140" />
         <BoundingMax X="4.034970" Y="26.845100" Z="3.967371" />
         <BoundingCenter X="-0.086130" Y="12.239105" Z="-0.303885" />
@@ -2775,7 +2775,7 @@
     <Template>
         <Name>t_PiceaAbies_3s</Name>
         <File>dz\plants\tree\t_piceaabies_3s.p3d</File>
-        <Date>08/05/20 20:26:08</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -2799,7 +2799,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.600166</Height>
         <BoundingMin X="-7.435760" Y="-3.829030" Z="-7.319310" />
         <BoundingMax X="7.188560" Y="25.371302" Z="7.023610" />
         <BoundingCenter X="-0.123600" Y="10.771135" Z="-0.147850" />
@@ -2808,7 +2808,7 @@
     <Template>
         <Name>t_PinusSylvestris_1f</Name>
         <File>dz\plants\tree\t_pinussylvestris_1f.p3d</File>
-        <Date>08/05/20 20:26:06</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -2832,7 +2832,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.423913</Height>
         <BoundingMin X="-1.869390" Y="-0.493567" Z="-1.839800" />
         <BoundingMax X="1.785060" Y="4.354260" Z="1.888880" />
         <BoundingCenter X="-0.042165" Y="1.930346" Z="0.024540" />
@@ -2841,7 +2841,7 @@
     <Template>
         <Name>t_PinusSylvestris_1s</Name>
         <File>dz\plants\tree\t_pinussylvestris_1s.p3d</File>
-        <Date>08/05/20 20:26:28</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -2865,7 +2865,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.332813</Height>
         <BoundingMin X="-1.072750" Y="-0.206845" Z="-1.110600" />
         <BoundingMax X="1.077890" Y="2.458780" Z="1.081560" />
         <BoundingCenter X="0.002570" Y="1.125968" Z="-0.014520" />
@@ -2874,7 +2874,7 @@
     <Template>
         <Name>t_PinusSylvestris_2f</Name>
         <File>dz\plants\tree\t_pinussylvestris_2f.p3d</File>
-        <Date>08/05/20 20:26:35</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -2898,7 +2898,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.776778</Height>
         <BoundingMin X="-2.768780" Y="-0.881254" Z="-2.744570" />
         <BoundingMax X="2.966500" Y="22.672302" Z="3.289850" />
         <BoundingCenter X="0.098860" Y="10.895524" Z="0.272640" />
@@ -2907,7 +2907,7 @@
     <Template>
         <Name>t_PinusSylvestris_2fb</Name>
         <File>dz\plants\tree\t_pinussylvestris_2fb.p3d</File>
-        <Date>08/05/20 20:26:26</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -2931,7 +2931,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.666260</Height>
         <BoundingMin X="-4.399830" Y="-0.781118" Z="-3.652880" />
         <BoundingMax X="3.348330" Y="22.551401" Z="3.546240" />
         <BoundingCenter X="-0.525750" Y="10.885141" Z="-0.053320" />
@@ -2940,7 +2940,7 @@
     <Template>
         <Name>t_PinusSylvestris_2s</Name>
         <File>dz\plants\tree\t_pinussylvestris_2s.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -2964,7 +2964,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.576810</Height>
         <BoundingMin X="-3.282610" Y="-1.141920" Z="-3.377640" />
         <BoundingMax X="3.358710" Y="18.011700" Z="3.377640" />
         <BoundingCenter X="0.038050" Y="8.434890" Z="0.000000" />
@@ -2973,7 +2973,7 @@
     <Template>
         <Name>t_PinusSylvestris_2sb</Name>
         <File>dz\plants\tree\t_pinussylvestris_2sb.p3d</File>
-        <Date>08/05/20 20:26:30</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -2997,7 +2997,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>8.539673</Height>
         <BoundingMin X="-3.145770" Y="-0.859946" Z="-3.505960" />
         <BoundingMax X="2.840420" Y="16.219400" Z="3.128230" />
         <BoundingCenter X="-0.152675" Y="7.679728" Z="-0.188865" />
@@ -3006,7 +3006,7 @@
     <Template>
         <Name>t_PinusSylvestris_3d</Name>
         <File>dz\plants\tree\t_pinussylvestris_3d.p3d</File>
-        <Date>08/05/20 20:26:27</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -3030,7 +3030,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.892151</Height>
         <BoundingMin X="-3.096710" Y="-1.650800" Z="-3.258060" />
         <BoundingMax X="3.275760" Y="18.133501" Z="3.122280" />
         <BoundingCenter X="0.089525" Y="8.241350" Z="-0.067890" />
@@ -3039,7 +3039,7 @@
     <Template>
         <Name>t_PinusSylvestris_3f</Name>
         <File>dz\plants\tree\t_pinussylvestris_3f.p3d</File>
-        <Date>08/05/20 20:26:25</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -3063,7 +3063,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>12.754581</Height>
         <BoundingMin X="-3.860810" Y="-1.040160" Z="-3.313180" />
         <BoundingMax X="4.219831" Y="24.469002" Z="4.348580" />
         <BoundingCenter X="0.179510" Y="11.714420" Z="0.517700" />
@@ -3072,7 +3072,7 @@
     <Template>
         <Name>t_PinusSylvestris_3fb</Name>
         <File>dz\plants\tree\t_pinussylvestris_3fb.p3d</File>
-        <Date>08/05/20 20:26:30</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -3096,7 +3096,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.579748</Height>
         <BoundingMin X="-3.622650" Y="-0.920196" Z="-3.568820" />
         <BoundingMax X="4.298810" Y="22.239302" Z="3.408270" />
         <BoundingCenter X="0.338080" Y="10.659554" Z="-0.080275" />
@@ -3105,7 +3105,7 @@
     <Template>
         <Name>t_PinusSylvestris_3fc</Name>
         <File>dz\plants\tree\t_pinussylvestris_3fc.p3d</File>
-        <Date>08/05/20 20:26:30</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -3129,7 +3129,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.849720</Height>
         <BoundingMin X="-1.371440" Y="-1.013741" Z="-1.759710" />
         <BoundingMax X="7.432561" Y="22.685699" Z="5.646680" />
         <BoundingCenter X="3.030560" Y="10.835979" Z="1.943485" />
@@ -3138,7 +3138,7 @@
     <Template>
         <Name>t_PinusSylvestris_3s</Name>
         <File>dz\plants\tree\t_pinussylvestris_3s.p3d</File>
-        <Date>08/05/20 20:26:03</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-16746416</Fill>
         <Outline>-1</Outline>
@@ -3162,7 +3162,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>12.308245</Height>
         <BoundingMin X="-5.576740" Y="-1.862590" Z="-5.699420" />
         <BoundingMax X="5.372920" Y="22.753901" Z="4.688750" />
         <BoundingCenter X="-0.101910" Y="10.445656" Z="-0.505335" />
@@ -3171,7 +3171,7 @@
     <Template>
         <Name>t_populusAlba_1f</Name>
         <File>dz\plants\tree\t_populusalba_1f.p3d</File>
-        <Date>08/05/20 20:26:31</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -3195,7 +3195,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.155192</Height>
         <BoundingMin X="-2.522730" Y="-0.458004" Z="-2.253530" />
         <BoundingMax X="2.973460" Y="7.852381" Z="2.997280" />
         <BoundingCenter X="0.225365" Y="3.697188" Z="0.371875" />
@@ -3204,7 +3204,7 @@
     <Template>
         <Name>t_populusAlba_2s</Name>
         <File>dz\plants\tree\t_populusalba_2s.p3d</File>
-        <Date>08/05/20 20:25:57</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -3228,7 +3228,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>8.349287</Height>
         <BoundingMin X="-6.284670" Y="-0.639072" Z="-5.607450" />
         <BoundingMax X="5.413210" Y="16.059502" Z="5.701799" />
         <BoundingCenter X="-0.435730" Y="7.710215" Z="0.047174" />
@@ -3237,7 +3237,7 @@
     <Template>
         <Name>t_populusAlba_3s</Name>
         <File>dz\plants\tree\t_populusalba_3s.p3d</File>
-        <Date>08/05/20 20:26:27</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -3261,7 +3261,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>10.302776</Height>
         <BoundingMin X="-8.675610" Y="-1.569650" Z="-10.351202" />
         <BoundingMax X="9.474251" Y="19.035902" Z="8.411680" />
         <BoundingCenter X="0.399321" Y="8.733126" Z="-0.969761" />
@@ -3270,7 +3270,7 @@
     <Template>
         <Name>t_populusNigra_3s</Name>
         <File>dz\plants\tree\t_populusnigra_3s.p3d</File>
-        <Date>08/05/20 20:26:07</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -3294,7 +3294,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>17.240320</Height>
         <BoundingMin X="-4.801190" Y="-1.588940" Z="-4.981920" />
         <BoundingMax X="5.432521" Y="32.891701" Z="5.745180" />
         <BoundingCenter X="0.315665" Y="15.651381" Z="0.381630" />
@@ -3303,7 +3303,7 @@
     <Template>
         <Name>t_prunusDomestica_2s</Name>
         <File>dz\plants\tree\t_prunusdomestica_2s.p3d</File>
-        <Date>08/05/20 20:25:57</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -3327,7 +3327,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.546257</Height>
         <BoundingMin X="-4.775701" Y="-0.448714" Z="-4.746570" />
         <BoundingMax X="4.695280" Y="10.643801" Z="4.724411" />
         <BoundingCenter X="-0.040210" Y="5.097544" Z="-0.011080" />
@@ -3336,7 +3336,7 @@
     <Template>
         <Name>t_pyrusCommunis_2s</Name>
         <File>dz\plants\tree\t_pyruscommunis_2s.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -3360,7 +3360,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.047558</Height>
         <BoundingMin X="-3.263000" Y="-0.421156" Z="-3.191570" />
         <BoundingMax X="3.114740" Y="7.673960" Z="3.104430" />
         <BoundingCenter X="-0.074130" Y="3.626402" Z="-0.043570" />
@@ -3369,7 +3369,7 @@
     <Template>
         <Name>t_pyrusCommunis_3s</Name>
         <File>dz\plants\tree\t_pyruscommunis_3s.p3d</File>
-        <Date>08/05/20 20:26:03</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -3393,7 +3393,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.729022</Height>
         <BoundingMin X="-5.206690" Y="-0.451444" Z="-4.666181" />
         <BoundingMax X="4.643430" Y="13.006600" Z="5.021131" />
         <BoundingCenter X="-0.281630" Y="6.277578" Z="0.177475" />
@@ -3402,7 +3402,7 @@
     <Template>
         <Name>t_quercusRobur_1f</Name>
         <File>dz\plants\tree\t_quercusrobur_1f.p3d</File>
-        <Date>08/05/20 20:26:03</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3426,7 +3426,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.155234</Height>
         <BoundingMin X="-4.476300" Y="-0.491669" Z="-1.340800" />
         <BoundingMax X="1.818310" Y="11.818800" Z="4.380360" />
         <BoundingCenter X="-1.328995" Y="5.663566" Z="1.519780" />
@@ -3435,7 +3435,7 @@
     <Template>
         <Name>t_quercusRobur_1fb</Name>
         <File>dz\plants\tree\t_quercusrobur_1fb.p3d</File>
-        <Date>08/05/20 20:25:54</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3459,7 +3459,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.745223</Height>
         <BoundingMin X="-1.475570" Y="-0.283116" Z="-1.436650" />
         <BoundingMax X="1.532110" Y="5.207330" Z="1.736240" />
         <BoundingCenter X="0.028270" Y="2.462107" Z="0.149795" />
@@ -3468,7 +3468,7 @@
     <Template>
         <Name>t_quercusRobur_1fc</Name>
         <File>dz\plants\tree\t_quercusrobur_1fc.p3d</File>
-        <Date>08/05/20 20:26:35</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3492,7 +3492,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>10.062768</Height>
         <BoundingMin X="-4.965250" Y="-0.741234" Z="-4.152491" />
         <BoundingMax X="4.702710" Y="19.384302" Z="4.463310" />
         <BoundingCenter X="-0.131270" Y="9.321534" Z="0.155410" />
@@ -3501,7 +3501,7 @@
     <Template>
         <Name>t_quercusRobur_1fd</Name>
         <File>dz\plants\tree\t_quercusrobur_1fd.p3d</File>
-        <Date>08/05/20 20:26:33</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3525,7 +3525,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.786270</Height>
         <BoundingMin X="-5.030770" Y="-0.935939" Z="-4.551340" />
         <BoundingMax X="7.382051" Y="18.636600" Z="6.400290" />
         <BoundingCenter X="1.175640" Y="8.850330" Z="0.924475" />
@@ -3534,7 +3534,7 @@
     <Template>
         <Name>t_quercusRobur_1s</Name>
         <File>dz\plants\tree\t_quercusrobur_1s.p3d</File>
-        <Date>08/05/20 20:26:25</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3558,7 +3558,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.684240</Height>
         <BoundingMin X="-1.948980" Y="-0.276010" Z="-2.148010" />
         <BoundingMax X="2.024400" Y="7.092471" Z="2.142910" />
         <BoundingCenter X="0.037710" Y="3.408230" Z="-0.002550" />
@@ -3567,7 +3567,7 @@
     <Template>
         <Name>t_quercusRobur_2d</Name>
         <File>dz\plants\tree\t_quercusrobur_2d.p3d</File>
-        <Date>08/05/20 20:26:35</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3591,7 +3591,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>12.929781</Height>
         <BoundingMin X="-4.790771" Y="-2.030160" Z="-8.000741" />
         <BoundingMax X="10.698100" Y="23.829401" Z="10.608401" />
         <BoundingCenter X="2.953665" Y="10.899620" Z="1.303830" />
@@ -3600,7 +3600,7 @@
     <Template>
         <Name>t_quercusRobur_2f</Name>
         <File>dz\plants\tree\t_quercusrobur_2f.p3d</File>
-        <Date>08/05/20 20:26:32</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3624,7 +3624,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.345446</Height>
         <BoundingMin X="-9.630321" Y="-1.837290" Z="-9.891460" />
         <BoundingMax X="11.520101" Y="26.853601" Z="10.521702" />
         <BoundingCenter X="0.944890" Y="12.508156" Z="0.315121" />
@@ -3633,7 +3633,7 @@
     <Template>
         <Name>t_quercusRobur_2fb</Name>
         <File>dz\plants\tree\t_quercusrobur_2fb.p3d</File>
-        <Date>08/05/20 20:26:00</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3657,7 +3657,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>12.819125</Height>
         <BoundingMin X="-10.632401" Y="-1.051350" Z="-11.591701" />
         <BoundingMax X="7.751360" Y="24.586901" Z="7.552831" />
         <BoundingCenter X="-1.440520" Y="11.767776" Z="-2.019435" />
@@ -3666,7 +3666,7 @@
     <Template>
         <Name>t_quercusRobur_2fc</Name>
         <File>dz\plants\tree\t_quercusrobur_2fc.p3d</File>
-        <Date>08/05/20 20:25:59</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3690,7 +3690,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>10.994795</Height>
         <BoundingMin X="-5.586210" Y="-1.104390" Z="-13.333600" />
         <BoundingMax X="3.642400" Y="20.885201" Z="5.578410" />
         <BoundingCenter X="-0.971905" Y="9.890406" Z="-3.877595" />
@@ -3699,7 +3699,7 @@
     <Template>
         <Name>t_quercusRobur_2s</Name>
         <File>dz\plants\tree\t_quercusrobur_2s.p3d</File>
-        <Date>08/05/20 20:26:14</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3723,7 +3723,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>13.532801</Height>
         <BoundingMin X="-9.640370" Y="-3.862800" Z="-10.129702" />
         <BoundingMax X="10.163301" Y="23.202803" Z="10.599100" />
         <BoundingCenter X="0.261465" Y="9.670002" Z="0.234699" />
@@ -3732,7 +3732,7 @@
     <Template>
         <Name>t_quercusRobur_2sb</Name>
         <File>dz\plants\tree\t_quercusrobur_2sb.p3d</File>
-        <Date>08/05/20 20:26:04</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3756,7 +3756,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>13.532801</Height>
         <BoundingMin X="-10.345000" Y="-3.862800" Z="-10.067600" />
         <BoundingMax X="10.185201" Y="23.202803" Z="10.306801" />
         <BoundingCenter X="-0.079900" Y="9.670002" Z="0.119600" />
@@ -3765,7 +3765,7 @@
     <Template>
         <Name>t_quercusRobur_2sc</Name>
         <File>dz\plants\tree\t_quercusrobur_2sc.p3d</File>
-        <Date>08/05/20 20:26:03</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3789,7 +3789,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>10.338875</Height>
         <BoundingMin X="-5.268510" Y="-1.107850" Z="-5.608450" />
         <BoundingMax X="5.948380" Y="19.569901" Z="5.608440" />
         <BoundingCenter X="0.339935" Y="9.231026" Z="-0.000005" />
@@ -3798,7 +3798,7 @@
     <Template>
         <Name>t_quercusRobur_3d</Name>
         <File>dz\plants\tree\t_quercusrobur_3d.p3d</File>
-        <Date>08/05/20 20:26:25</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3822,7 +3822,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.407677</Height>
         <BoundingMin X="-8.874540" Y="-1.879550" Z="-7.159921" />
         <BoundingMax X="9.494822" Y="26.935802" Z="7.407260" />
         <BoundingCenter X="0.310141" Y="12.528126" Z="0.123670" />
@@ -3831,7 +3831,7 @@
     <Template>
         <Name>t_quercusRobur_3f</Name>
         <File>dz\plants\tree\t_quercusrobur_3f.p3d</File>
-        <Date>08/05/20 20:26:22</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3855,7 +3855,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>15.108451</Height>
         <BoundingMin X="-9.133001" Y="-1.842100" Z="-8.338921" />
         <BoundingMax X="7.791041" Y="28.374802" Z="11.339201" />
         <BoundingCenter X="-0.670980" Y="13.266351" Z="1.500140" />
@@ -3864,7 +3864,7 @@
     <Template>
         <Name>t_quercusRobur_3fb</Name>
         <File>dz\plants\tree\t_quercusrobur_3fb.p3d</File>
-        <Date>08/05/20 20:26:05</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3888,7 +3888,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.224280</Height>
         <BoundingMin X="-11.889800" Y="-1.444860" Z="-6.206910" />
         <BoundingMax X="7.093640" Y="27.003700" Z="11.573100" />
         <BoundingCenter X="-2.398080" Y="12.779420" Z="2.683095" />
@@ -3897,7 +3897,7 @@
     <Template>
         <Name>t_quercusRobur_3s</Name>
         <File>dz\plants\tree\t_quercusrobur_3s.p3d</File>
-        <Date>08/05/20 20:25:58</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -3921,7 +3921,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>13.572716</Height>
         <BoundingMin X="-8.060030" Y="-1.641730" Z="-7.343410" />
         <BoundingMax X="6.626791" Y="25.503700" Z="7.343410" />
         <BoundingCenter X="-0.716619" Y="11.930984" Z="0.000000" />
@@ -3930,7 +3930,7 @@
     <Template>
         <Name>t_robiniaPseudoacacia_1f</Name>
         <File>dz\plants\tree\t_robiniapseudoacacia_1f.p3d</File>
-        <Date>08/05/20 20:26:34</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -3954,7 +3954,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.249057</Height>
         <BoundingMin X="-2.015740" Y="-0.673234" Z="-1.679330" />
         <BoundingMax X="1.564330" Y="5.824880" Z="1.721380" />
         <BoundingCenter X="-0.225705" Y="2.575823" Z="0.021025" />
@@ -3963,7 +3963,7 @@
     <Template>
         <Name>t_robiniaPseudoacacia_2f</Name>
         <File>dz\plants\tree\t_robiniapseudoacacia_2f.p3d</File>
-        <Date>08/05/20 20:26:24</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -3987,7 +3987,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>11.396490</Height>
         <BoundingMin X="-6.218600" Y="-1.709780" Z="-5.422830" />
         <BoundingMax X="6.405870" Y="21.083200" Z="5.902650" />
         <BoundingCenter X="0.093635" Y="9.686710" Z="0.239910" />
@@ -3996,7 +3996,7 @@
     <Template>
         <Name>t_robiniaPseudoacacia_2s</Name>
         <File>dz\plants\tree\t_robiniapseudoacacia_2s.p3d</File>
-        <Date>08/05/20 20:26:01</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -4020,7 +4020,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>13.241140</Height>
         <BoundingMin X="-9.920211" Y="-3.606180" Z="-10.442900" />
         <BoundingMax X="10.357100" Y="22.876101" Z="9.106531" />
         <BoundingCenter X="0.218445" Y="9.634960" Z="-0.668184" />
@@ -4029,7 +4029,7 @@
     <Template>
         <Name>t_robiniaPseudoacacia_3f</Name>
         <File>dz\plants\tree\t_robiniapseudoacacia_3f.p3d</File>
-        <Date>08/05/20 20:26:09</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -4053,7 +4053,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.101501</Height>
         <BoundingMin X="-7.420770" Y="-3.379101" Z="-6.925670" />
         <BoundingMax X="7.422121" Y="24.823902" Z="8.898150" />
         <BoundingCenter X="0.000675" Y="10.722401" Z="0.986240" />
@@ -4062,7 +4062,7 @@
     <Template>
         <Name>t_salixAlba_2s</Name>
         <File>dz\plants\tree\t_salixalba_2s.p3d</File>
-        <Date>08/05/20 20:26:04</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -4086,7 +4086,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.972657</Height>
         <BoundingMin X="-8.641373" Y="-1.400215" Z="-9.389530" />
         <BoundingMax X="10.175007" Y="12.545100" Z="9.712929" />
         <BoundingCenter X="0.766817" Y="5.572443" Z="0.161699" />
@@ -4095,7 +4095,7 @@
     <Template>
         <Name>c_Anthoxanthum</Name>
         <File>dz\plants\clutter\c_anthoxanthum.p3d</File>
-        <Date>08/05/20 20:25:52</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4119,7 +4119,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.977708</Height>
         <BoundingMin X="-0.672495" Y="-0.017614" Z="-0.603050" />
         <BoundingMax X="0.506541" Y="1.937801" Z="0.748045" />
         <BoundingCenter X="-0.082977" Y="0.960093" Z="0.072497" />
@@ -4128,7 +4128,7 @@
     <Template>
         <Name>c_Anthoxanthum_bended</Name>
         <File>dz\plants\clutter\c_anthoxanthum_bended.p3d</File>
-        <Date>08/05/20 20:26:22</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4152,7 +4152,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.878363</Height>
         <BoundingMin X="-0.841528" Y="-0.094687" Z="-0.597778" />
         <BoundingMax X="0.663814" Y="1.662038" Z="1.579558" />
         <BoundingCenter X="-0.088857" Y="0.783675" Z="0.490890" />
@@ -4161,7 +4161,7 @@
     <Template>
         <Name>c_Calamagrostis</Name>
         <File>dz\plants\clutter\c_calamagrostis.p3d</File>
-        <Date>08/05/20 20:26:03</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4185,7 +4185,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.623038</Height>
         <BoundingMin X="-0.606816" Y="-0.040393" Z="-0.601370" />
         <BoundingMax X="0.564221" Y="1.205684" Z="0.604676" />
         <BoundingCenter X="-0.021297" Y="0.582645" Z="0.001653" />
@@ -4194,7 +4194,7 @@
     <Template>
         <Name>c_Carduus</Name>
         <File>dz\plants\clutter\c_carduus.p3d</File>
-        <Date>08/05/20 20:26:03</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4218,7 +4218,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.787433</Height>
         <BoundingMin X="-0.676153" Y="-0.072199" Z="-0.682743" />
         <BoundingMax X="0.676153" Y="1.502667" Z="0.682743" />
         <BoundingCenter X="0.000000" Y="0.715234" Z="0.000000" />
@@ -4227,7 +4227,7 @@
     <Template>
         <Name>c_ConcreteGrass_bunch</Name>
         <File>dz\plants\clutter\c_concretegrass_bunch.p3d</File>
-        <Date>08/05/20 20:26:30</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4251,7 +4251,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.258887</Height>
         <BoundingMin X="-0.390570" Y="-0.043495" Z="-0.482478" />
         <BoundingMax X="0.363002" Y="0.474279" Z="0.271094" />
         <BoundingCenter X="-0.013784" Y="0.215392" Z="-0.105692" />
@@ -4260,7 +4260,7 @@
     <Template>
         <Name>c_Cones</Name>
         <File>dz\plants\clutter\c_cones.p3d</File>
-        <Date>08/05/20 20:26:35</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4284,7 +4284,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.034732</Height>
         <BoundingMin X="-0.591874" Y="-0.000277" Z="-0.501871" />
         <BoundingMax X="0.591874" Y="0.069187" Z="0.501871" />
         <BoundingCenter X="0.000000" Y="0.034455" Z="0.000000" />
@@ -4293,7 +4293,7 @@
     <Template>
         <Name>c_Elytrigia</Name>
         <File>dz\plants\clutter\c_elytrigia.p3d</File>
-        <Date>08/05/20 20:25:54</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4317,7 +4317,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.367377</Height>
         <BoundingMin X="-0.970491" Y="-0.047308" Z="-0.904718" />
         <BoundingMax X="0.942527" Y="0.687446" Z="0.893803" />
         <BoundingCenter X="-0.013982" Y="0.320069" Z="-0.005457" />
@@ -4326,7 +4326,7 @@
     <Template>
         <Name>c_ElytrigiaForest</Name>
         <File>dz\plants\clutter\c_elytrigiaforest.p3d</File>
-        <Date>08/05/20 20:26:01</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4350,7 +4350,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.323264</Height>
         <BoundingMin X="-0.835757" Y="-0.056609" Z="-0.702453" />
         <BoundingMax X="0.738206" Y="0.589919" Z="0.719425" />
         <BoundingCenter X="-0.048775" Y="0.266655" Z="0.008486" />
@@ -4359,7 +4359,7 @@
     <Template>
         <Name>c_ElytrigiaTall</Name>
         <File>dz\plants\clutter\c_elytrigiatall.p3d</File>
-        <Date>08/05/20 20:26:28</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4383,7 +4383,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.448978</Height>
         <BoundingMin X="-0.606142" Y="-0.051544" Z="-0.534078" />
         <BoundingMax X="0.606142" Y="0.846412" Z="0.534078" />
         <BoundingCenter X="0.000000" Y="0.397434" Z="0.000000" />
@@ -4392,7 +4392,7 @@
     <Template>
         <Name>c_Elytrigia_green</Name>
         <File>dz\plants\clutter\c_elytrigia_green.p3d</File>
-        <Date>08/05/20 20:26:07</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4416,7 +4416,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.367377</Height>
         <BoundingMin X="-0.970491" Y="-0.047308" Z="-0.904718" />
         <BoundingMax X="0.942527" Y="0.687446" Z="0.893803" />
         <BoundingCenter X="-0.013982" Y="0.320069" Z="-0.005457" />
@@ -4425,7 +4425,7 @@
     <Template>
         <Name>c_Hypericum</Name>
         <File>dz\plants\clutter\c_hypericum.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4449,7 +4449,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.715090</Height>
         <BoundingMin X="-0.509839" Y="-0.055270" Z="-0.575952" />
         <BoundingMax X="0.509839" Y="1.374910" Z="0.575952" />
         <BoundingCenter X="0.000000" Y="0.659820" Z="0.000000" />
@@ -4458,7 +4458,7 @@
     <Template>
         <Name>c_leafs_spread</Name>
         <File>dz\plants\clutter\c_leafs_spread.p3d</File>
-        <Date>08/05/20 20:26:03</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4482,7 +4482,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.026381</Height>
         <BoundingMin X="-0.757378" Y="0.000000" Z="-0.732458" />
         <BoundingMax X="0.746879" Y="0.052763" Z="0.724401" />
         <BoundingCenter X="-0.005249" Y="0.026381" Z="-0.004028" />
@@ -4491,7 +4491,7 @@
     <Template>
         <Name>c_Lolium</Name>
         <File>dz\plants\clutter\c_lolium.p3d</File>
-        <Date>08/05/20 20:26:00</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4515,7 +4515,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.549849</Height>
         <BoundingMin X="-0.694903" Y="-0.015323" Z="-0.457063" />
         <BoundingMax X="0.694903" Y="1.084374" Z="0.420641" />
         <BoundingCenter X="0.000000" Y="0.534526" Z="-0.018211" />
@@ -4524,7 +4524,7 @@
     <Template>
         <Name>c_Pines</Name>
         <File>dz\plants\clutter\c_pines.p3d</File>
-        <Date>08/05/20 20:26:30</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4548,7 +4548,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.606616</Height>
         <BoundingMin X="-0.799838" Y="-0.031791" Z="-0.785179" />
         <BoundingMax X="0.997890" Y="1.181441" Z="0.911560" />
         <BoundingCenter X="0.099026" Y="0.574825" Z="0.063190" />
@@ -4557,7 +4557,7 @@
     <Template>
         <Name>c_Polypodiophyta</Name>
         <File>dz\plants\clutter\c_polypodiophyta.p3d</File>
-        <Date>08/05/20 20:26:23</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4581,7 +4581,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.352585</Height>
         <BoundingMin X="-0.969736" Y="-0.069280" Z="-0.879757" />
         <BoundingMax X="1.042691" Y="0.635891" Z="0.887165" />
         <BoundingCenter X="0.036477" Y="0.283306" Z="0.003704" />
@@ -4590,7 +4590,7 @@
     <Template>
         <Name>c_Polypodiophyta_tall</Name>
         <File>dz\plants\clutter\c_polypodiophyta_tall.p3d</File>
-        <Date>08/05/20 20:26:18</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4614,7 +4614,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.641200</Height>
         <BoundingMin X="-1.283010" Y="-0.018047" Z="-1.382582" />
         <BoundingMax X="1.696096" Y="1.264353" Z="1.484566" />
         <BoundingCenter X="0.206543" Y="0.623153" Z="0.050992" />
@@ -4623,7 +4623,7 @@
     <Template>
         <Name>c_Taraxacum</Name>
         <File>dz\plants\clutter\c_taraxacum.p3d</File>
-        <Date>08/05/20 20:26:18</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4647,7 +4647,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.058303</Height>
         <BoundingMin X="-0.345199" Y="-0.032887" Z="-0.354518" />
         <BoundingMax X="0.370899" Y="0.083719" Z="0.386132" />
         <BoundingCenter X="0.012850" Y="0.025416" Z="0.015807" />
@@ -4656,7 +4656,7 @@
     <Template>
         <Name>c_Twigs</Name>
         <File>dz\plants\clutter\c_twigs.p3d</File>
-        <Date>08/05/20 20:26:02</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4680,7 +4680,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.164216</Height>
         <BoundingMin X="-0.876729" Y="-0.004654" Z="-0.829444" />
         <BoundingMax X="1.109834" Y="0.323778" Z="0.783443" />
         <BoundingCenter X="0.116552" Y="0.159562" Z="-0.023001" />
@@ -4689,7 +4689,7 @@
     <Template>
         <Name>c_undergrowth</Name>
         <File>dz\plants\clutter\c_undergrowth.p3d</File>
-        <Date>08/05/20 20:26:23</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4713,7 +4713,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.945580</Height>
         <BoundingMin X="-1.046330" Y="-0.015967" Z="-1.120959" />
         <BoundingMax X="1.008083" Y="1.875193" Z="1.221242" />
         <BoundingCenter X="-0.019123" Y="0.929613" Z="0.050142" />
@@ -4722,7 +4722,7 @@
     <Template>
         <Name>c_undergrowth_red</Name>
         <File>dz\plants\clutter\c_undergrowth_red.p3d</File>
-        <Date>08/05/20 20:26:26</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4746,7 +4746,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.945580</Height>
         <BoundingMin X="-1.046330" Y="-0.015967" Z="-1.120959" />
         <BoundingMax X="1.008083" Y="1.875193" Z="1.221242" />
         <BoundingCenter X="-0.019123" Y="0.929613" Z="0.050142" />
@@ -4755,7 +4755,7 @@
     <Template>
         <Name>c_Vaccinium</Name>
         <File>dz\plants\clutter\c_vaccinium.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4779,7 +4779,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.259506</Height>
         <BoundingMin X="-0.992553" Y="-0.081485" Z="-0.819623" />
         <BoundingMax X="0.992553" Y="0.437528" Z="0.747555" />
         <BoundingCenter X="0.000000" Y="0.178022" Z="-0.036034" />
@@ -4788,7 +4788,7 @@
     <Template>
         <Name>c_Vaccinium_green</Name>
         <File>dz\plants\clutter\c_vaccinium_green.p3d</File>
-        <Date>08/05/20 20:26:06</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4812,7 +4812,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.259506</Height>
         <BoundingMin X="-0.992553" Y="-0.081485" Z="-0.819623" />
         <BoundingMax X="0.992553" Y="0.437528" Z="0.747555" />
         <BoundingCenter X="0.000000" Y="0.178022" Z="-0.036034" />
@@ -4821,7 +4821,7 @@
     <Template>
         <Name>c_Vaccinium_tall</Name>
         <File>dz\plants\clutter\c_vaccinium_tall.p3d</File>
-        <Date>08/05/20 20:26:23</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-16744448</Fill>
         <Outline>-1</Outline>
@@ -4845,7 +4845,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.643011</Height>
         <BoundingMin X="-1.024668" Y="-0.100746" Z="-0.958768" />
         <BoundingMax X="0.930829" Y="1.185275" Z="1.012128" />
         <BoundingCenter X="-0.046920" Y="0.542264" Z="0.026680" />
@@ -4854,7 +4854,7 @@
     <Template>
         <Name>b_betulaHumilis_1s</Name>
         <File>dz\plants\bush\b_betulahumilis_1s.p3d</File>
-        <Date>08/05/20 20:25:58</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -4878,7 +4878,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.121808</Height>
         <BoundingMin X="-1.603110" Y="-0.276605" Z="-1.386280" />
         <BoundingMax X="1.491670" Y="1.967010" Z="1.926600" />
         <BoundingCenter X="-0.055720" Y="0.845203" Z="0.270160" />
@@ -4887,7 +4887,7 @@
     <Template>
         <Name>b_naked_2s</Name>
         <File>dz\plants\bush\b_naked_2s.p3d</File>
-        <Date>08/05/20 20:26:28</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -4911,7 +4911,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.744222</Height>
         <BoundingMin X="-2.997645" Y="-0.456134" Z="-2.543050" />
         <BoundingMax X="2.439175" Y="5.032310" Z="2.599470" />
         <BoundingCenter X="-0.279235" Y="2.288088" Z="0.028210" />
@@ -4920,7 +4920,7 @@
     <Template>
         <Name>t_FagusSylvatica_2sb_Trail_B</Name>
         <File>dz\plants\tree\t_fagussylvatica_2sb_trail_b.p3d</File>
-        <Date>08/05/20 20:26:16</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -4944,7 +4944,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.208700</Height>
         <BoundingMin X="-6.383030" Y="-1.388800" Z="-5.683110" />
         <BoundingMax X="6.487780" Y="17.028601" Z="6.209020" />
         <BoundingCenter X="0.052375" Y="7.819901" Z="0.262955" />
@@ -4953,7 +4953,7 @@
     <Template>
         <Name>t_FagusSylvatica_2sb_Trail_G</Name>
         <File>dz\plants\tree\t_fagussylvatica_2sb_trail_g.p3d</File>
-        <Date>08/05/20 20:26:04</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -4977,7 +4977,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.208700</Height>
         <BoundingMin X="-6.383030" Y="-1.388800" Z="-5.683110" />
         <BoundingMax X="6.487780" Y="17.028601" Z="6.209020" />
         <BoundingCenter X="0.052375" Y="7.819901" Z="0.262955" />
@@ -4986,7 +4986,7 @@
     <Template>
         <Name>t_FagusSylvatica_2sb_Trail_R</Name>
         <File>dz\plants\tree\t_fagussylvatica_2sb_trail_r.p3d</File>
-        <Date>08/05/20 20:26:28</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -5010,7 +5010,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.208700</Height>
         <BoundingMin X="-6.383030" Y="-1.388800" Z="-5.683110" />
         <BoundingMax X="6.487780" Y="17.028601" Z="6.209020" />
         <BoundingCenter X="0.052375" Y="7.819901" Z="0.262955" />
@@ -5019,7 +5019,7 @@
     <Template>
         <Name>t_FagusSylvatica_2sb_Trail_Y</Name>
         <File>dz\plants\tree\t_fagussylvatica_2sb_trail_y.p3d</File>
-        <Date>08/05/20 20:26:19</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -5043,7 +5043,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.208700</Height>
         <BoundingMin X="-6.383030" Y="-1.388800" Z="-5.683110" />
         <BoundingMax X="6.487780" Y="17.028601" Z="6.209020" />
         <BoundingCenter X="0.052375" Y="7.819901" Z="0.262955" />
@@ -5052,7 +5052,7 @@
     <Template>
         <Name>t_PiceaAbies_3f_Trail_B</Name>
         <File>dz\plants\tree\t_piceaabies_3f_trail_b.p3d</File>
-        <Date>08/05/20 20:26:24</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -5076,7 +5076,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.605995</Height>
         <BoundingMin X="-4.207231" Y="-2.366890" Z="-4.575140" />
         <BoundingMax X="4.034970" Y="26.845100" Z="3.967371" />
         <BoundingCenter X="-0.086130" Y="12.239105" Z="-0.303885" />
@@ -5085,7 +5085,7 @@
     <Template>
         <Name>t_PiceaAbies_3f_Trail_G</Name>
         <File>dz\plants\tree\t_piceaabies_3f_trail_g.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -5109,7 +5109,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.605995</Height>
         <BoundingMin X="-4.207231" Y="-2.366890" Z="-4.575140" />
         <BoundingMax X="4.034970" Y="26.845100" Z="3.967371" />
         <BoundingCenter X="-0.086130" Y="12.239105" Z="-0.303885" />
@@ -5118,7 +5118,7 @@
     <Template>
         <Name>t_PiceaAbies_3f_Trail_R</Name>
         <File>dz\plants\tree\t_piceaabies_3f_trail_r.p3d</File>
-        <Date>08/05/20 20:25:56</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -5142,7 +5142,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.605995</Height>
         <BoundingMin X="-4.207231" Y="-2.366890" Z="-4.575140" />
         <BoundingMax X="4.034970" Y="26.845100" Z="3.967371" />
         <BoundingCenter X="-0.086130" Y="12.239105" Z="-0.303885" />
@@ -5151,7 +5151,7 @@
     <Template>
         <Name>t_PiceaAbies_3f_Trail_Y</Name>
         <File>dz\plants\tree\t_piceaabies_3f_trail_y.p3d</File>
-        <Date>08/05/20 20:26:27</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-15440876</Fill>
         <Outline>-1</Outline>
@@ -5175,7 +5175,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>14.605995</Height>
         <BoundingMin X="-4.207231" Y="-2.366890" Z="-4.575140" />
         <BoundingMax X="4.034970" Y="26.845100" Z="3.967371" />
         <BoundingCenter X="-0.086130" Y="12.239105" Z="-0.303885" />
@@ -5184,7 +5184,7 @@
     <Template>
         <Name>b_crataegusLaevigata_2s</Name>
         <File>dz\plants\bush\b_crataeguslaevigata_2s.p3d</File>
-        <Date>08/05/20 20:25:57</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-6250296</Fill>
         <Outline>-1</Outline>
@@ -5208,7 +5208,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.511553</Height>
         <BoundingMin X="-4.277220" Y="-0.221995" Z="-4.600880" />
         <BoundingMax X="3.768510" Y="6.801110" Z="4.069450" />
         <BoundingCenter X="-0.254355" Y="3.289557" Z="-0.265715" />
@@ -5217,7 +5217,7 @@
     <Template>
         <Name>p_articum</Name>
         <File>dz\plants\clutter\p_articum.p3d</File>
-        <Date>08/05/20 20:25:56</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -5241,7 +5241,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.299493</Height>
         <BoundingMin X="-1.540141" Y="-0.019952" Z="-1.212382" />
         <BoundingMax X="0.504864" Y="0.579034" Z="1.188258" />
         <BoundingCenter X="-0.517638" Y="0.279541" Z="-0.012062" />
@@ -5250,7 +5250,7 @@
     <Template>
         <Name>p_Helianthus</Name>
         <File>dz\plants\clutter\p_helianthus.p3d</File>
-        <Date>08/05/20 20:26:03</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -5274,7 +5274,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.872311</Height>
         <BoundingMin X="-0.205797" Y="-0.204881" Z="-0.213247" />
         <BoundingMax X="0.249882" Y="1.539740" Z="0.280449" />
         <BoundingCenter X="0.022043" Y="0.667430" Z="0.033601" />
@@ -5283,7 +5283,7 @@
     <Template>
         <Name>p_heracleum</Name>
         <File>dz\plants\clutter\p_heracleum.p3d</File>
-        <Date>08/05/20 20:26:31</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -5307,7 +5307,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.899986</Height>
         <BoundingMin X="-1.078365" Y="-0.162164" Z="-1.145499" />
         <BoundingMax X="1.208124" Y="1.637808" Z="0.624132" />
         <BoundingCenter X="0.064879" Y="0.737822" Z="-0.260684" />
@@ -5316,7 +5316,7 @@
     <Template>
         <Name>p_Phragmites</Name>
         <File>dz\plants\clutter\p_phragmites.p3d</File>
-        <Date>08/05/20 20:26:25</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -5340,7 +5340,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.719664</Height>
         <BoundingMin X="-2.564351" Y="-1.448548" Z="-2.274466" />
         <BoundingMax X="2.180447" Y="1.990781" Z="2.449014" />
         <BoundingCenter X="-0.191952" Y="0.271117" Z="0.087274" />
@@ -5349,7 +5349,7 @@
     <Template>
         <Name>p_urtica</Name>
         <File>dz\plants\clutter\p_urtica.p3d</File>
-        <Date>08/05/20 20:26:21</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -5373,7 +5373,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.463076</Height>
         <BoundingMin X="-0.397848" Y="-0.058328" Z="-0.291160" />
         <BoundingMax X="0.711549" Y="0.867824" Z="0.836539" />
         <BoundingCenter X="0.156850" Y="0.404748" Z="0.272689" />
@@ -5382,7 +5382,7 @@
     <Template>
         <Name>c_Broadleaf_sprouts</Name>
         <File>dz\plants\clutter\c_broadleaf_sprouts.p3d</File>
-        <Date>08/05/20 20:26:33</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-1</Fill>
         <Outline>-1</Outline>
@@ -5406,7 +5406,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.336400</Height>
         <BoundingMin X="-0.533519" Y="-0.172801" Z="-0.582560" />
         <BoundingMax X="0.340782" Y="0.500000" Z="0.372427" />
         <BoundingCenter X="-0.096368" Y="0.163600" Z="-0.105067" />
@@ -5415,7 +5415,7 @@
     <Template>
         <Name>c_Broadleaf_sprouts_tall</Name>
         <File>dz\plants\clutter\c_broadleaf_sprouts_tall.p3d</File>
-        <Date>08/05/20 20:26:31</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-1</Fill>
         <Outline>-1</Outline>
@@ -5439,7 +5439,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.300308</Height>
         <BoundingMin X="-0.533519" Y="-0.040090" Z="-0.587487" />
         <BoundingMax X="0.572673" Y="0.560525" Z="0.455195" />
         <BoundingCenter X="0.019577" Y="0.260218" Z="-0.066146" />
@@ -5448,7 +5448,7 @@
     <Template>
         <Name>c_Carduus_f</Name>
         <File>dz\plants\clutter\c_carduus_f.p3d</File>
-        <Date>08/05/20 20:26:32</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-1</Fill>
         <Outline>-1</Outline>
@@ -5472,7 +5472,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.787433</Height>
         <BoundingMin X="-0.676153" Y="-0.072199" Z="-0.682743" />
         <BoundingMax X="0.676153" Y="1.502667" Z="0.682743" />
         <BoundingCenter X="0.000000" Y="0.715234" Z="0.000000" />
@@ -5481,7 +5481,7 @@
     <Template>
         <Name>c_DirtGrass_bunch</Name>
         <File>dz\plants\clutter\c_dirtgrass_bunch.p3d</File>
-        <Date>08/05/20 20:26:04</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-1</Fill>
         <Outline>-1</Outline>
@@ -5505,7 +5505,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.258887</Height>
         <BoundingMin X="-0.390570" Y="-0.043495" Z="-0.482478" />
         <BoundingMax X="0.363002" Y="0.474279" Z="0.271094" />
         <BoundingCenter X="-0.013784" Y="0.215392" Z="-0.105692" />
@@ -5514,7 +5514,7 @@
     <Template>
         <Name>c_ElytrigiaDirt</Name>
         <File>dz\plants\clutter\c_elytrigiadirt.p3d</File>
-        <Date>08/05/20 20:26:34</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-1</Fill>
         <Outline>-1</Outline>
@@ -5538,7 +5538,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.323264</Height>
         <BoundingMin X="-0.835757" Y="-0.056609" Z="-0.702453" />
         <BoundingMax X="0.738206" Y="0.589919" Z="0.719425" />
         <BoundingCenter X="-0.048775" Y="0.266655" Z="0.008486" />
@@ -5547,7 +5547,7 @@
     <Template>
         <Name>c_Hypericum_f</Name>
         <File>dz\plants\clutter\c_hypericum_f.p3d</File>
-        <Date>08/05/20 20:26:22</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-1</Fill>
         <Outline>-1</Outline>
@@ -5571,7 +5571,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.715090</Height>
         <BoundingMin X="-0.509839" Y="-0.055270" Z="-0.575952" />
         <BoundingMax X="0.509839" Y="1.374910" Z="0.575952" />
         <BoundingCenter X="0.000000" Y="0.659820" Z="0.000000" />
@@ -5580,7 +5580,7 @@
     <Template>
         <Name>c_Polypodiophyta_b</Name>
         <File>dz\plants\clutter\c_polypodiophyta_b.p3d</File>
-        <Date>08/05/20 20:25:58</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-1</Fill>
         <Outline>-1</Outline>
@@ -5604,7 +5604,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.352585</Height>
         <BoundingMin X="-0.969736" Y="-0.069280" Z="-0.879757" />
         <BoundingMax X="1.042691" Y="0.635891" Z="0.887165" />
         <BoundingCenter X="0.036477" Y="0.283306" Z="0.003704" />
@@ -5613,7 +5613,7 @@
     <Template>
         <Name>c_Polypodiophyta_c</Name>
         <File>dz\plants\clutter\c_polypodiophyta_c.p3d</File>
-        <Date>08/05/20 20:25:56</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-1</Fill>
         <Outline>-1</Outline>
@@ -5637,7 +5637,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.352585</Height>
         <BoundingMin X="-0.969736" Y="-0.069280" Z="-0.879757" />
         <BoundingMax X="1.042691" Y="0.635891" Z="0.887165" />
         <BoundingCenter X="0.036477" Y="0.283306" Z="0.003704" />
@@ -5646,7 +5646,7 @@
     <Template>
         <Name>c_Twigs_b</Name>
         <File>dz\plants\clutter\c_twigs_b.p3d</File>
-        <Date>08/05/20 20:26:21</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-1</Fill>
         <Outline>-1</Outline>
@@ -5670,7 +5670,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.126246</Height>
         <BoundingMin X="-0.876729" Y="-0.010008" Z="-0.829444" />
         <BoundingMax X="1.109834" Y="0.242484" Z="0.783443" />
         <BoundingCenter X="0.116552" Y="0.116238" Z="-0.023001" />
@@ -5679,7 +5679,7 @@
     <Template>
         <Name>c_Vaccinium_red</Name>
         <File>dz\plants\clutter\c_vaccinium_red.p3d</File>
-        <Date>08/05/20 20:26:07</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-1</Fill>
         <Outline>-1</Outline>
@@ -5703,7 +5703,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.259506</Height>
         <BoundingMin X="-0.992553" Y="-0.081485" Z="-0.819623" />
         <BoundingMax X="0.992553" Y="0.437528" Z="0.747555" />
         <BoundingCenter X="0.000000" Y="0.178022" Z="-0.036034" />
@@ -5712,7 +5712,7 @@
     <Template>
         <Name>l_large_pile</Name>
         <File>dz\plants\clutter\l_large_pile.p3d</File>
-        <Date>08/05/20 20:26:16</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -5736,7 +5736,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.167986</Height>
         <BoundingMin X="-1.059290" Y="-0.012878" Z="-1.034660" />
         <BoundingMax X="1.150470" Y="0.323094" Z="1.078490" />
         <BoundingCenter X="0.045590" Y="0.155108" Z="0.021915" />
@@ -5745,7 +5745,7 @@
     <Template>
         <Name>l_long_pile_a</Name>
         <File>dz\plants\clutter\l_long_pile_a.p3d</File>
-        <Date>08/05/20 20:26:28</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -5769,7 +5769,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.156162</Height>
         <BoundingMin X="-1.000000" Y="-0.026196" Z="-0.656413" />
         <BoundingMax X="1.000000" Y="0.286127" Z="0.723838" />
         <BoundingCenter X="0.000000" Y="0.129965" Z="0.033713" />
@@ -5778,7 +5778,7 @@
     <Template>
         <Name>l_long_pile_b</Name>
         <File>dz\plants\clutter\l_long_pile_b.p3d</File>
-        <Date>08/05/20 20:26:27</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -5802,7 +5802,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.130081</Height>
         <BoundingMin X="-1.334560" Y="-0.036048" Z="-0.600000" />
         <BoundingMax X="1.250000" Y="0.224115" Z="0.600000" />
         <BoundingCenter X="-0.042280" Y="0.094034" Z="0.000000" />
@@ -5811,7 +5811,7 @@
     <Template>
         <Name>l_plane</Name>
         <File>dz\plants\clutter\l_plane.p3d</File>
-        <Date>08/05/20 20:26:09</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -5844,7 +5844,7 @@
     <Template>
         <Name>l_plane_long</Name>
         <File>dz\plants\clutter\l_plane_long.p3d</File>
-        <Date>08/05/20 20:25:58</Date>
+        <Date>07/28/21 17:13:44</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -5877,7 +5877,7 @@
     <Template>
         <Name>t_BetulaPendula_2w</Name>
         <File>dz\plants\tree\t_betulapendula_2w.p3d</File>
-        <Date>08/05/20 20:26:22</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -5901,7 +5901,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.893000</Height>
         <BoundingMin X="-2.600942" Y="-0.260389" Z="-3.207157" />
         <BoundingMax X="3.169830" Y="5.525610" Z="3.649824" />
         <BoundingCenter X="0.284444" Y="2.632610" Z="0.221334" />
@@ -5910,7 +5910,7 @@
     <Template>
         <Name>t_carpinus_2s</Name>
         <File>dz\plants\tree\t_carpinus_2s.p3d</File>
-        <Date>08/05/20 20:26:35</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -5934,7 +5934,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>8.992706</Height>
         <BoundingMin X="-11.573145" Y="-1.339680" Z="-9.012415" />
         <BoundingMax X="8.898233" Y="16.645733" Z="9.149805" />
         <BoundingCenter X="-1.337456" Y="7.653027" Z="0.068695" />
@@ -5943,7 +5943,7 @@
     <Template>
         <Name>t_FraxinusExcelsior_2s</Name>
         <File>dz\plants\tree\t_fraxinusexcelsior_2s.p3d</File>
-        <Date>08/05/20 20:26:01</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -5967,7 +5967,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>13.116629</Height>
         <BoundingMin X="-9.402966" Y="-2.783860" Z="-9.394974" />
         <BoundingMax X="9.532514" Y="23.449398" Z="8.438858" />
         <BoundingCenter X="0.064774" Y="10.332769" Z="-0.478058" />
@@ -5976,7 +5976,7 @@
     <Template>
         <Name>t_FraxinusExcelsior_2w</Name>
         <File>dz\plants\tree\t_fraxinusexcelsior_2w.p3d</File>
-        <Date>08/05/20 20:26:36</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -6000,7 +6000,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.502594</Height>
         <BoundingMin X="-5.625374" Y="-1.147096" Z="-5.529063" />
         <BoundingMax X="5.944713" Y="7.858091" Z="4.934342" />
         <BoundingCenter X="0.159669" Y="3.355498" Z="-0.297360" />
@@ -6009,7 +6009,7 @@
     <Template>
         <Name>t_malusDomestica_1s</Name>
         <File>dz\plants\tree\t_malusdomestica_1s.p3d</File>
-        <Date>08/05/20 20:26:35</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -6033,7 +6033,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.440280</Height>
         <BoundingMin X="-3.920711" Y="-1.638834" Z="-4.937114" />
         <BoundingMax X="3.661787" Y="7.241726" Z="5.079232" />
         <BoundingCenter X="-0.129462" Y="2.801446" Z="0.071059" />
@@ -6042,7 +6042,7 @@
     <Template>
         <Name>t_naked_1s</Name>
         <File>dz\plants\tree\t_naked_1s.p3d</File>
-        <Date>08/05/20 20:26:23</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -6066,7 +6066,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.691828</Height>
         <BoundingMin X="-3.428130" Y="-0.188485" Z="-3.683016" />
         <BoundingMax X="3.399178" Y="9.195170" Z="3.713670" />
         <BoundingCenter X="-0.014476" Y="4.503343" Z="0.015327" />
@@ -6075,7 +6075,7 @@
     <Template>
         <Name>t_naked_2s</Name>
         <File>dz\plants\tree\t_naked_2s.p3d</File>
-        <Date>08/05/20 20:26:07</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-8897536</Fill>
         <Outline>-1</Outline>
@@ -6099,7 +6099,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>12.600636</Height>
         <BoundingMin X="-7.478500" Y="-3.152870" Z="-7.126571" />
         <BoundingMax X="8.480510" Y="22.048401" Z="7.910701" />
         <BoundingCenter X="0.501005" Y="9.447765" Z="0.392065" />
@@ -6108,7 +6108,7 @@
     <Template>
         <Name>t_PiceaAbies_2s_xmas</Name>
         <File>dz\plants\tree\t_piceaabies_2s_xmas.p3d</File>
-        <Date>08/05/20 20:26:04</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-1</Fill>
         <Outline>-1</Outline>
@@ -6132,7 +6132,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>10.228418</Height>
         <BoundingMin X="-5.808121" Y="-2.503049" Z="-5.357997" />
         <BoundingMax X="5.145178" Y="17.953789" Z="5.171962" />
         <BoundingCenter X="-0.331471" Y="7.725370" Z="-0.093018" />
@@ -6141,7 +6141,7 @@
     <Template>
         <Name>t_pyrusCommunis_3sb</Name>
         <File>dz\plants\tree\t_pyruscommunis_3sb.p3d</File>
-        <Date>08/05/20 20:26:30</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -6165,7 +6165,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>7.545332</Height>
         <BoundingMin X="-5.678960" Y="-1.909864" Z="-5.518940" />
         <BoundingMax X="5.463113" Y="13.180800" Z="5.641440" />
         <BoundingCenter X="-0.107924" Y="5.635468" Z="0.061250" />
@@ -6174,7 +6174,7 @@
     <Template>
         <Name>t_quercusRobur_3sb</Name>
         <File>dz\plants\tree\t_quercusrobur_3sb.p3d</File>
-        <Date>08/05/20 20:26:12</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-6286316</Fill>
         <Outline>-1</Outline>
@@ -6198,7 +6198,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>12.547081</Height>
         <BoundingMin X="-11.990201" Y="-3.237340" Z="-13.149401" />
         <BoundingMax X="12.076207" Y="21.856821" Z="12.977537" />
         <BoundingCenter X="0.043003" Y="9.309740" Z="-0.085932" />
@@ -6207,7 +6207,7 @@
     <Template>
         <Name>t_salixAlba_2sb</Name>
         <File>dz\plants\tree\t_salixalba_2sb.p3d</File>
-        <Date>08/05/20 20:26:25</Date>
+        <Date>07/28/21 17:13:48</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -6231,7 +6231,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>7.366179</Height>
         <BoundingMin X="-7.475290" Y="-1.613506" Z="-8.922009" />
         <BoundingMax X="9.408159" Y="13.118851" Z="8.566132" />
         <BoundingCenter X="0.966435" Y="5.752672" Z="-0.177938" />
@@ -6240,7 +6240,7 @@
     <Template>
         <Name>t_salixAlba_2sb_swamp</Name>
         <File>dz\plants\tree\t_salixalba_2sb_swamp.p3d</File>
-        <Date>08/05/20 20:26:07</Date>
+        <Date>07/28/21 17:13:46</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -6264,7 +6264,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>7.366179</Height>
         <BoundingMin X="-7.475290" Y="-1.613506" Z="-8.922009" />
         <BoundingMax X="9.408159" Y="13.118851" Z="8.566132" />
         <BoundingCenter X="0.966435" Y="5.752672" Z="-0.177938" />
@@ -6273,7 +6273,7 @@
     <Template>
         <Name>t_sorbus_2s</Name>
         <File>dz\plants\tree\t_sorbus_2s.p3d</File>
-        <Date>08/05/20 20:26:17</Date>
+        <Date>07/28/21 17:13:47</Date>
         <Archive></Archive>
         <Fill>-11513736</Fill>
         <Outline>-1</Outline>
@@ -6297,7 +6297,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>8.785644</Height>
         <BoundingMin X="-6.129676" Y="-1.667063" Z="-6.552977" />
         <BoundingMax X="5.817974" Y="15.904224" Z="5.474024" />
         <BoundingCenter X="-0.155851" Y="7.118581" Z="-0.539476" />
@@ -6306,7 +6306,7 @@
     <Template>
         <Name>t_town_1s</Name>
         <File>dz\plants\tree\t_town_1s.p3d</File>
-        <Date>08/05/20 20:26:02</Date>
+        <Date>07/28/21 17:13:45</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -6330,7 +6330,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.457160</Height>
         <BoundingMin X="-4.300509" Y="-1.535020" Z="-3.491200" />
         <BoundingMax X="4.303102" Y="11.379300" Z="3.589276" />
         <BoundingCenter X="0.001296" Y="4.922140" Z="0.049038" />
@@ -6339,7 +6339,7 @@
     <Template>
         <Name>t_town_1sb</Name>
         <File>dz\plants\tree\t_town_1sb.p3d</File>
-        <Date>08/05/20 20:26:34</Date>
+        <Date>07/28/21 17:13:49</Date>
         <Archive></Archive>
         <Fill>-4605696</Fill>
         <Outline>-1</Outline>
@@ -6363,7 +6363,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.079560</Height>
         <BoundingMin X="-3.186251" Y="-1.326920" Z="-3.856394" />
         <BoundingMax X="3.317430" Y="10.832201" Z="3.922410" />
         <BoundingCenter X="0.065589" Y="4.752641" Z="0.033008" />

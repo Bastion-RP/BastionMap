@@ -141,7 +141,7 @@ class Breitbrunn
 class Eggstatt
 {
 	name="Eggstatt";
-	position[]={5289.57,8429.54};
+	position[]={5300.15,8470.77};
 	type="NameCityCapital";
 	
 	radiusA=378.26;
@@ -458,16 +458,6 @@ class PrienIndustrie
 	radiusB=176.51;
 	angle=0.000;
 };
-class Prien
-{
-	name="Prien";
-	position[]={4621.73,1818.85};
-	type="NameCityCapital";
-	
-	radiusA=435.21;
-	radiusB=344.75;
-	angle=0.000;
-};
 class Ernstdorf
 {
 	name="Ernstdorf";
@@ -496,16 +486,6 @@ class TedValley
 	
 	radiusA=435.21;
 	radiusB=344.75;
-	angle=0.000;
-};
-class DefaultKeyPoint3
-{
-	name="Alm";
-	position[]={1415.27,1755.11};
-	type="ViewPoint";
-	
-	radiusA=58.41;
-	radiusB=46.27;
 	angle=0.000;
 };
 class Simssee
@@ -666,5 +646,15 @@ class GrundloserSee
 	
 	radiusA=114.09;
 	radiusB=90.37;
+	angle=0.000;
+};
+class Prien
+{
+	name="Prien";
+	position[]={4621.73,1818.85};
+	type="NameCityCapital";
+	
+	radiusA=435.21;
+	radiusB=344.75;
 	angle=0.000;
 };

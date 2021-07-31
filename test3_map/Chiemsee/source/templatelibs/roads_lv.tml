@@ -3,7 +3,7 @@
     <Template>
         <Name>Bridge_Concrete1_25</Name>
         <File>dz\structures_bliss\roads\bridges\bridge_concrete1_25.p3d</File>
-        <Date>08/05/20 21:35:49</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -27,7 +27,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.567923</Height>
         <BoundingMin X="-5.368553" Y="-1.600004" Z="-12.161625" />
         <BoundingMax X="5.378553" Y="7.535842" Z="12.151478" />
         <BoundingCenter X="0.005000" Y="2.967919" Z="-0.005074" />
@@ -36,7 +36,7 @@
     <Template>
         <Name>Bridge_Concrete1_Left</Name>
         <File>dz\structures_bliss\roads\bridges\bridge_concrete1_left.p3d</File>
-        <Date>08/05/20 21:35:51</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -60,7 +60,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.567924</Height>
         <BoundingMin X="-7.600625" Y="-1.600008" Z="-17.889805" />
         <BoundingMax X="7.644467" Y="7.535840" Z="13.581337" />
         <BoundingCenter X="0.021921" Y="2.967916" Z="-2.154234" />
@@ -69,7 +69,7 @@
     <Template>
         <Name>Bridge_Concrete1_Right</Name>
         <File>dz\structures_bliss\roads\bridges\bridge_concrete1_right.p3d</File>
-        <Date>08/05/20 21:35:52</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.567924</Height>
         <BoundingMin X="-7.449209" Y="-1.600006" Z="-13.126732" />
         <BoundingMax X="7.412055" Y="7.535841" Z="17.865940" />
         <BoundingCenter X="-0.018577" Y="2.967917" Z="2.369604" />
@@ -102,7 +102,7 @@
     <Template>
         <Name>Bridge_Concrete2_25</Name>
         <File>dz\structures_bliss\roads\bridges\bridge_concrete2_25.p3d</File>
-        <Date>08/05/20 21:35:46</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -126,7 +126,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.804797</Height>
         <BoundingMin X="-8.605045" Y="-2.623867" Z="-20.219717" />
         <BoundingMax X="8.675095" Y="6.985728" Z="20.416235" />
         <BoundingCenter X="0.035025" Y="2.180930" Z="0.098259" />
@@ -135,7 +135,7 @@
     <Template>
         <Name>Bridge_Concrete2_Left</Name>
         <File>dz\structures_bliss\roads\bridges\bridge_concrete2_left.p3d</File>
-        <Date>08/05/20 21:35:53</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -159,7 +159,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.291521</Height>
         <BoundingMin X="-10.653474" Y="-1.600215" Z="-10.715061" />
         <BoundingMax X="10.655263" Y="6.982827" Z="12.579678" />
         <BoundingCenter X="0.000895" Y="2.691306" Z="0.932308" />
@@ -168,7 +168,7 @@
     <Template>
         <Name>Bridge_Concrete2_Right</Name>
         <File>dz\structures_bliss\roads\bridges\bridge_concrete2_right.p3d</File>
-        <Date>08/05/20 21:35:40</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -192,7 +192,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.283080</Height>
         <BoundingMin X="-10.586096" Y="-1.600215" Z="-12.256283" />
         <BoundingMax X="10.639624" Y="6.965945" Z="10.963562" />
         <BoundingCenter X="0.026764" Y="2.682865" Z="-0.646360" />
@@ -201,7 +201,7 @@
     <Template>
         <Name>Decal_asphalt_fix1</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_fix1.p3d</File>
-        <Date>08/05/20 21:35:46</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>Decal_asphalt_fix2</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_fix2.p3d</File>
-        <Date>08/05/20 21:35:53</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>Decal_asphalt_fix3</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_fix3.p3d</File>
-        <Date>08/05/20 21:35:46</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>Decal_asphalt_fix4</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_fix4.p3d</File>
-        <Date>08/05/20 21:35:54</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>Decal_asphalt_fix5</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_fix5.p3d</File>
-        <Date>08/05/20 21:35:49</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>Decal_asphalt_fix6</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_fix6.p3d</File>
-        <Date>08/05/20 21:35:59</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>Decal_asphalt_patch01</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch01.p3d</File>
-        <Date>08/05/20 21:35:49</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -423,7 +423,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000500</Height>
         <BoundingMin X="-0.703998" Y="0.000000" Z="-2.609297" />
         <BoundingMax X="0.733537" Y="0.001000" Z="2.603388" />
         <BoundingCenter X="0.014770" Y="0.000500" Z="-0.002954" />
@@ -432,7 +432,7 @@
     <Template>
         <Name>Decal_asphalt_patch02</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch02.p3d</File>
-        <Date>08/05/20 21:36:01</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>Decal_asphalt_patch03</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch03.p3d</File>
-        <Date>08/05/20 21:35:49</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>Decal_asphalt_patch04</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch04.p3d</File>
-        <Date>08/05/20 21:36:02</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>Decal_asphalt_patch05</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch05.p3d</File>
-        <Date>08/05/20 21:35:50</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>Decal_asphalt_patch06</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch06.p3d</File>
-        <Date>08/05/20 21:35:40</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -597,7 +597,7 @@
     <Template>
         <Name>Decal_asphalt_patch07</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch07.p3d</File>
-        <Date>08/05/20 21:35:50</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>Decal_asphalt_patch08</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch08.p3d</File>
-        <Date>08/05/20 21:35:41</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -663,7 +663,7 @@
     <Template>
         <Name>Decal_asphalt_patch09</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch09.p3d</File>
-        <Date>08/05/20 21:35:51</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -696,7 +696,7 @@
     <Template>
         <Name>Decal_asphalt_patch10</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch10.p3d</File>
-        <Date>08/05/20 21:36:01</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -729,7 +729,7 @@
     <Template>
         <Name>Decal_asphalt_patch11</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch11.p3d</File>
-        <Date>08/05/20 21:35:49</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -762,7 +762,7 @@
     <Template>
         <Name>Decal_asphalt_patch12</Name>
         <File>dz\structures_bliss\roads\decals\decal_asphalt_patch12.p3d</File>
-        <Date>08/05/20 21:36:02</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -795,7 +795,7 @@
     <Template>
         <Name>Decal_damage_long10</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_long10.p3d</File>
-        <Date>08/05/20 21:35:50</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -819,7 +819,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000500</Height>
         <BoundingMin X="-3.809970" Y="0.000000" Z="-7.937440" />
         <BoundingMax X="3.809970" Y="0.001000" Z="7.937440" />
         <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
@@ -828,7 +828,7 @@
     <Template>
         <Name>Decal_damage_long6</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_long6.p3d</File>
-        <Date>08/05/20 21:35:40</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -852,7 +852,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000500</Height>
         <BoundingMin X="-2.997318" Y="0.000000" Z="-6.444361" />
         <BoundingMax X="3.112505" Y="0.001000" Z="6.444361" />
         <BoundingCenter X="0.057594" Y="0.000500" Z="0.000000" />
@@ -861,7 +861,7 @@
     <Template>
         <Name>Decal_damage_long7</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_long7.p3d</File>
-        <Date>08/05/20 21:35:50</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -885,7 +885,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000500</Height>
         <BoundingMin X="-2.933677" Y="0.000000" Z="-6.111829" />
         <BoundingMax X="2.933677" Y="0.001000" Z="6.111829" />
         <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
@@ -894,7 +894,7 @@
     <Template>
         <Name>Decal_damage_long8</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_long8.p3d</File>
-        <Date>08/05/20 21:35:41</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -918,7 +918,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000350</Height>
         <BoundingMin X="-2.320272" Y="0.000000" Z="-4.833901" />
         <BoundingMax X="2.320272" Y="0.000700" Z="4.833901" />
         <BoundingCenter X="0.000000" Y="0.000350" Z="0.000000" />
@@ -927,7 +927,7 @@
     <Template>
         <Name>Decal_damage_long9</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_long9.p3d</File>
-        <Date>08/05/20 21:35:51</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -951,7 +951,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000500</Height>
         <BoundingMin X="-2.976960" Y="0.000000" Z="-6.308748" />
         <BoundingMax X="3.356235" Y="0.001000" Z="6.284399" />
         <BoundingCenter X="0.189637" Y="0.000500" Z="-0.012175" />
@@ -960,7 +960,7 @@
     <Template>
         <Name>Decal_damage_medium10</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_medium10.p3d</File>
-        <Date>08/05/20 21:35:54</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -984,7 +984,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000500</Height>
         <BoundingMin X="-3.809970" Y="0.000000" Z="-3.968720" />
         <BoundingMax X="3.809970" Y="0.001000" Z="3.968720" />
         <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
@@ -993,7 +993,7 @@
     <Template>
         <Name>Decal_damage_medium4</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_medium4.p3d</File>
-        <Date>08/05/20 21:35:42</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1017,7 +1017,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000001</Height>
         <BoundingMin X="-2.550278" Y="-0.000000" Z="-3.648955" />
         <BoundingMax X="2.176836" Y="0.000001" Z="3.009052" />
         <BoundingCenter X="-0.186721" Y="0.000000" Z="-0.319952" />
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>Decal_damage_medium5</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_medium5.p3d</File>
-        <Date>08/05/20 21:35:51</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1059,7 +1059,7 @@
     <Template>
         <Name>Decal_damage_medium6</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_medium6.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>Decal_damage_medium7</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_medium7.p3d</File>
-        <Date>08/05/20 21:35:51</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>Decal_damage_medium8</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_medium8.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1158,7 +1158,7 @@
     <Template>
         <Name>Decal_damage_medium9</Name>
         <File>dz\structures_bliss\roads\decals\decal_damage_medium9.p3d</File>
-        <Date>08/05/20 21:35:51</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1182,7 +1182,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000500</Height>
         <BoundingMin X="-3.809970" Y="0.000000" Z="-3.968720" />
         <BoundingMax X="3.809970" Y="0.001000" Z="3.968720" />
         <BoundingCenter X="0.000000" Y="0.000500" Z="0.000000" />
@@ -1191,7 +1191,7 @@
     <Template>
         <Name>Decal_dirt_damage_long1</Name>
         <File>dz\structures_bliss\roads\decals\decal_dirt_damage_long1.p3d</File>
-        <Date>08/05/20 21:35:45</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1215,7 +1215,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000500</Height>
         <BoundingMin X="-2.233590" Y="0.000000" Z="-4.833271" />
         <BoundingMax X="2.348777" Y="0.001000" Z="4.833271" />
         <BoundingCenter X="0.057594" Y="0.000500" Z="0.000000" />
@@ -1224,7 +1224,7 @@
     <Template>
         <Name>Decal_dirt_damage_long2</Name>
         <File>dz\structures_bliss\roads\decals\decal_dirt_damage_long2.p3d</File>
-        <Date>08/05/20 21:35:52</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1248,7 +1248,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000500</Height>
         <BoundingMin X="-2.233590" Y="0.000000" Z="-4.833271" />
         <BoundingMax X="2.348777" Y="0.001000" Z="4.833271" />
         <BoundingCenter X="0.057594" Y="0.000500" Z="0.000000" />
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>Decal_dirt_damage_long3</Name>
         <File>dz\structures_bliss\roads\decals\decal_dirt_damage_long3.p3d</File>
-        <Date>08/05/20 21:35:45</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1281,7 +1281,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000500</Height>
         <BoundingMin X="-2.233590" Y="0.000000" Z="-4.833271" />
         <BoundingMax X="2.348777" Y="0.001000" Z="4.833271" />
         <BoundingCenter X="0.057594" Y="0.000500" Z="0.000000" />
@@ -1290,7 +1290,7 @@
     <Template>
         <Name>Decal_dirt_rocks1</Name>
         <File>dz\structures_bliss\roads\decals\decal_dirt_rocks1.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1323,7 +1323,7 @@
     <Template>
         <Name>Decal_dirt_rocks2</Name>
         <File>dz\structures_bliss\roads\decals\decal_dirt_rocks2.p3d</File>
-        <Date>08/05/20 21:35:51</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1356,7 +1356,7 @@
     <Template>
         <Name>Decal_oilstain1</Name>
         <File>dz\structures_bliss\roads\decals\decal_oilstain1.p3d</File>
-        <Date>08/05/20 21:35:51</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1389,7 +1389,7 @@
     <Template>
         <Name>Decal_oilstain2</Name>
         <File>dz\structures_bliss\roads\decals\decal_oilstain2.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1422,7 +1422,7 @@
     <Template>
         <Name>Decal_oilstain3</Name>
         <File>dz\structures_bliss\roads\decals\decal_oilstain3.p3d</File>
-        <Date>08/05/20 21:35:52</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1455,7 +1455,7 @@
     <Template>
         <Name>Decal_oilstain4</Name>
         <File>dz\structures_bliss\roads\decals\decal_oilstain4.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1488,7 +1488,7 @@
     <Template>
         <Name>Misc_BoundaryStone_Big</Name>
         <File>dz\structures_bliss\roads\misc\misc_boundarystone_big.p3d</File>
-        <Date>08/05/20 21:35:52</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1512,7 +1512,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.545638</Height>
         <BoundingMin X="-0.122714" Y="-0.318347" Z="-0.122556" />
         <BoundingMax X="0.122714" Y="0.772930" Z="0.122556" />
         <BoundingCenter X="0.000000" Y="0.227291" Z="0.000000" />
@@ -1521,7 +1521,7 @@
     <Template>
         <Name>Misc_BoundaryStone_Small</Name>
         <File>dz\structures_bliss\roads\misc\misc_boundarystone_small.p3d</File>
-        <Date>08/05/20 21:35:53</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1545,7 +1545,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.367725</Height>
         <BoundingMin X="-0.122430" Y="-0.366015" Z="-0.122556" />
         <BoundingMax X="0.122430" Y="0.369434" Z="0.122556" />
         <BoundingCenter X="0.000000" Y="0.001709" Z="0.000000" />
@@ -1554,7 +1554,7 @@
     <Template>
         <Name>ConcretePanels_02_four_F</Name>
         <File>dz\structures_bliss\roads\panels\concretepanels_02_four_f.p3d</File>
-        <Date>08/05/20 21:35:52</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1578,7 +1578,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.092255</Height>
         <BoundingMin X="-2.117436" Y="-0.092255" Z="-4.283771" />
         <BoundingMax X="1.960669" Y="0.092255" Z="4.414950" />
         <BoundingCenter X="-0.078384" Y="0.000000" Z="0.065589" />
@@ -1587,7 +1587,7 @@
     <Template>
         <Name>Panels_Concrete_Small</Name>
         <File>dz\structures_bliss\roads\panels\panels_concrete_small.p3d</File>
-        <Date>08/05/20 21:35:53</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1611,7 +1611,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.092255</Height>
         <BoundingMin X="-2.117436" Y="-0.092255" Z="-4.283771" />
         <BoundingMax X="1.960669" Y="0.092255" Z="4.414950" />
         <BoundingCenter X="-0.078384" Y="0.000000" Z="0.065589" />
@@ -1620,7 +1620,7 @@
     <Template>
         <Name>Panel_Concrete_Small_1</Name>
         <File>dz\structures_bliss\roads\panels\panel_concrete_small_1.p3d</File>
-        <Date>08/05/20 21:35:45</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1644,7 +1644,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.092255</Height>
         <BoundingMin X="-1.018018" Y="-0.092255" Z="-2.005912" />
         <BoundingMax X="1.018018" Y="0.092255" Z="2.005912" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
@@ -1653,7 +1653,7 @@
     <Template>
         <Name>Panel_Concrete_Small_2</Name>
         <File>dz\structures_bliss\roads\panels\panel_concrete_small_2.p3d</File>
-        <Date>08/05/20 21:35:53</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1677,7 +1677,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.092255</Height>
         <BoundingMin X="-1.018018" Y="-0.092255" Z="-2.005912" />
         <BoundingMax X="1.018018" Y="0.092255" Z="2.005912" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
@@ -1686,7 +1686,7 @@
     <Template>
         <Name>Panel_Concrete_Small_Dam</Name>
         <File>dz\structures_bliss\roads\panels\panel_concrete_small_dam.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1710,7 +1710,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.092255</Height>
         <BoundingMin X="-1.018018" Y="-0.092255" Z="-2.005912" />
         <BoundingMax X="1.018018" Y="0.092255" Z="2.005912" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
@@ -1719,7 +1719,7 @@
     <Template>
         <Name>asf1enoch_0 2000</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_0 2000.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1743,7 +1743,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.000059</Height>
         <BoundingMin X="-6.024109" Y="0.000000" Z="-0.034905" />
         <BoundingMax X="6.100121" Y="0.000118" Z="17.540546" />
         <BoundingCenter X="0.038006" Y="0.000059" Z="8.752821" />
@@ -1752,7 +1752,7 @@
     <Template>
         <Name>asf1enoch_1 1000</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_1 1000.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1785,7 +1785,7 @@
     <Template>
         <Name>asf1enoch_10 100</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_10 100.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1818,7 +1818,7 @@
     <Template>
         <Name>asf1enoch_10 25</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_10 25.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1851,7 +1851,7 @@
     <Template>
         <Name>asf1enoch_10 50</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_10 50.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1884,7 +1884,7 @@
     <Template>
         <Name>asf1enoch_10 75</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_10 75.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1917,7 +1917,7 @@
     <Template>
         <Name>asf1enoch_12</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_12.p3d</File>
-        <Date>08/05/20 21:35:50</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1950,7 +1950,7 @@
     <Template>
         <Name>asf1enoch_15 75</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_15 75.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1983,7 +1983,7 @@
     <Template>
         <Name>asf1enoch_22 50</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_22 50.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2016,7 +2016,7 @@
     <Template>
         <Name>asf1enoch_25</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_25.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2049,7 +2049,7 @@
     <Template>
         <Name>asf1enoch_30 25</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_30 25.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2082,7 +2082,7 @@
     <Template>
         <Name>asf1enoch_6</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_6.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2115,7 +2115,7 @@
     <Template>
         <Name>asf1enoch_60 10</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_60 10.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2148,7 +2148,7 @@
     <Template>
         <Name>asf1enoch_6konec</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_6konec.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2181,7 +2181,7 @@
     <Template>
         <Name>asf1enoch_7 100</Name>
         <File>dz\structures_bliss\roads\parts\asf1enoch_7 100.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2214,7 +2214,7 @@
     <Template>
         <Name>asf2enoch_0 2000</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_0 2000.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2247,7 +2247,7 @@
     <Template>
         <Name>asf2enoch_1 1000</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_1 1000.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2280,7 +2280,7 @@
     <Template>
         <Name>asf2enoch_10 100</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_10 100.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2313,7 +2313,7 @@
     <Template>
         <Name>asf2enoch_10 25</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_10 25.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2346,7 +2346,7 @@
     <Template>
         <Name>asf2enoch_10 50</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_10 50.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2379,7 +2379,7 @@
     <Template>
         <Name>asf2enoch_10 75</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_10 75.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2412,7 +2412,7 @@
     <Template>
         <Name>asf2enoch_12</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_12.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2445,7 +2445,7 @@
     <Template>
         <Name>asf2enoch_15 75</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_15 75.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2478,7 +2478,7 @@
     <Template>
         <Name>asf2enoch_22 50</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_22 50.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2511,7 +2511,7 @@
     <Template>
         <Name>asf2enoch_25</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_25.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2544,7 +2544,7 @@
     <Template>
         <Name>asf2enoch_30 25</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_30 25.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2577,7 +2577,7 @@
     <Template>
         <Name>asf2enoch_6</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_6.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2610,7 +2610,7 @@
     <Template>
         <Name>asf2enoch_60 10</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_60 10.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2643,7 +2643,7 @@
     <Template>
         <Name>asf2enoch_6konec</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_6konec.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2676,7 +2676,7 @@
     <Template>
         <Name>asf2enoch_7 100</Name>
         <File>dz\structures_bliss\roads\parts\asf2enoch_7 100.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2709,7 +2709,7 @@
     <Template>
         <Name>mudenoch_0 2000</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_0 2000.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2742,7 +2742,7 @@
     <Template>
         <Name>mudenoch_1 1000</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_1 1000.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2775,7 +2775,7 @@
     <Template>
         <Name>mudenoch_10 100</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_10 100.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2808,7 +2808,7 @@
     <Template>
         <Name>mudenoch_10 25</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_10 25.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2841,7 +2841,7 @@
     <Template>
         <Name>mudenoch_10 50</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_10 50.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2874,7 +2874,7 @@
     <Template>
         <Name>mudenoch_10 75</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_10 75.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2907,7 +2907,7 @@
     <Template>
         <Name>mudenoch_12</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_12.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2940,7 +2940,7 @@
     <Template>
         <Name>mudenoch_15 75</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_15 75.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2973,7 +2973,7 @@
     <Template>
         <Name>mudenoch_22 50</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_22 50.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3006,7 +3006,7 @@
     <Template>
         <Name>mudenoch_25</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_25.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3039,7 +3039,7 @@
     <Template>
         <Name>mudenoch_30 25</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_30 25.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3072,7 +3072,7 @@
     <Template>
         <Name>mudenoch_6</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_6.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3105,7 +3105,7 @@
     <Template>
         <Name>mudenoch_60 10</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_60 10.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3138,7 +3138,7 @@
     <Template>
         <Name>mudenoch_6konec</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_6konec.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3171,7 +3171,7 @@
     <Template>
         <Name>mudenoch_7 100</Name>
         <File>dz\structures_bliss\roads\parts\mudenoch_7 100.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3204,7 +3204,7 @@
     <Template>
         <Name>pathenoch_dirt_10</Name>
         <File>dz\structures_bliss\roads\parts\pathenoch_dirt_10.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3237,7 +3237,7 @@
     <Template>
         <Name>pathenoch_dirt_30</Name>
         <File>dz\structures_bliss\roads\parts\pathenoch_dirt_30.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3261,7 +3261,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.008978</Height>
         <BoundingMin X="-1.463090" Y="-0.017952" Z="-2.115210" />
         <BoundingMax X="1.646534" Y="0.000005" Z="31.713572" />
         <BoundingCenter X="0.091722" Y="-0.008973" Z="14.799181" />
@@ -3270,7 +3270,7 @@
     <Template>
         <Name>pathenoch_dirt_curve</Name>
         <File>dz\structures_bliss\roads\parts\pathenoch_dirt_curve.p3d</File>
-        <Date>08/05/20 21:35:50</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3303,7 +3303,7 @@
     <Template>
         <Name>pathenoch_rock_10</Name>
         <File>dz\structures_bliss\roads\parts\pathenoch_rock_10.p3d</File>
-        <Date>08/05/20 21:35:42</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3336,7 +3336,7 @@
     <Template>
         <Name>pathenoch_rock_30</Name>
         <File>dz\structures_bliss\roads\parts\pathenoch_rock_30.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3360,7 +3360,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.008978</Height>
         <BoundingMin X="-1.253904" Y="-0.017952" Z="-2.115210" />
         <BoundingMax X="1.450117" Y="0.000005" Z="31.713572" />
         <BoundingCenter X="0.098106" Y="-0.008973" Z="14.799181" />
@@ -3369,7 +3369,7 @@
     <Template>
         <Name>pathenoch_rock_curve</Name>
         <File>dz\structures_bliss\roads\parts\pathenoch_rock_curve.p3d</File>
-        <Date>08/05/20 21:35:51</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3402,7 +3402,7 @@
     <Template>
         <Name>Sidewalk4_4m</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk4_4m.p3d</File>
-        <Date>08/05/20 21:35:52</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3426,7 +3426,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.256098</Height>
         <BoundingMin X="-3.003726" Y="-0.402196" Z="-2.145667" />
         <BoundingMax X="3.000000" Y="0.110000" Z="2.172683" />
         <BoundingCenter X="-0.001863" Y="-0.146098" Z="0.013508" />
@@ -3435,7 +3435,7 @@
     <Template>
         <Name>Sidewalk4_8m</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk4_8m.p3d</File>
-        <Date>08/05/20 21:36:01</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3459,7 +3459,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.255000</Height>
         <BoundingMin X="-5.076668" Y="-0.400000" Z="-2.156266" />
         <BoundingMax X="4.923333" Y="0.110000" Z="2.172683" />
         <BoundingCenter X="-0.076668" Y="-0.145000" Z="0.008208" />
@@ -3468,7 +3468,7 @@
     <Template>
         <Name>Sidewalk4_Border_2m</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk4_border_2m.p3d</File>
-        <Date>08/05/20 21:35:51</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3492,7 +3492,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.381294</Height>
         <BoundingMin X="-1.034550" Y="-0.500000" Z="-0.161361" />
         <BoundingMax X="1.034550" Y="0.262587" Z="0.161327" />
         <BoundingCenter X="0.000000" Y="-0.118706" Z="-0.000017" />
@@ -3501,7 +3501,7 @@
     <Template>
         <Name>Sidewalk4_Border_4m</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk4_border_4m.p3d</File>
-        <Date>08/05/20 21:35:52</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3525,7 +3525,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.377592</Height>
         <BoundingMin X="-2.068344" Y="-0.500000" Z="-0.177789" />
         <BoundingMax X="2.069856" Y="0.255184" Z="0.177755" />
         <BoundingCenter X="0.000756" Y="-0.122408" Z="-0.000017" />
@@ -3534,7 +3534,7 @@
     <Template>
         <Name>Sidewalk4_Border_8m</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk4_border_8m.p3d</File>
-        <Date>08/05/20 21:35:53</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3558,7 +3558,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.379165</Height>
         <BoundingMin X="-4.114635" Y="-0.500000" Z="-0.222232" />
         <BoundingMax X="4.119142" Y="0.258330" Z="0.222198" />
         <BoundingCenter X="0.002254" Y="-0.120835" Z="-0.000017" />
@@ -3567,7 +3567,7 @@
     <Template>
         <Name>Sidewalk4_Corner</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk4_corner.p3d</File>
-        <Date>08/05/20 21:35:53</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3591,7 +3591,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.255000</Height>
         <BoundingMin X="-2.143029" Y="-0.400000" Z="-2.140897" />
         <BoundingMax X="3.001610" Y="0.110000" Z="2.992564" />
         <BoundingCenter X="0.429290" Y="-0.145000" Z="0.425834" />
@@ -3600,7 +3600,7 @@
     <Template>
         <Name>Sidewalk4_Narrow_2m</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk4_narrow_2m.p3d</File>
-        <Date>08/05/20 21:35:42</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3624,7 +3624,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.255000</Height>
         <BoundingMin X="-2.000000" Y="-0.400000" Z="-1.110000" />
         <BoundingMax X="2.000000" Y="0.110000" Z="1.204471" />
         <BoundingCenter X="0.000000" Y="-0.145000" Z="0.047235" />
@@ -3633,7 +3633,7 @@
     <Template>
         <Name>Sidewalk4_Narrow_4m</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk4_narrow_4m.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3657,7 +3657,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.255000</Height>
         <BoundingMin X="-3.012828" Y="-0.400000" Z="-1.110000" />
         <BoundingMax X="3.000000" Y="0.110000" Z="1.204471" />
         <BoundingCenter X="-0.006414" Y="-0.145000" Z="0.047235" />
@@ -3666,7 +3666,7 @@
     <Template>
         <Name>Sidewalk4_Narrow_8m</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk4_narrow_8m.p3d</File>
-        <Date>08/05/20 21:35:45</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3690,7 +3690,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.255000</Height>
         <BoundingMin X="-5.000000" Y="-0.400000" Z="-1.096000" />
         <BoundingMax X="5.000000" Y="0.110000" Z="1.204471" />
         <BoundingCenter X="0.000000" Y="-0.145000" Z="0.054235" />
@@ -3699,7 +3699,7 @@
     <Template>
         <Name>Sidewalk5_Narrow</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk5_narrow.p3d</File>
-        <Date>08/05/20 21:35:46</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3723,7 +3723,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.251939</Height>
         <BoundingMin X="-3.011099" Y="-0.326862" Z="-0.527632" />
         <BoundingMax X="2.978900" Y="0.177016" Z="2.047980" />
         <BoundingCenter X="-0.016099" Y="-0.074923" Z="0.760174" />
@@ -3732,7 +3732,7 @@
     <Template>
         <Name>Sidewalk5_Narrow_Corner</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk5_narrow_corner.p3d</File>
-        <Date>08/05/20 21:35:44</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3756,7 +3756,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.234819</Height>
         <BoundingMin X="-2.076185" Y="-0.308277" Z="-0.509624" />
         <BoundingMax X="1.482608" Y="0.161362" Z="3.015117" />
         <BoundingCenter X="-0.296789" Y="-0.073457" Z="1.252746" />
@@ -3765,7 +3765,7 @@
     <Template>
         <Name>Sidewalk5_Wide</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk5_wide.p3d</File>
-        <Date>08/05/20 21:35:52</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3789,7 +3789,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.245248</Height>
         <BoundingMin X="-3.011099" Y="-0.313481" Z="-2.007021" />
         <BoundingMax X="2.978900" Y="0.177016" Z="2.048210" />
         <BoundingCenter X="-0.016099" Y="-0.068233" Z="0.020595" />
@@ -3798,7 +3798,7 @@
     <Template>
         <Name>Sidewalk5_Wide_Corner</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk5_wide_corner.p3d</File>
-        <Date>08/05/20 21:35:42</Date>
+        <Date>07/28/21 17:16:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3822,7 +3822,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.233371</Height>
         <BoundingMin X="-1.512248" Y="-0.310484" Z="-2.007681" />
         <BoundingMax X="1.776534" Y="0.156258" Z="1.364321" />
         <BoundingCenter X="0.132143" Y="-0.077113" Z="-0.321680" />
@@ -3831,7 +3831,7 @@
     <Template>
         <Name>Sidewalk_Stairs</Name>
         <File>dz\structures_bliss\roads\sidewalks\sidewalk_stairs.p3d</File>
-        <Date>08/05/20 21:35:52</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3855,7 +3855,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.617790</Height>
         <BoundingMin X="-0.752716" Y="-1.115464" Z="-3.864554" />
         <BoundingMax X="0.757368" Y="4.120116" Z="3.983746" />
         <BoundingCenter X="0.002326" Y="1.502326" Z="0.059596" />
@@ -3864,7 +3864,7 @@
     <Template>
         <Name>sinkhole_sila</Name>
         <File>dz\structures_bliss\roads\sinkhole\sinkhole_sila.p3d</File>
-        <Date>08/05/20 21:36:02</Date>
+        <Date>07/28/21 17:16:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3888,7 +3888,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.774702</Height>
         <BoundingMin X="-16.000164" Y="-7.418975" Z="-17.010151" />
         <BoundingMax X="16.000126" Y="0.130428" Z="15.000000" />
         <BoundingCenter X="-0.000019" Y="-3.644273" Z="-1.005075" />

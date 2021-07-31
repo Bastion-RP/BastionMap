@@ -3,7 +3,7 @@
     <Template>
         <Name>SmallTunnel01_Straight</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnel01_straight.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -27,7 +27,7 @@
         <XShift>-0.000737</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.014526</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.540663</Height>
         <BoundingMin X="-0.931155" Y="-0.112791" Z="-2.546206" />
         <BoundingMax X="0.931156" Y="3.151165" Z="2.546206" />
         <BoundingCenter X="0.000000" Y="1.519187" Z="0.000000" />
@@ -36,7 +36,7 @@
     <Template>
         <Name>SmallTunnel02_Corner</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnel02_corner.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -60,7 +60,7 @@
         <XShift>0.033577</XShift>
         <YShift>-0.031326</YShift>
         <ZShift>-0.020646</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.540663</Height>
         <BoundingMin X="-0.931156" Y="-0.042448" Z="-2.515690" />
         <BoundingMax X="2.511188" Y="3.151165" Z="0.931156" />
         <BoundingCenter X="0.790016" Y="1.554358" Z="-0.792267" />
@@ -69,7 +69,7 @@
     <Template>
         <Name>SmallTunnel03_3Way_Intersection</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnel03_3way_intersection.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -93,7 +93,7 @@
         <XShift>0.008661</XShift>
         <YShift>-0.019155</YShift>
         <ZShift>-0.020646</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.540663</Height>
         <BoundingMin X="-2.523504" Y="-0.042448" Z="-2.540031" />
         <BoundingMax X="2.506182" Y="3.151165" Z="0.931155" />
         <BoundingCenter X="-0.008661" Y="1.554358" Z="-0.804438" />
@@ -102,7 +102,7 @@
     <Template>
         <Name>SmallTunnel04_4Way_Intersection</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnel04_4way_intersection.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -126,7 +126,7 @@
         <XShift>-0.003107</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.019043</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.544936</Height>
         <BoundingMin X="-2.508621" Y="-0.042448" Z="-2.515773" />
         <BoundingMax X="2.514836" Y="3.151165" Z="2.515773" />
         <BoundingCenter X="0.003107" Y="1.554359" Z="0.000000" />
@@ -135,7 +135,7 @@
     <Template>
         <Name>SmallTunnel05_CurvedCorner</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnel05_curvedcorner.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -159,7 +159,7 @@
         <XShift>0.032795</XShift>
         <YShift>-0.019576</YShift>
         <ZShift>-0.020646</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.540663</Height>
         <BoundingMin X="-0.931155" Y="-0.042448" Z="-2.539182" />
         <BoundingMax X="2.512707" Y="3.151165" Z="0.931111" />
         <BoundingCenter X="0.790776" Y="1.554358" Z="-0.804036" />
@@ -168,7 +168,7 @@
     <Template>
         <Name>SmallTunnel06_Straight_Doorway</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnel06_straight_doorway.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -192,7 +192,7 @@
         <XShift>0.035194</XShift>
         <YShift>-0.000049</YShift>
         <ZShift>-0.020125</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.540663</Height>
         <BoundingMin X="-0.931155" Y="-0.043490" Z="-2.525810" />
         <BoundingMax X="2.507978" Y="3.151165" Z="2.525810" />
         <BoundingCenter X="0.788411" Y="1.553837" Z="0.000000" />
@@ -201,7 +201,7 @@
     <Template>
         <Name>SmallTunnel07_Straight_2Doorway</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnel07_straight_2doorway.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -225,7 +225,7 @@
         <XShift>0.033504</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.004096</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.540663</Height>
         <BoundingMin X="-0.931155" Y="-0.075548" Z="-2.515602" />
         <BoundingMax X="2.511358" Y="3.151165" Z="2.515602" />
         <BoundingCenter X="0.790102" Y="1.537809" Z="0.000000" />
@@ -234,7 +234,7 @@
     <Template>
         <Name>SmallTunnel08_Stairs</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnel08_stairs.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -258,7 +258,7 @@
         <XShift>0.000001</XShift>
         <YShift>0.045753</YShift>
         <ZShift>-0.021555</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.165663</Height>
         <BoundingMin X="-0.931156" Y="-0.041606" Z="0.574083" />
         <BoundingMax X="0.931155" Y="4.402142" Z="2.560948" />
         <BoundingCenter X="-0.000000" Y="2.180268" Z="1.567515" />
@@ -267,7 +267,7 @@
     <Template>
         <Name>SmallTunnelBlock01_Divider</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnelblock\smalltunnelblock01_divider.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -291,7 +291,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000001</YShift>
         <ZShift>-0.016501</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.544936</Height>
         <BoundingMin X="-0.884270" Y="-0.025456" Z="-0.087266" />
         <BoundingMax X="0.884269" Y="3.129089" Z="0.087266" />
         <BoundingCenter X="-0.000000" Y="1.551817" Z="0.000000" />
@@ -300,7 +300,7 @@
     <Template>
         <Name>SmallTunnelBlock02_Divider</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnelblock\smalltunnelblock02_divider.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -324,7 +324,7 @@
         <XShift>0.000578</XShift>
         <YShift>0.000040</YShift>
         <ZShift>0.003182</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.554448</Height>
         <BoundingMin X="-0.859788" Y="-0.040785" Z="-0.146569" />
         <BoundingMax X="0.858633" Y="3.088534" Z="0.146569" />
         <BoundingCenter X="-0.000578" Y="1.523875" Z="0.000000" />
@@ -333,7 +333,7 @@
     <Template>
         <Name>SmallTunnelBlock03_Doorway</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnelblock\smalltunnelblock03_doorway.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -357,7 +357,7 @@
         <XShift>0.001616</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000635</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.590647</Height>
         <BoundingMin X="-1.022134" Y="-0.030072" Z="-0.096566" />
         <BoundingMax X="1.018901" Y="3.162846" Z="0.096566" />
         <BoundingCenter X="-0.001616" Y="1.566387" Z="0.000000" />
@@ -366,7 +366,7 @@
     <Template>
         <Name>SmallTunnelBlock04_MetalDoorway</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnelblock\smalltunnelblock04_metaldoorway.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -390,7 +390,7 @@
         <XShift>-0.007614</XShift>
         <YShift>0.000016</YShift>
         <ZShift>0.021473</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.633759</Height>
         <BoundingMin X="-1.013369" Y="-0.024908" Z="-0.060315" />
         <BoundingMax X="1.013369" Y="3.288330" Z="0.060315" />
         <BoundingCenter X="0.000000" Y="1.631711" Z="0.000000" />
@@ -399,7 +399,7 @@
     <Template>
         <Name>SmallTunnelBlock05_MetalWall</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnelblock\smalltunnelblock05_metalwall.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -423,7 +423,7 @@
         <XShift>0.003170</XShift>
         <YShift>0.000016</YShift>
         <ZShift>0.003671</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.043865</Height>
         <BoundingMin X="-0.548649" Y="-0.000000" Z="-0.049155" />
         <BoundingMax X="0.542309" Y="2.120247" Z="0.049155" />
         <BoundingCenter X="-0.003170" Y="1.060123" Z="0.000000" />
@@ -432,7 +432,7 @@
     <Template>
         <Name>SmallTunnelBlock06_Divider</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnelblock\smalltunnelblock06_divider.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -456,7 +456,7 @@
         <XShift>-0.003314</XShift>
         <YShift>-0.000001</YShift>
         <ZShift>-0.008015</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.689270</Height>
         <BoundingMin X="-1.221212" Y="-0.041497" Z="-0.155976" />
         <BoundingMax X="1.227432" Y="3.387532" Z="0.155976" />
         <BoundingCenter X="0.003110" Y="1.673018" Z="0.000000" />
@@ -465,7 +465,7 @@
     <Template>
         <Name>SmallTunnelBlock07_ConcreteDoorway</Name>
         <File>bastionrpitems\bastionsewerage\smalltunnel\smalltunnelblock\smalltunnelblock07_concretedoorway.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -489,7 +489,7 @@
         <XShift>-0.001305</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000122</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.590647</Height>
         <BoundingMin X="-1.752776" Y="-0.039532" Z="-0.102255" />
         <BoundingMax X="1.755385" Y="3.170792" Z="0.102255" />
         <BoundingCenter X="0.001305" Y="1.565630" Z="0.000000" />
@@ -498,7 +498,7 @@
     <Template>
         <Name>Leaves01</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\leaves\leaves01.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -522,7 +522,7 @@
         <XShift>0.003916</XShift>
         <YShift>0.002942</YShift>
         <ZShift>-0.001840</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.210861</Height>
         <BoundingMin X="-1.324814" Y="-0.019785" Z="-0.672570" />
         <BoundingMax X="1.316983" Y="0.445187" Z="1.328750" />
         <BoundingCenter X="-0.003916" Y="0.212701" Z="0.328090" />
@@ -531,7 +531,7 @@
     <Template>
         <Name>Leaves02</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\leaves\leaves02.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>SewerageTunnel01_Straight</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnel\seweragetunnel01_straight.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -588,7 +588,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.062126</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.429210</Height>
         <BoundingMin X="-2.481983" Y="-0.311633" Z="-2.518097" />
         <BoundingMax X="2.481982" Y="5.043935" Z="2.518097" />
         <BoundingCenter X="-0.000000" Y="2.366151" Z="0.000000" />
@@ -597,7 +597,7 @@
     <Template>
         <Name>SewerageTunnel02_Corner</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnel\seweragetunnel02_corner.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -621,7 +621,7 @@
         <XShift>0.077658</XShift>
         <YShift>-0.072058</YShift>
         <ZShift>0.062126</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.429210</Height>
         <BoundingMin X="-2.481983" Y="-0.311633" Z="-2.541171" />
         <BoundingMax X="2.529972" Y="5.043936" Z="2.481982" />
         <BoundingCenter X="0.023995" Y="2.366151" Z="-0.029594" />
@@ -630,7 +630,7 @@
     <Template>
         <Name>SewerageTunnel03_Turn_90</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnel\seweragetunnel03_turn_90.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -654,7 +654,7 @@
         <XShift>0.091969</XShift>
         <YShift>0.069190</YShift>
         <ZShift>-0.085848</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.429210</Height>
         <BoundingMin X="-2.481983" Y="-0.311634" Z="-2.481981" />
         <BoundingMax X="2.501349" Y="5.339885" Z="2.546907" />
         <BoundingCenter X="0.009683" Y="2.514126" Z="0.032463" />
@@ -663,7 +663,7 @@
     <Template>
         <Name>SewerageTunnel04_3Way</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnel\seweragetunnel04_3way.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -687,7 +687,7 @@
         <XShift>0.004371</XShift>
         <YShift>0.049286</YShift>
         <ZShift>0.062126</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.429210</Height>
         <BoundingMin X="-2.529847" Y="-0.311633" Z="-2.481983" />
         <BoundingMax X="2.521106" Y="5.043935" Z="2.586715" />
         <BoundingCenter X="-0.004371" Y="2.366151" Z="0.052366" />
@@ -696,7 +696,7 @@
     <Template>
         <Name>SewerageTunnel05_4Way</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnel\seweragetunnel05_4way.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -720,7 +720,7 @@
         <XShift>0.001832</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.062126</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.429210</Height>
         <BoundingMin X="-2.514939" Y="-0.311634" Z="-2.553711" />
         <BoundingMax X="2.511276" Y="5.043935" Z="2.553711" />
         <BoundingCenter X="-0.001832" Y="2.366151" Z="0.000000" />
@@ -729,7 +729,7 @@
     <Template>
         <Name>SewerageTunnel06_Entrance</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnel\seweragetunnel06_entrance.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -753,7 +753,7 @@
         <XShift>0.009490</XShift>
         <YShift>-0.031762</YShift>
         <ZShift>0.037914</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.453423</Height>
         <BoundingMin X="-2.528841" Y="-0.311633" Z="-3.377759" />
         <BoundingMax X="2.509862" Y="5.043935" Z="2.481982" />
         <BoundingCenter X="-0.009490" Y="2.366151" Z="-0.447888" />
@@ -762,7 +762,7 @@
     <Template>
         <Name>SewerageTunnel07_EndCap</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnel\seweragetunnel07_endcap.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -786,7 +786,7 @@
         <XShift>0.068435</XShift>
         <YShift>-0.019799</YShift>
         <ZShift>0.060618</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.429210</Height>
         <BoundingMin X="-2.477429" Y="-0.311634" Z="-2.442384" />
         <BoundingMax X="2.543864" Y="5.046952" Z="2.481982" />
         <BoundingCenter X="0.033217" Y="2.367659" Z="0.019799" />
@@ -795,7 +795,7 @@
     <Template>
         <Name>SewerageTunnel08_Y</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnel\seweragetunnel08_y.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -819,7 +819,7 @@
         <XShift>-0.010685</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.062126</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.429211</Height>
         <BoundingMin X="-2.523582" Y="-0.311633" Z="-5.984441" />
         <BoundingMax X="7.544953" Y="5.043935" Z="5.984441" />
         <BoundingCenter X="2.510685" Y="2.366151" Z="0.000000" />
@@ -828,7 +828,7 @@
     <Template>
         <Name>SewerageTunnel09_OverflowVent</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnel\seweragetunnel09_overflowvent.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -852,7 +852,7 @@
         <XShift>-0.005068</XShift>
         <YShift>-0.001814</YShift>
         <ZShift>0.062126</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.429210</Height>
         <BoundingMin X="-2.516491" Y="-0.311633" Z="-2.478354" />
         <BoundingMax X="2.526626" Y="5.043935" Z="2.481982" />
         <BoundingCenter X="0.005068" Y="2.366151" Z="0.001814" />
@@ -861,7 +861,7 @@
     <Template>
         <Name>SewerageTunnel10_Ramp</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnel\seweragetunnel10_ramp.p3d</File>
-        <Date>08/11/20 22:30:40</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -885,7 +885,7 @@
         <XShift>0.015213</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.061386</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.054119</Height>
         <BoundingMin X="-0.032239" Y="-0.308008" Z="-2.481982" />
         <BoundingMax X="2.501813" Y="6.296262" Z="2.481983" />
         <BoundingCenter X="1.234787" Y="2.994127" Z="0.000000" />
@@ -894,7 +894,7 @@
     <Template>
         <Name>SewerageTunnel2Floors01</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelfloors\seweragetunnel2floors01.p3d</File>
-        <Date>08/28/20 01:55:48</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -918,7 +918,7 @@
         <XShift>0.000517</XShift>
         <YShift>0.020345</YShift>
         <ZShift>0.068857</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.929210</Height>
         <BoundingMin X="-2.531141" Y="-0.324713" Z="-2.499537" />
         <BoundingMax X="2.530106" Y="10.043552" Z="2.458846" />
         <BoundingCenter X="-0.000517" Y="4.859420" Z="-0.020345" />
@@ -927,7 +927,7 @@
     <Template>
         <Name>SewerageTunnel2Floors02</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelfloors\seweragetunnel2floors02.p3d</File>
-        <Date>08/28/20 01:55:48</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -951,7 +951,7 @@
         <XShift>0.019374</XShift>
         <YShift>-0.006802</YShift>
         <ZShift>0.028850</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.000467</Height>
         <BoundingMin X="-2.581293" Y="-0.058633" Z="-2.502136" />
         <BoundingMax X="3.125956" Y="10.000000" Z="2.515739" />
         <BoundingCenter X="0.272332" Y="4.970684" Z="0.006802" />
@@ -960,7 +960,7 @@
     <Template>
         <Name>SewerageTunnel2Floors03</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelfloors\seweragetunnel2floors03.p3d</File>
-        <Date>08/28/20 01:55:48</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -984,7 +984,7 @@
         <XShift>-0.237409</XShift>
         <YShift>0.000002</YShift>
         <ZShift>0.027204</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.000467</Height>
         <BoundingMin X="-2.506012" Y="-0.058633" Z="-2.500587" />
         <BoundingMax X="2.617901" Y="10.003292" Z="2.500587" />
         <BoundingCenter X="0.055944" Y="4.972330" Z="-0.000000" />
@@ -993,7 +993,7 @@
     <Template>
         <Name>SewerageTunnel2Floors04</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelfloors\seweragetunnel2floors04.p3d</File>
-        <Date>08/28/20 01:55:48</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1017,7 +1017,7 @@
         <XShift>-0.238008</XShift>
         <YShift>0.229977</YShift>
         <ZShift>0.027642</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.942781</Height>
         <BoundingMin X="-2.503796" Y="-0.058633" Z="-2.617901" />
         <BoundingMax X="2.617901" Y="10.117785" Z="2.519854" />
         <BoundingCenter X="0.057052" Y="5.029576" Z="-0.049023" />
@@ -1026,7 +1026,7 @@
     <Template>
         <Name>SewerageTunnel2Floors05</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelfloors\seweragetunnel2floors05.p3d</File>
-        <Date>08/28/20 01:55:48</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1050,7 +1050,7 @@
         <XShift>0.006116</XShift>
         <YShift>0.000511</YShift>
         <ZShift>0.000723</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.000466</Height>
         <BoundingMin X="-2.520678" Y="-0.002382" Z="-2.530592" />
         <BoundingMax X="2.507426" Y="10.000000" Z="2.530591" />
         <BoundingCenter X="-0.006626" Y="4.998809" Z="-0.000000" />
@@ -1059,7 +1059,7 @@
     <Template>
         <Name>SewerageTunnelFloor01</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelfloors\seweragetunnelfloor01.p3d</File>
-        <Date>08/28/20 01:55:48</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1083,7 +1083,7 @@
         <XShift>0.000341</XShift>
         <YShift>0.000000</YShift>
         <ZShift>0.084384</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.090153</Height>
         <BoundingMin X="-2.501983" Y="-0.330283" Z="-2.516194" />
         <BoundingMax X="2.501301" Y="0.019647" Z="2.516194" />
         <BoundingCenter X="-0.000341" Y="-0.155318" Z="-0.000000" />
@@ -1092,7 +1092,7 @@
     <Template>
         <Name>SewerageTunnelHatch01</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelhatch\seweragetunnelhatch01.p3d</File>
-        <Date>08/28/20 01:55:48</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1116,7 +1116,7 @@
         <XShift>0.001155</XShift>
         <YShift>0.000000</YShift>
         <ZShift>0.133382</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.500466</Height>
         <BoundingMin X="-2.508472" Y="-0.311633" Z="-2.481983" />
         <BoundingMax X="2.506163" Y="5.043935" Z="2.481982" />
         <BoundingCenter X="-0.001155" Y="2.366151" Z="-0.000000" />
@@ -1125,7 +1125,7 @@
     <Template>
         <Name>SewerageTunnelHatch02</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelhatch\seweragetunnelhatch02.p3d</File>
-        <Date>08/28/20 01:55:48</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1149,7 +1149,7 @@
         <XShift>0.001200</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000767</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.250000</Height>
         <BoundingMin X="-0.863405" Y="-0.001535" Z="-0.864264" />
         <BoundingMax X="0.861005" Y="2.500000" Z="0.864264" />
         <BoundingCenter X="-0.001200" Y="1.249233" Z="-0.000000" />
@@ -1158,7 +1158,7 @@
     <Template>
         <Name>SewerageTunnelColumn01</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelcolumn\seweragetunnelcolumn01.p3d</File>
-        <Date>08/28/20 22:51:36</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1182,7 +1182,7 @@
         <XShift>-0.000000</XShift>
         <YShift>0.000000</YShift>
         <ZShift>0.042400</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.184763</Height>
         <BoundingMin X="-2.129730" Y="0.199294" Z="-2.129731" />
         <BoundingMax X="2.129731" Y="5.043934" Z="2.129729" />
         <BoundingCenter X="0.000000" Y="2.621614" Z="-0.000001" />
@@ -1191,7 +1191,7 @@
     <Template>
         <Name>SewerageTunnelColumn02</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelcolumn\seweragetunnelcolumn02.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1224,7 +1224,7 @@
     <Template>
         <Name>SewerageTunnelColumn03</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelcolumn\seweragetunnelcolumn03.p3d</File>
-        <Date>08/28/20 22:51:36</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1248,7 +1248,7 @@
         <XShift>-0.019530</XShift>
         <YShift>0.015397</YShift>
         <ZShift>0.087988</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.184763</Height>
         <BoundingMin X="-0.002880" Y="0.084321" Z="-2.136537" />
         <BoundingMax X="2.136150" Y="5.067731" Z="0.011535" />
         <BoundingCenter X="1.066635" Y="2.576026" Z="-1.062501" />
@@ -1257,7 +1257,7 @@
     <Template>
         <Name>SewerageTunnelColumn04</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelcolumn\seweragetunnelcolumn04.p3d</File>
-        <Date>08/28/20 22:51:36</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1281,7 +1281,7 @@
         <XShift>-0.001836</XShift>
         <YShift>0.009301</YShift>
         <ZShift>0.004474</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.531537</Height>
         <BoundingMin X="-0.225273" Y="-0.000000" Z="-0.148396" />
         <BoundingMax X="0.228204" Y="3.072185" Z="0.234018" />
         <BoundingCenter X="0.001466" Y="1.536093" Z="0.042811" />
@@ -1290,7 +1290,7 @@
     <Template>
         <Name>SewerageTunnelCeiling01</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelceiling\seweragetunnelceiling01.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1323,7 +1323,7 @@
     <Template>
         <Name>SewerageTunnelBig01</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelbig\seweragetunnelbig01.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1356,7 +1356,7 @@
     <Template>
         <Name>SewerageTunnelArch01</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelarch\seweragetunnelarch01.p3d</File>
-        <Date>09/11/20 22:14:46</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1380,7 +1380,7 @@
         <XShift>-0.002939</XShift>
         <YShift>0.001024</YShift>
         <ZShift>-0.003655</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.349980</Height>
         <BoundingMin X="-0.041091" Y="0.115811" Z="-2.363972" />
         <BoundingMax X="0.317302" Y="4.906513" Z="2.302222" />
         <BoundingCenter X="0.138105" Y="2.511162" Z="-0.030875" />
@@ -1389,7 +1389,7 @@
     <Template>
         <Name>SewerageTunnelArch02</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelarch\seweragetunnelarch02.p3d</File>
-        <Date>09/11/20 22:14:46</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1413,7 +1413,7 @@
         <XShift>-0.002432</XShift>
         <YShift>-0.000001</YShift>
         <ZShift>0.009728</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.507366</Height>
         <BoundingMin X="-0.605469" Y="-0.041190" Z="-2.521847" />
         <BoundingMax X="0.610333" Y="5.007003" Z="2.521847" />
         <BoundingCenter X="0.002432" Y="2.482907" Z="0.000000" />
@@ -1422,7 +1422,7 @@
     <Template>
         <Name>SewerageTunnelArch03</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelarch\seweragetunnelarch03.p3d</File>
-        <Date>09/11/20 22:14:46</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1446,7 +1446,7 @@
         <XShift>-0.013125</XShift>
         <YShift>0.000000</YShift>
         <ZShift>0.004119</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.507366</Height>
         <BoundingMin X="-0.624336" Y="-0.043619" Z="-2.526796" />
         <BoundingMax X="0.056125" Y="5.020648" Z="2.526796" />
         <BoundingCenter X="-0.284106" Y="2.488515" Z="0.000000" />
@@ -1455,7 +1455,7 @@
     <Template>
         <Name>SewerageTunnelArch04</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragetunnelarch\seweragetunnelarch04.p3d</File>
-        <Date>09/11/20 22:14:46</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1479,7 +1479,7 @@
         <XShift>-0.003012</XShift>
         <YShift>-0.000094</YShift>
         <ZShift>0.009084</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.533194</Height>
         <BoundingMin X="-0.223776" Y="-0.136269" Z="-2.413411" />
         <BoundingMax X="0.228240" Y="4.977462" Z="2.413411" />
         <BoundingCenter X="0.002232" Y="2.420596" Z="0.000000" />
@@ -1488,7 +1488,7 @@
     <Template>
         <Name>SewerageCircle01</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragecircle\seweragecircle01.p3d</File>
-        <Date>09/15/20 00:18:10</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1512,7 +1512,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.744505</Height>
         <BoundingMin X="3.402352" Y="-0.489010" Z="-2.732622" />
         <BoundingMax X="8.084298" Y="5.000000" Z="2.732629" />
         <BoundingCenter X="5.743325" Y="2.255495" Z="0.000004" />
@@ -1521,7 +1521,7 @@
     <Template>
         <Name>SewerageCircle02</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragecircle\seweragecircle02.p3d</File>
-        <Date>09/15/20 00:18:10</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1545,7 +1545,7 @@
         <XShift>-0.129468</XShift>
         <YShift>0.007109</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.745674</Height>
         <BoundingMin X="3.397809" Y="-0.491352" Z="-2.827557" />
         <BoundingMax X="7.401587" Y="4.999996" Z="2.813335" />
         <BoundingCenter X="5.399698" Y="2.254322" Z="-0.007111" />
@@ -1554,7 +1554,7 @@
     <Template>
         <Name>SewerageCircle03</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragecircle\seweragecircle03.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1587,7 +1587,7 @@
     <Template>
         <Name>SewerageCircle04</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragecircle\seweragecircle04.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1620,7 +1620,7 @@
     <Template>
         <Name>SewerageCircle05</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragecircle\seweragecircle05.p3d</File>
-        <Date>09/15/20 00:18:10</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1644,7 +1644,7 @@
         <XShift>-0.000001</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000486</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.503350</Height>
         <BoundingMin X="6.271069" Y="0.001071" Z="-3.091547" />
         <BoundingMax X="6.829895" Y="5.008743" Z="-2.336272" />
         <BoundingCenter X="6.550482" Y="2.504907" Z="-2.713910" />
@@ -1653,7 +1653,7 @@
     <Template>
         <Name>SewerageCircle06</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragecircle\seweragecircle06.p3d</File>
-        <Date>09/15/20 00:18:10</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1677,7 +1677,7 @@
         <XShift>0.013463</XShift>
         <YShift>0.001142</YShift>
         <ZShift>-0.008870</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.831234</Height>
         <BoundingMin X="1.603791" Y="0.005958" Z="-3.095188" />
         <BoundingMax X="6.828538" Y="7.690063" Z="-0.398563" />
         <BoundingCenter X="4.216165" Y="3.848010" Z="-1.746876" />
@@ -1686,7 +1686,7 @@
     <Template>
         <Name>SewerageCircle07</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragecircle\seweragecircle07.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1719,7 +1719,7 @@
     <Template>
         <Name>SewerageCircle08</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragecircle\seweragecircle08.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1752,7 +1752,7 @@
     <Template>
         <Name>SewerageCircle09</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragecircle\seweragecircle09.p3d</File>
-        <Date>09/15/20 00:18:10</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1776,7 +1776,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.005118</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.161661</Height>
         <BoundingMin X="-2.192138" Y="-0.151764" Z="-2.192138" />
         <BoundingMax X="2.192138" Y="0.181794" Z="2.192138" />
         <BoundingCenter X="0.000000" Y="0.015015" Z="0.000000" />
@@ -1785,7 +1785,7 @@
     <Template>
         <Name>SewerageCircle10</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragecircle\seweragecircle10.p3d</File>
-        <Date>09/15/20 00:18:10</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1809,7 +1809,7 @@
         <XShift>-0.002769</XShift>
         <YShift>-0.000510</YShift>
         <ZShift>0.005019</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.572017</Height>
         <BoundingMin X="6.495248" Y="-0.154072" Z="-2.733889" />
         <BoundingMax X="8.089835" Y="5.000000" Z="2.734907" />
         <BoundingCenter X="7.292542" Y="2.422964" Z="0.000509" />
@@ -1818,7 +1818,7 @@
     <Template>
         <Name>SewerageCircle11</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\seweragecircle\seweragecircle11.p3d</File>
-        <Date>09/15/20 00:18:10</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1842,7 +1842,7 @@
         <XShift>-0.018796</XShift>
         <YShift>-0.000001</YShift>
         <ZShift>-0.121924</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.787648</Height>
         <BoundingMin X="1.877721" Y="-0.169657" Z="-2.827556" />
         <BoundingMax X="7.537654" Y="7.649487" Z="2.827556" />
         <BoundingCenter X="4.707687" Y="3.739915" Z="0.000000" />
@@ -1851,7 +1851,7 @@
     <Template>
         <Name>frame_a</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\frame_a.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1875,7 +1875,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000058</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.312437</Height>
         <BoundingMin X="-0.013430" Y="-0.124926" Z="-0.513430" />
         <BoundingMax X="0.013430" Y="0.500166" Z="0.513430" />
         <BoundingCenter X="0.000000" Y="0.187620" Z="-0.000000" />
@@ -1884,7 +1884,7 @@
     <Template>
         <Name>frame_b</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\frame_b.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1908,7 +1908,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000083</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.312758</Height>
         <BoundingMin X="-0.020460" Y="-0.125517" Z="-0.524326" />
         <BoundingMax X="0.020460" Y="0.500166" Z="0.524326" />
         <BoundingCenter X="0.000000" Y="0.187324" Z="0.000000" />
@@ -1917,7 +1917,7 @@
     <Template>
         <Name>pipe01a</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01a.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1941,7 +1941,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.077498</Height>
         <BoundingMin X="-1.000000" Y="-0.077497" Z="-0.083749" />
         <BoundingMax X="1.000000" Y="0.077498" Z="0.083749" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
@@ -1950,7 +1950,7 @@
     <Template>
         <Name>pipe01b</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01b.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1974,7 +1974,7 @@
         <XShift>0.000727</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.148546</Height>
         <BoundingMin X="-0.150000" Y="-0.250000" Z="-0.043999" />
         <BoundingMax X="0.148547" Y="0.047093" Z="0.043999" />
         <BoundingCenter X="-0.000727" Y="-0.101453" Z="0.000000" />
@@ -1983,7 +1983,7 @@
     <Template>
         <Name>pipe01c</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01c.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2007,7 +2007,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.144415</Height>
         <BoundingMin X="-0.250080" Y="-0.038748" Z="-0.041285" />
         <BoundingMax X="0.250081" Y="0.250082" Z="0.041285" />
         <BoundingCenter X="0.000001" Y="0.105667" Z="0.000000" />
@@ -2016,7 +2016,7 @@
     <Template>
         <Name>pipe01d</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01d.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2040,7 +2040,7 @@
         <XShift>0.000000</XShift>
         <YShift>0.000267</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.499994</Height>
         <BoundingMin X="-0.500000" Y="-0.500000" Z="-0.154651" />
         <BoundingMax X="0.500000" Y="0.500000" Z="0.051260" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="-0.051695" />
@@ -2049,7 +2049,7 @@
     <Template>
         <Name>pipe01e</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01e.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2073,7 +2073,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000280</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.148516</Height>
         <BoundingMin X="-0.305445" Y="-0.054560" Z="-0.059277" />
         <BoundingMax X="0.305445" Y="0.243031" Z="0.059277" />
         <BoundingCenter X="-0.000000" Y="0.094235" Z="-0.000000" />
@@ -2082,7 +2082,7 @@
     <Template>
         <Name>pipe01f</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01f.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2106,7 +2106,7 @@
         <XShift>0.000128</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.214023</Height>
         <BoundingMin X="-0.500255" Y="-0.047092" Z="-0.043855" />
         <BoundingMax X="0.380952" Y="0.380954" Z="0.043855" />
         <BoundingCenter X="-0.059652" Y="0.166931" Z="-0.000000" />
@@ -2115,7 +2115,7 @@
     <Template>
         <Name>pipe01g</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01g.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2139,7 +2139,7 @@
         <XShift>-0.000001</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.080842</Height>
         <BoundingMin X="-0.301231" Y="-0.080840" Z="-0.081000" />
         <BoundingMax X="0.301232" Y="0.080844" Z="0.081000" />
         <BoundingCenter X="0.000000" Y="0.000002" Z="0.000000" />
@@ -2148,7 +2148,7 @@
     <Template>
         <Name>pipe01h</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01h.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2172,7 +2172,7 @@
         <XShift>-0.000262</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.070452</Height>
         <BoundingMin X="-0.140060" Y="-0.070450" Z="-0.061013" />
         <BoundingMax X="0.140584" Y="0.070453" Z="0.061013" />
         <BoundingCenter X="0.000262" Y="0.000002" Z="0.000000" />
@@ -2181,7 +2181,7 @@
     <Template>
         <Name>pipe01holder</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01holder.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2205,7 +2205,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000013</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.551745</Height>
         <BoundingMin X="-0.024018" Y="-0.103865" Z="-0.091927" />
         <BoundingMax X="0.024018" Y="1.000349" Z="0.091927" />
         <BoundingCenter X="-0.000000" Y="0.448242" Z="0.000000" />
@@ -2214,7 +2214,7 @@
     <Template>
         <Name>pipe01i</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01i.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2238,7 +2238,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.104350</Height>
         <BoundingMin X="-0.132520" Y="-0.050547" Z="-0.080034" />
         <BoundingMax X="0.132520" Y="0.158153" Z="0.080034" />
         <BoundingCenter X="-0.000000" Y="0.053803" Z="0.000000" />
@@ -2247,7 +2247,7 @@
     <Template>
         <Name>pipe01j</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01j.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2271,7 +2271,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.053971</Height>
         <BoundingMin X="-0.083225" Y="-0.053971" Z="-0.053971" />
         <BoundingMax X="0.083225" Y="0.053971" Z="0.053971" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
@@ -2280,7 +2280,7 @@
     <Template>
         <Name>pipe01k</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01k.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2304,7 +2304,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.100202</Height>
         <BoundingMin X="-0.044835" Y="-0.100202" Z="-0.046801" />
         <BoundingMax X="0.044835" Y="0.100202" Z="0.046801" />
         <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
@@ -2313,7 +2313,7 @@
     <Template>
         <Name>pipe01l</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01l.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2337,7 +2337,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.107254</Height>
         <BoundingMin X="-0.065647" Y="-0.107254" Z="-0.118959" />
         <BoundingMax X="0.051192" Y="0.107254" Z="0.048997" />
         <BoundingCenter X="-0.007227" Y="0.000000" Z="-0.034981" />
@@ -2346,7 +2346,7 @@
     <Template>
         <Name>pipe01m</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01m.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2370,7 +2370,7 @@
         <XShift>0.000001</XShift>
         <YShift>0.000071</YShift>
         <ZShift>0.000308</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.104362</Height>
         <BoundingMin X="-0.078256" Y="0.044363" Z="-0.029563" />
         <BoundingMax X="0.078256" Y="0.253702" Z="0.036231" />
         <BoundingCenter X="0.000000" Y="0.149032" Z="0.003334" />
@@ -2379,7 +2379,7 @@
     <Template>
         <Name>pipe01n</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe01n.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2403,7 +2403,7 @@
         <XShift>-0.000001</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.074128</Height>
         <BoundingMin X="-0.078256" Y="-0.070727" Z="-0.176936" />
         <BoundingMax X="0.078256" Y="0.077530" Z="-0.044978" />
         <BoundingCenter X="0.000000" Y="0.003401" Z="-0.110957" />
@@ -2412,7 +2412,7 @@
     <Template>
         <Name>pipe02a</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe02a.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2436,7 +2436,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.075000</Height>
         <BoundingMin X="-0.500213" Y="-0.082198" Z="-0.075000" />
         <BoundingMax X="0.500214" Y="0.082198" Z="0.075000" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="-0.000000" />
@@ -2445,7 +2445,7 @@
     <Template>
         <Name>pipe02b</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe02b.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2469,7 +2469,7 @@
         <XShift>-0.003622</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.003622</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.162477</Height>
         <BoundingMin X="-0.250000" Y="-0.250000" Z="-0.075000" />
         <BoundingMax X="0.082198" Y="0.082198" Z="0.075000" />
         <BoundingCenter X="-0.083901" Y="-0.083901" Z="-0.000000" />
@@ -2478,7 +2478,7 @@
     <Template>
         <Name>pipe02holder</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe02holder.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2502,7 +2502,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000122</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.299294</Height>
         <BoundingMin X="-0.012009" Y="-0.099008" Z="-0.084918" />
         <BoundingMax X="0.012009" Y="0.500175" Z="0.084918" />
         <BoundingCenter X="-0.000000" Y="0.200583" Z="0.000000" />
@@ -2511,7 +2511,7 @@
     <Template>
         <Name>pipe03a</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe03a.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2535,7 +2535,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.109696</Height>
         <BoundingMin X="-0.500001" Y="-0.109696" Z="-0.119785" />
         <BoundingMax X="0.500000" Y="0.109696" Z="0.119785" />
         <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
@@ -2544,7 +2544,7 @@
     <Template>
         <Name>pipe03b</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe03b.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2568,7 +2568,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.500000</Height>
         <BoundingMin X="-0.500000" Y="-0.500000" Z="-0.119785" />
         <BoundingMax X="0.500000" Y="0.500000" Z="0.119785" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
@@ -2577,7 +2577,7 @@
     <Template>
         <Name>pipe03c</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe03c.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2601,7 +2601,7 @@
         <XShift>-0.000000</XShift>
         <YShift>0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.305000</Height>
         <BoundingMin X="-0.500000" Y="-0.110000" Z="-0.119785" />
         <BoundingMax X="0.500000" Y="0.500000" Z="0.119785" />
         <BoundingCenter X="0.000000" Y="0.195000" Z="-0.000000" />
@@ -2610,7 +2610,7 @@
     <Template>
         <Name>pipe03d</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe03d.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2634,7 +2634,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.500000</Height>
         <BoundingMin X="-0.500000" Y="-0.500000" Z="-0.119785" />
         <BoundingMax X="0.500000" Y="0.500000" Z="0.119785" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
@@ -2643,7 +2643,7 @@
     <Template>
         <Name>pipe03e</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe03e.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2667,7 +2667,7 @@
         <XShift>-0.000000</XShift>
         <YShift>0.000000</YShift>
         <ZShift>-0.000509</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.181913</Height>
         <BoundingMin X="-0.500000" Y="-0.110000" Z="-0.119785" />
         <BoundingMax X="0.500000" Y="0.254845" Z="0.119785" />
         <BoundingCenter X="0.000000" Y="0.072423" Z="-0.000000" />
@@ -2676,7 +2676,7 @@
     <Template>
         <Name>pipe03f</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe03f.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2700,7 +2700,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.196990</Height>
         <BoundingMin X="-0.301886" Y="-0.196990" Z="-0.222276" />
         <BoundingMax X="0.301886" Y="0.196990" Z="0.222276" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
@@ -2709,7 +2709,7 @@
     <Template>
         <Name>pipe03g</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe03g.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2733,7 +2733,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000287</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.417682</Height>
         <BoundingMin X="-0.301886" Y="-0.197564" Z="-0.222276" />
         <BoundingMax X="0.301886" Y="0.638375" Z="0.222276" />
         <BoundingCenter X="0.000000" Y="0.220406" Z="0.000000" />
@@ -2742,7 +2742,7 @@
     <Template>
         <Name>pipe03h</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe03h.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2766,7 +2766,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.196990</Height>
         <BoundingMin X="-0.084341" Y="-0.196990" Z="-0.208787" />
         <BoundingMax X="0.086325" Y="0.196990" Z="0.208787" />
         <BoundingCenter X="0.000992" Y="0.000000" Z="0.000000" />
@@ -2775,7 +2775,7 @@
     <Template>
         <Name>pipe04a</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe04a.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2799,7 +2799,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.241627</Height>
         <BoundingMin X="-1.000664" Y="-0.241627" Z="-0.265352" />
         <BoundingMax X="1.000664" Y="0.241626" Z="0.265352" />
         <BoundingCenter X="-0.000000" Y="-0.000000" Z="0.000000" />
@@ -2808,7 +2808,7 @@
     <Template>
         <Name>pipe04b</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe04b.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2832,7 +2832,7 @@
         <XShift>0.000332</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000112</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.620813</Height>
         <BoundingMin X="-1.000664" Y="-1.000224" Z="-0.292498" />
         <BoundingMax X="0.241627" Y="0.241626" Z="0.292498" />
         <BoundingCenter X="-0.379518" Y="-0.379299" Z="0.000000" />
@@ -2841,7 +2841,7 @@
     <Template>
         <Name>pipe04c</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe04c.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2865,7 +2865,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.312737</Height>
         <BoundingMin X="-0.077609" Y="-0.312737" Z="-0.332789" />
         <BoundingMax X="0.077609" Y="0.312737" Z="0.332789" />
         <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
@@ -2874,7 +2874,7 @@
     <Template>
         <Name>pipe04d</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe04d.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2898,7 +2898,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.272500</Height>
         <BoundingMin X="-1.000000" Y="-0.272500" Z="-0.272500" />
         <BoundingMax X="1.000000" Y="0.272500" Z="0.272500" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
@@ -2907,7 +2907,7 @@
     <Template>
         <Name>pipe04e</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe04e.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2931,7 +2931,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.636251</Height>
         <BoundingMin X="-1.000000" Y="-1.000000" Z="-0.272502" />
         <BoundingMax X="0.272502" Y="0.272501" Z="0.272502" />
         <BoundingCenter X="-0.363749" Y="-0.363749" Z="0.000000" />
@@ -2940,7 +2940,7 @@
     <Template>
         <Name>pipe04f</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe04f.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2964,7 +2964,7 @@
         <XShift>0.000239</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.344699</Height>
         <BoundingMin X="-0.049894" Y="-0.345293" Z="-0.346639" />
         <BoundingMax X="0.127558" Y="0.345293" Z="0.346639" />
         <BoundingCenter X="0.038832" Y="0.000000" Z="0.000000" />
@@ -2973,7 +2973,7 @@
     <Template>
         <Name>pipe04g</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe04g.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -2997,7 +2997,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.286190</Height>
         <BoundingMin X="-0.028135" Y="-0.286190" Z="-0.286190" />
         <BoundingMax X="0.028135" Y="0.286190" Z="0.286190" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="-0.000000" />
@@ -3006,7 +3006,7 @@
     <Template>
         <Name>pipe04h</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe04h.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3030,7 +3030,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.015294</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.248689</Height>
         <BoundingMin X="-0.060474" Y="-0.248689" Z="-0.297063" />
         <BoundingMax X="0.060474" Y="0.248689" Z="0.279276" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="-0.008893" />
@@ -3039,7 +3039,7 @@
     <Template>
         <Name>pipe04i</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe04i.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3063,7 +3063,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.257307</Height>
         <BoundingMin X="-0.060537" Y="-0.259777" Z="-0.297003" />
         <BoundingMax X="0.060537" Y="0.259777" Z="0.500000" />
         <BoundingCenter X="0.000000" Y="0.000000" Z="0.101498" />
@@ -3072,7 +3072,7 @@
     <Template>
         <Name>pipe05a</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe05a.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3096,7 +3096,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.328612</Height>
         <BoundingMin X="-1.002633" Y="-0.328612" Z="-0.354813" />
         <BoundingMax X="1.002633" Y="0.328612" Z="0.354813" />
         <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
@@ -3105,7 +3105,7 @@
     <Template>
         <Name>pipe05b</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe05b.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3129,7 +3129,7 @@
         <XShift>0.001317</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.001317</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.664306</Height>
         <BoundingMin X="-1.002633" Y="-1.002633" Z="-0.354813" />
         <BoundingMax X="0.328612" Y="0.328612" Z="0.354813" />
         <BoundingCenter X="-0.337011" Y="-0.337011" Z="0.000000" />
@@ -3138,7 +3138,7 @@
     <Template>
         <Name>pipe05c</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe05c.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3162,7 +3162,7 @@
         <XShift>0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.328612</Height>
         <BoundingMin X="-1.002633" Y="-0.328612" Z="-0.354813" />
         <BoundingMax X="1.002633" Y="0.328612" Z="0.354813" />
         <BoundingCenter X="-0.000000" Y="0.000000" Z="0.000000" />
@@ -3171,7 +3171,7 @@
     <Template>
         <Name>pipe05_frame_a</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe05_frame_a.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3195,7 +3195,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.407314</Height>
         <BoundingMin X="-1.005517" Y="-0.408124" Z="-0.407449" />
         <BoundingMax X="-0.994483" Y="0.408124" Z="0.407449" />
         <BoundingCenter X="-1.000000" Y="0.000000" Z="0.000000" />
@@ -3204,7 +3204,7 @@
     <Template>
         <Name>pipe05_frame_b</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe05_frame_b.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3228,7 +3228,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.359979</Height>
         <BoundingMin X="-1.000000" Y="-0.365237" Z="-0.405499" />
         <BoundingMax X="1.000000" Y="0.365237" Z="-0.348982" />
         <BoundingCenter X="0.000000" Y="-0.000000" Z="-0.377240" />
@@ -3237,7 +3237,7 @@
     <Template>
         <Name>pipe05_frame_c</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe05_frame_c.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3261,7 +3261,7 @@
         <XShift>-0.002629</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.002629</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.679990</Height>
         <BoundingMin X="-1.000000" Y="-1.000000" Z="-0.405499" />
         <BoundingMax X="0.365237" Y="0.365237" Z="-0.348982" />
         <BoundingCenter X="-0.317382" Y="-0.317382" Z="-0.377240" />
@@ -3270,7 +3270,7 @@
     <Template>
         <Name>pipe05_frame_d</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\pipe05_frame_d.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3294,7 +3294,7 @@
         <XShift>-0.001177</XShift>
         <YShift>0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.028258</Height>
         <BoundingMin X="-1.000000" Y="0.348982" Z="-0.365237" />
         <BoundingMax X="0.362333" Y="0.405499" Z="0.365237" />
         <BoundingCenter X="-0.318833" Y="0.377240" Z="-0.000000" />
@@ -3303,7 +3303,7 @@
     <Template>
         <Name>valve_a</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\valve_a.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3336,7 +3336,7 @@
     <Template>
         <Name>valve_b</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\valve_b.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3369,7 +3369,7 @@
     <Template>
         <Name>valve_c</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\valve_c.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3402,7 +3402,7 @@
     <Template>
         <Name>valve_d</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\valve_d.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3435,7 +3435,7 @@
     <Template>
         <Name>SewerageLattice01</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\lattice\seweragelattice01.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3459,7 +3459,7 @@
         <XShift>-0.000085</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.002946</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.557430</Height>
         <BoundingMin X="-0.188920" Y="-0.172273" Z="-2.404047" />
         <BoundingMax X="0.188477" Y="4.948480" Z="2.404046" />
         <BoundingCenter X="-0.000222" Y="2.388104" Z="-0.000000" />
@@ -3468,7 +3468,7 @@
     <Template>
         <Name>SewerageLattice02</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\lattice\seweragelattice02.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3492,7 +3492,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.072033</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.383280</Height>
         <BoundingMin X="-0.120199" Y="-0.170447" Z="-2.466239" />
         <BoundingMax X="0.120199" Y="0.742853" Z="2.466239" />
         <BoundingCenter X="-0.000000" Y="0.286203" Z="0.000000" />
@@ -3501,7 +3501,7 @@
     <Template>
         <Name>SewerageLattice03</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\lattice\seweragelattice03.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3525,7 +3525,7 @@
         <XShift>-0.000039</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000119</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.088869</Height>
         <BoundingMin X="-2.500078" Y="-0.000007" Z="-0.037002" />
         <BoundingMax X="2.500052" Y="4.177971" Z="0.037000" />
         <BoundingCenter X="-0.000013" Y="2.088982" Z="-0.000001" />
@@ -3534,7 +3534,7 @@
     <Template>
         <Name>SewerageLattice04</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\lattice\seweragelattice04.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3558,7 +3558,7 @@
         <XShift>-0.000039</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000119</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.088869</Height>
         <BoundingMin X="-2.500078" Y="-0.000007" Z="-0.037002" />
         <BoundingMax X="2.500052" Y="4.177972" Z="0.037000" />
         <BoundingCenter X="-0.000013" Y="2.088982" Z="-0.000001" />
@@ -3567,7 +3567,7 @@
     <Template>
         <Name>SeweragePipes01</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\seweragepipes01.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3591,7 +3591,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.304243</Height>
         <BoundingMin X="-1.415421" Y="0.624078" Z="-2.500001" />
         <BoundingMax X="1.415421" Y="3.454921" Z="2.500001" />
         <BoundingCenter X="0.000000" Y="2.039500" Z="0.000000" />
@@ -3600,7 +3600,7 @@
     <Template>
         <Name>SeweragePipes02</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\seweragepipes02.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3624,7 +3624,7 @@
         <XShift>-0.055589</XShift>
         <YShift>0.055472</YShift>
         <ZShift>-0.000016</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.304243</Height>
         <BoundingMin X="-2.500000" Y="0.624079" Z="-1.415187" />
         <BoundingMax X="1.415421" Y="3.454921" Z="2.500001" />
         <BoundingCenter X="-0.542289" Y="2.039500" Z="0.542407" />
@@ -3633,7 +3633,7 @@
     <Template>
         <Name>SeweragePipes03</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\seweragepipes03.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3657,7 +3657,7 @@
         <XShift>0.001102</XShift>
         <YShift>0.052708</YShift>
         <ZShift>-0.041393</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.749138</Height>
         <BoundingMin X="-1.761209" Y="0.278290" Z="-2.633769" />
         <BoundingMax X="1.761209" Y="3.880667" Z="-1.725578" />
         <BoundingCenter X="0.000000" Y="2.079479" Z="-2.179673" />
@@ -3666,7 +3666,7 @@
     <Template>
         <Name>SeweragePipes04</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\seweragepipes04.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3690,7 +3690,7 @@
         <XShift>-0.000000</XShift>
         <YShift>0.059046</YShift>
         <ZShift>-0.000015</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.555166</Height>
         <BoundingMin X="-1.557912" Y="0.481587" Z="-2.633769" />
         <BoundingMax X="1.557912" Y="3.597412" Z="-1.943584" />
         <BoundingCenter X="0.000000" Y="2.039499" Z="-2.288677" />
@@ -3699,7 +3699,7 @@
     <Template>
         <Name>SeweragePipes05</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\seweragepipes05.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3732,7 +3732,7 @@
     <Template>
         <Name>SeweragePipes06</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\seweragepipes06.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3756,7 +3756,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000475</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.269801</Height>
         <BoundingMin X="-1.269800" Y="-2.481398" Z="-0.333331" />
         <BoundingMax X="1.269803" Y="0.059154" Z="0.057134" />
         <BoundingCenter X="0.000001" Y="-1.211122" Z="-0.138099" />
@@ -3765,7 +3765,7 @@
     <Template>
         <Name>SeweragePipes07</Name>
         <File>bastionrpitems\bastionsewerage\sewerage\pipes\seweragepipes07.p3d</File>
-        <Date>09/25/20 17:37:42</Date>
+        <Date>07/28/21 16:33:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -3789,7 +3789,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.005155</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.032218</Height>
         <BoundingMin X="-0.738122" Y="-0.017659" Z="-0.834937" />
         <BoundingMax X="0.738122" Y="0.057570" Z="0.834937" />
         <BoundingCenter X="0.000000" Y="0.019956" Z="0.000000" />

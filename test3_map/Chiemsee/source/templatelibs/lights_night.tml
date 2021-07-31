@@ -3,7 +3,7 @@
     <Template>
         <Name>lampa_ind</Name>
         <File>bastionrpitems\lights\lampa_ind.p3d</File>
-        <Date>08/11/20 22:30:46</Date>
+        <Date>07/28/21 16:34:06</Date>
         <Archive></Archive>
         <Fill>-256</Fill>
         <Outline>-16776961</Outline>
@@ -27,7 +27,7 @@
         <XShift>0.004663</XShift>
         <YShift>-0.001739</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.678203</Height>
         <BoundingMin X="-1.241858" Y="0.000239" Z="-0.362598" />
         <BoundingMax X="0.108558" Y="9.356646" Z="0.136602" />
         <BoundingCenter X="-0.566650" Y="4.678442" Z="-0.112998" />
@@ -36,7 +36,7 @@
     <Template>
         <Name>lampa_ind_b</Name>
         <File>bastionrpitems\lights\lampa_ind_b.p3d</File>
-        <Date>08/11/20 22:30:46</Date>
+        <Date>07/28/21 16:34:06</Date>
         <Archive></Archive>
         <Fill>-256</Fill>
         <Outline>-16776961</Outline>
@@ -60,7 +60,7 @@
         <XShift>0.004663</XShift>
         <YShift>-0.001739</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.678203</Height>
         <BoundingMin X="-1.241858" Y="0.000239" Z="-0.362598" />
         <BoundingMax X="0.108558" Y="9.356646" Z="0.136602" />
         <BoundingCenter X="-0.566650" Y="4.678442" Z="-0.112998" />
@@ -69,7 +69,7 @@
     <Template>
         <Name>lampa_sidl</Name>
         <File>bastionrpitems\lights\lampa_sidl.p3d</File>
-        <Date>08/11/20 22:30:46</Date>
+        <Date>07/28/21 16:34:06</Date>
         <Archive></Archive>
         <Fill>-256</Fill>
         <Outline>-16776961</Outline>
@@ -93,7 +93,7 @@
         <XShift>0.007917</XShift>
         <YShift>-0.006474</YShift>
         <ZShift>-0.031864</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.806905</Height>
         <BoundingMin X="-2.381283" Y="-0.613516" Z="2.691769" />
         <BoundingMax X="0.204645" Y="9.064023" Z="3.333971" />
         <BoundingCenter X="-1.088319" Y="4.225254" Z="3.012870" />
@@ -102,7 +102,7 @@
     <Template>
         <Name>lampa_sidl_2</Name>
         <File>bastionrpitems\lights\lampa_sidl_2.p3d</File>
-        <Date>08/11/20 22:30:46</Date>
+        <Date>07/28/21 16:34:06</Date>
         <Archive></Archive>
         <Fill>-256</Fill>
         <Outline>-16776961</Outline>
@@ -126,7 +126,7 @@
         <XShift>-0.030477</XShift>
         <YShift>-0.006474</YShift>
         <ZShift>-0.031864</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.809728</Height>
         <BoundingMin X="-2.381283" Y="-0.619161" Z="2.691769" />
         <BoundingMax X="2.492511" Y="9.064023" Z="3.333971" />
         <BoundingCenter X="0.055614" Y="4.222431" Z="3.012870" />
@@ -135,7 +135,7 @@
     <Template>
         <Name>lampa_sidl_3</Name>
         <File>bastionrpitems\lights\lampa_sidl_3.p3d</File>
-        <Date>08/11/20 22:30:46</Date>
+        <Date>07/28/21 16:34:06</Date>
         <Archive></Archive>
         <Fill>-256</Fill>
         <Outline>-16776961</Outline>
@@ -159,7 +159,7 @@
         <XShift>-0.047122</XShift>
         <YShift>0.008794</YShift>
         <ZShift>-0.031864</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.809728</Height>
         <BoundingMin X="-2.381283" Y="-0.619161" Z="0.657368" />
         <BoundingMax X="1.303150" Y="9.064023" Z="5.321282" />
         <BoundingCenter X="-0.539066" Y="4.222431" Z="2.989326" />
@@ -168,7 +168,7 @@
     <Template>
         <Name>PowLines_WoodL</Name>
         <File>bastionrpitems\lights\powlines_woodl.p3d</File>
-        <Date>08/11/20 22:30:46</Date>
+        <Date>07/28/21 16:34:06</Date>
         <Archive></Archive>
         <Fill>-256</Fill>
         <Outline>-16776961</Outline>
@@ -192,7 +192,7 @@
         <XShift>0.002876</XShift>
         <YShift>-0.016964</YShift>
         <ZShift>0.001017</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.498849</Height>
         <BoundingMin X="-0.294832" Y="-1.004010" Z="-0.305713" />
         <BoundingMax X="0.289080" Y="7.999980" Z="1.164270" />
         <BoundingCenter X="-0.002876" Y="3.497985" Z="0.429278" />
@@ -201,7 +201,7 @@
     <Template>
         <Name>wall_lights</Name>
         <File>bastionrpitems\sewer\wall_lights.p3d</File>
-        <Date>08/11/20 22:30:52</Date>
+        <Date>07/28/21 16:34:11</Date>
         <Archive></Archive>
         <Fill>-256</Fill>
         <Outline>-16776961</Outline>
@@ -225,7 +225,7 @@
         <XShift>0.026188</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.997282</Height>
         <BoundingMin X="-0.240209" Y="-0.017483" Z="-0.162943" />
         <BoundingMax X="0.094349" Y="1.977082" Z="0.163870" />
         <BoundingCenter X="-0.072930" Y="0.979800" Z="0.000463" />

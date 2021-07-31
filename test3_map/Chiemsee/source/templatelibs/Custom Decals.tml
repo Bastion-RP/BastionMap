@@ -3,7 +3,7 @@
     <Template>
         <Name>Crosswalk</Name>
         <File>bastionrpitems\roaddecals\crosswalk.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -36,7 +36,7 @@
     <Template>
         <Name>heli_army</Name>
         <File>bastionrpitems\roaddecals\heli_army.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -69,7 +69,7 @@
     <Template>
         <Name>manhole_01</Name>
         <File>bastionrpitems\roaddecals\manhole_01.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>manhole_02</Name>
         <File>bastionrpitems\roaddecals\manhole_02.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>manhole_03</Name>
         <File>bastionrpitems\roaddecals\manhole_03.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>road_damage_long_01</Name>
         <File>bastionrpitems\roaddecals\road_damage_long_01.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -201,7 +201,7 @@
     <Template>
         <Name>road_damage_long_02</Name>
         <File>bastionrpitems\roaddecals\road_damage_long_02.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>road_damage_long_03</Name>
         <File>bastionrpitems\roaddecals\road_damage_long_03.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>road_damage_long_04</Name>
         <File>bastionrpitems\roaddecals\road_damage_long_04.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>road_damage_long_05</Name>
         <File>bastionrpitems\roaddecals\road_damage_long_05.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>road_damage_medium_01</Name>
         <File>bastionrpitems\roaddecals\road_damage_medium_01.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>road_damage_medium_02</Name>
         <File>bastionrpitems\roaddecals\road_damage_medium_02.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>road_damage_small_01</Name>
         <File>bastionrpitems\roaddecals\road_damage_small_01.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>road_damage_small_02</Name>
         <File>bastionrpitems\roaddecals\road_damage_small_02.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>Decal_Concrete_Panel_1</Name>
         <File>bastionrpitems\roaddecals\decal_concrete_panel.p3d</File>
-        <Date>11/09/20 20:30:30</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>Decal_Concrete_Panels_1</Name>
         <File>bastionrpitems\roaddecals\decal_concrete_panels.p3d</File>
-        <Date>11/09/20 20:30:30</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>Decal_Concrete_Panels_End1_1</Name>
         <File>bastionrpitems\roaddecals\decal_concrete_panels_end1.p3d</File>
-        <Date>11/09/20 20:30:30</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>Decal_Concrete_Panels_End2_1</Name>
         <File>bastionrpitems\roaddecals\decal_concrete_panels_end2.p3d</File>
-        <Date>11/09/20 20:30:30</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-8388608</Fill>
         <Outline>-1</Outline>

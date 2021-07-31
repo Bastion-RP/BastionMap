@@ -3,7 +3,7 @@
     <Template>
         <Name>bridge_asf1_25_a</Name>
         <File>bastionrpitems\roads\bridge_asf1_25_a.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -27,20 +27,11 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.005344</ZShift>
-        <Height>0.000000</Height>
+        <Height>10.232641</Height>
         <BoundingMin X="-8.839810" Y="-19.946802" Z="-12.500161" />
         <BoundingMax X="8.835350" Y="0.529169" Z="12.500001" />
         <BoundingCenter X="-0.002230" Y="-9.708817" Z="-0.000080" />
         <Placement></Placement>
-        <SnapPoint>
-            <Name>basf1</Name>
-            <Type>1</Type>
-            <EdgeLength>11.986318</EdgeLength>
-            <PositionX>0.002230</PositionX>
-            <PositionY>12.500081</PositionY>
-            <NormalX>0.000000</NormalX>
-            <NormalY>-1.000000</NormalY>
-        </SnapPoint>
         <SnapPoint>
             <Name>basf1</Name>
             <Type>0</Type>
@@ -50,11 +41,20 @@
             <NormalX>0.000000</NormalX>
             <NormalY>1.000000</NormalY>
         </SnapPoint>
+        <SnapPoint>
+            <Name>basf1</Name>
+            <Type>1</Type>
+            <EdgeLength>11.986318</EdgeLength>
+            <PositionX>0.002230</PositionX>
+            <PositionY>12.500081</PositionY>
+            <NormalX>0.000000</NormalX>
+            <NormalY>-1.000000</NormalY>
+        </SnapPoint>
     </Template>
     <Template>
         <Name>city_1_1000</Name>
         <File>bastionrpitems\roads\city_1_1000.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -78,7 +78,7 @@
         <XShift>0.081831</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.148811</Height>
         <BoundingMin X="-5.524014" Y="-0.297621" Z="0.000000" />
         <BoundingMax X="5.531870" Y="0.000000" Z="17.539669" />
         <BoundingCenter X="0.003928" Y="-0.148811" Z="8.769835" />
@@ -87,7 +87,7 @@
     <Template>
         <Name>city_6_custom</Name>
         <File>bastionrpitems\roads\city_6.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -111,7 +111,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="0.000000" />
         <BoundingMax X="5.524014" Y="0.000000" Z="6.250000" />
         <BoundingCenter X="0.000000" Y="-0.038288" Z="3.125000" />
@@ -120,7 +120,7 @@
     <Template>
         <Name>city_6_konec</Name>
         <File>bastionrpitems\roads\city_6_konec.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -144,7 +144,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.018692</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="-0.000000" />
         <BoundingMax X="5.524014" Y="0.106919" Z="6.250000" />
         <BoundingCenter X="0.000000" Y="0.015171" Z="3.125000" />
@@ -153,7 +153,7 @@
     <Template>
         <Name>city_7_100</Name>
         <File>bastionrpitems\roads\city_7_100.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -177,7 +177,7 @@
         <XShift>0.085574</XShift>
         <YShift>-0.084769</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="0.000000" />
         <BoundingMax X="6.165604" Y="0.000000" Z="13.874787" />
         <BoundingCenter X="0.320795" Y="-0.038288" Z="6.937394" />
@@ -186,7 +186,7 @@
     <Template>
         <Name>city_10_25</Name>
         <File>bastionrpitems\roads\city_10_25.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -210,7 +210,7 @@
         <XShift>0.007536</XShift>
         <YShift>-0.079934</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="0.000000" />
         <BoundingMax X="5.812786" Y="0.000000" Z="5.369314" />
         <BoundingCenter X="0.144386" Y="-0.038288" Z="2.684657" />
@@ -219,7 +219,7 @@
     <Template>
         <Name>city_10_50</Name>
         <File>bastionrpitems\roads\city_10_50.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -243,7 +243,7 @@
         <XShift>0.029917</XShift>
         <YShift>-0.068982</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="0.000000" />
         <BoundingMax X="6.147831" Y="0.000000" Z="9.688614" />
         <BoundingCenter X="0.311909" Y="-0.038288" Z="4.844307" />
@@ -252,7 +252,7 @@
     <Template>
         <Name>city_10_75</Name>
         <File>bastionrpitems\roads\city_10_75.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -276,7 +276,7 @@
         <XShift>0.011294</XShift>
         <YShift>-0.066617</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="0.000000" />
         <BoundingMax X="6.564883" Y="0.000000" Z="14.025087" />
         <BoundingCenter X="0.520435" Y="-0.038288" Z="7.012544" />
@@ -285,7 +285,7 @@
     <Template>
         <Name>city_10_100</Name>
         <File>bastionrpitems\roads\city_10_100.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -309,7 +309,7 @@
         <XShift>-0.015970</XShift>
         <YShift>-0.069242</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="0.000000" />
         <BoundingMax X="6.999217" Y="0.000000" Z="18.371544" />
         <BoundingCenter X="0.737602" Y="-0.038288" Z="9.185772" />
@@ -318,7 +318,7 @@
     <Template>
         <Name>city_12_custom</Name>
         <File>bastionrpitems\roads\city_12.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -342,7 +342,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="0.000000" />
         <BoundingMax X="5.524014" Y="0.000000" Z="12.500000" />
         <BoundingCenter X="0.000000" Y="-0.038288" Z="6.250000" />
@@ -351,7 +351,7 @@
     <Template>
         <Name>city_15_75</Name>
         <File>bastionrpitems\roads\city_15_75.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -375,7 +375,7 @@
         <XShift>0.024255</XShift>
         <YShift>-0.086186</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="0.000000" />
         <BoundingMax X="7.860696" Y="0.000000" Z="20.877897" />
         <BoundingCenter X="1.168341" Y="-0.038288" Z="10.438949" />
@@ -384,7 +384,7 @@
     <Template>
         <Name>city_22_50</Name>
         <File>bastionrpitems\roads\city_22_50.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -408,7 +408,7 @@
         <XShift>0.073037</XShift>
         <YShift>-0.144443</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="0.000000" />
         <BoundingMax X="8.803360" Y="0.000000" Z="21.336473" />
         <BoundingCenter X="1.639673" Y="-0.038288" Z="10.668237" />
@@ -417,7 +417,7 @@
     <Template>
         <Name>city_25_custom</Name>
         <File>bastionrpitems\roads\city_25.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -441,7 +441,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="0.000000" />
         <BoundingMax X="5.524014" Y="0.000000" Z="25.000000" />
         <BoundingCenter X="0.000000" Y="-0.038288" Z="12.500000" />
@@ -450,7 +450,7 @@
     <Template>
         <Name>city_30_25</Name>
         <File>bastionrpitems\roads\city_30_25.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -474,7 +474,7 @@
         <XShift>0.040056</XShift>
         <YShift>-0.147342</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="0.000000" />
         <BoundingMax X="8.123395" Y="0.000000" Z="15.294684" />
         <BoundingCenter X="1.299690" Y="-0.038288" Z="7.647342" />
@@ -483,7 +483,7 @@
     <Template>
         <Name>city_60_10</Name>
         <File>bastionrpitems\roads\city_60_10.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -507,7 +507,7 @@
         <XShift>0.133460</XShift>
         <YShift>-0.272472</YShift>
         <ZShift>0.034767</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-5.524014" Y="-0.076577" Z="-0.000000" />
         <BoundingMax X="7.757094" Y="0.000001" Z="13.535326" />
         <BoundingCenter X="1.116540" Y="-0.038288" Z="6.767663" />
@@ -516,7 +516,7 @@
     <Template>
         <Name>city_circle_custom</Name>
         <File>bastionrpitems\roads\city_circle.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -540,7 +540,7 @@
         <XShift>0.000001</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.041690</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.003521</Height>
         <BoundingMin X="-30.490490" Y="-0.093444" Z="-30.462673" />
         <BoundingMax X="30.490490" Y="0.003023" Z="30.462673" />
         <BoundingCenter X="0.000000" Y="-0.045211" Z="0.000000" />
@@ -549,7 +549,7 @@
     <Template>
         <Name>Thicc_city_6_konec</Name>
         <File>bastionrpitems\roads\city_6_konec_tall.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -573,7 +573,7 @@
         <XShift>0.076545</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.053460</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.148811</Height>
         <BoundingMin X="-5.677104" Y="-0.297621" Z="-0.338020" />
         <BoundingMax X="5.524014" Y="0.106919" Z="6.588020" />
         <BoundingCenter X="-0.076545" Y="-0.095351" Z="3.125000" />
@@ -582,7 +582,7 @@
     <Template>
         <Name>Thicc_city_1_1000</Name>
         <File>bastionrpitems\roads\city_1_1000_tall.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -606,7 +606,7 @@
         <XShift>-0.008333</XShift>
         <YShift>-0.002438</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.148811</Height>
         <BoundingMin X="-5.897421" Y="-0.297621" Z="-0.935821" />
         <BoundingMax X="6.076163" Y="0.000000" Z="18.484804" />
         <BoundingCenter X="0.089371" Y="-0.148811" Z="8.774492" />
@@ -615,7 +615,7 @@
     <Template>
         <Name>Thicc_city_6</Name>
         <File>bastionrpitems\roads\city_6_tall.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -639,7 +639,7 @@
         <XShift>0.005267</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.148811</Height>
         <BoundingMin X="-5.625062" Y="-0.297621" Z="-0.390664" />
         <BoundingMax X="5.625062" Y="0.000000" Z="6.640664" />
         <BoundingCenter X="0.000000" Y="-0.148811" Z="3.125000" />
@@ -648,7 +648,7 @@
     <Template>
         <Name>Thicc_city_7_100</Name>
         <File>bastionrpitems\roads\city_7_100_tall.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -681,7 +681,7 @@
     <Template>
         <Name>Thicc_city_10_25</Name>
         <File>bastionrpitems\roads\city_10_25_tall.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -714,7 +714,7 @@
     <Template>
         <Name>Thicc_city_10_50</Name>
         <File>bastionrpitems\roads\city_10_50_tall.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -738,7 +738,7 @@
         <XShift>0.031684</XShift>
         <YShift>-0.001015</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.148811</Height>
         <BoundingMin X="-5.524014" Y="-0.297621" Z="-0.318454" />
         <BoundingMax X="6.147831" Y="0.000000" Z="9.931239" />
         <BoundingCenter X="0.311909" Y="-0.148811" Z="4.806393" />
@@ -747,7 +747,7 @@
     <Template>
         <Name>Thicc_city_10_75</Name>
         <File>bastionrpitems\roads\city_10_75_tall.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -780,7 +780,7 @@
     <Template>
         <Name>Thicc_city_10_100</Name>
         <File>bastionrpitems\roads\city_10_100_tall.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -813,7 +813,7 @@
     <Template>
         <Name>Thicc_city_12</Name>
         <File>bastionrpitems\roads\city_12_tall.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -837,7 +837,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.148811</Height>
         <BoundingMin X="-5.524014" Y="-0.297621" Z="-0.414598" />
         <BoundingMax X="5.524014" Y="0.000000" Z="12.914598" />
         <BoundingCenter X="0.000000" Y="-0.148811" Z="6.250000" />
@@ -846,7 +846,7 @@
     <Template>
         <Name>Thicc_city_15_75</Name>
         <File>bastionrpitems\roads\city_15_75_tall.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -879,7 +879,7 @@
     <Template>
         <Name>Thicc_city_22_50</Name>
         <File>bastionrpitems\roads\city_22_50_tall.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -903,7 +903,7 @@
         <XShift>-0.007561</XShift>
         <YShift>0.000052</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.148811</Height>
         <BoundingMin X="-5.583398" Y="-0.297621" Z="-0.888063" />
         <BoundingMax X="9.074231" Y="0.000000" Z="22.091309" />
         <BoundingCenter X="1.745417" Y="-0.148811" Z="10.601623" />
@@ -912,7 +912,7 @@
     <Template>
         <Name>Thicc_city_25</Name>
         <File>bastionrpitems\roads\city_25_tall.p3d</File>
-        <Date>08/11/20 22:30:50</Date>
+        <Date>07/28/21 16:34:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -936,7 +936,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000001</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.148811</Height>
         <BoundingMin X="-5.559943" Y="-0.297621" Z="-1.399858" />
         <BoundingMax X="5.559943" Y="0.000000" Z="26.399860" />
         <BoundingCenter X="0.000000" Y="-0.148811" Z="12.500001" />
@@ -945,7 +945,7 @@
     <Template>
         <Name>Thicc_city_30_25</Name>
         <File>bastionrpitems\roads\city_30_25_tall.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -978,7 +978,7 @@
     <Template>
         <Name>Thicc_city_60_10</Name>
         <File>bastionrpitems\roads\city_60_10_tall.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -1011,7 +1011,7 @@
     <Template>
         <Name>Thicc_city_circle</Name>
         <File>bastionrpitems\roads\city_circle_tall.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>

@@ -3,7 +3,7 @@
     <Template>
         <Name>HouseBlock_A1_1_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_a\houseblock_a1_1_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -36,7 +36,7 @@
     <Template>
         <Name>HouseBlock_A1_half_ruin</Name>
         <File>bastionrpitems\houseblocks\houseblock_a\houseblock_a1_half_ruin.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -69,7 +69,7 @@
     <Template>
         <Name>HouseBlock_A1_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_a\houseblock_a1_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>HouseBlock_A2_1_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_a\houseblock_a2_1_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>HouseBlock_A2_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_a\houseblock_a2_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -168,7 +168,7 @@
     <Template>
         <Name>HouseBlock_A3_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_a\houseblock_a3_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -201,7 +201,7 @@
     <Template>
         <Name>HouseBlock_B1_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_b\houseblock_b1_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -234,7 +234,7 @@
     <Template>
         <Name>HouseBlock_B2_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_b\houseblock_b2_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -267,7 +267,7 @@
     <Template>
         <Name>HouseBlock_B3_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_b\houseblock_b3_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -300,7 +300,7 @@
     <Template>
         <Name>HouseBlock_B4_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_b\houseblock_b4_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -333,7 +333,7 @@
     <Template>
         <Name>HouseBlock_B5_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_b\houseblock_b5_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -366,7 +366,7 @@
     <Template>
         <Name>HouseBlock_B6_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_b\houseblock_b6_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -399,7 +399,7 @@
     <Template>
         <Name>HouseBlock_C1_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_c\houseblock_c1_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -432,7 +432,7 @@
     <Template>
         <Name>HouseBlock_C2_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_c\houseblock_c2_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -465,7 +465,7 @@
     <Template>
         <Name>HouseBlock_C3_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_c\houseblock_c3_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -498,7 +498,7 @@
     <Template>
         <Name>HouseBlock_C4_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_c\houseblock_c4_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -531,7 +531,7 @@
     <Template>
         <Name>HouseBlock_C5_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_c\houseblock_c5_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>
@@ -564,7 +564,7 @@
     <Template>
         <Name>HouseBlock_D1_ruins</Name>
         <File>bastionrpitems\houseblocks\houseblock_d\houseblock_d1_ruins.p3d</File>
-        <Date>11/09/20 20:30:29</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16776961</Fill>
         <Outline>-1</Outline>

@@ -3,7 +3,7 @@
     <Template>
         <Name>Bunker1_Double</Name>
         <File>dz\structures_bliss\military\bunkers\bunker1_double.p3d</File>
-        <Date>08/05/20 21:34:57</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -27,7 +27,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.567075</Height>
         <BoundingMin X="-5.935863" Y="-1.163498" Z="-5.305812" />
         <BoundingMax X="6.028843" Y="3.970653" Z="5.498814" />
         <BoundingCenter X="0.046490" Y="1.403577" Z="0.096501" />
@@ -36,7 +36,7 @@
     <Template>
         <Name>Bunker1_Left</Name>
         <File>dz\structures_bliss\military\bunkers\bunker1_left.p3d</File>
-        <Date>08/05/20 21:35:08</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -60,7 +60,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.589711</Height>
         <BoundingMin X="-7.173650" Y="-1.206419" Z="-5.305812" />
         <BoundingMax X="6.028843" Y="3.973003" Z="3.483048" />
         <BoundingCenter X="-0.572403" Y="1.383292" Z="-0.911382" />
@@ -69,7 +69,7 @@
     <Template>
         <Name>Bunker1_Right</Name>
         <File>dz\structures_bliss\military\bunkers\bunker1_right.p3d</File>
-        <Date>08/05/20 21:34:54</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.589711</Height>
         <BoundingMin X="-5.935863" Y="-1.206419" Z="-5.305812" />
         <BoundingMax X="7.173233" Y="3.973003" Z="3.481823" />
         <BoundingCenter X="0.618685" Y="1.383292" Z="-0.911994" />
@@ -102,7 +102,7 @@
     <Template>
         <Name>Bunker2_Double</Name>
         <File>dz\structures_bliss\military\bunkers\bunker2_double.p3d</File>
-        <Date>08/05/20 21:34:58</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -126,7 +126,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.567075</Height>
         <BoundingMin X="-5.935863" Y="-1.163498" Z="-5.305812" />
         <BoundingMax X="6.028843" Y="3.970653" Z="5.498814" />
         <BoundingCenter X="0.046490" Y="1.403577" Z="0.096501" />
@@ -135,7 +135,7 @@
     <Template>
         <Name>Bunker2_Left</Name>
         <File>dz\structures_bliss\military\bunkers\bunker2_left.p3d</File>
-        <Date>08/05/20 21:35:04</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -159,7 +159,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.589711</Height>
         <BoundingMin X="-7.173650" Y="-1.206419" Z="-5.305812" />
         <BoundingMax X="6.028843" Y="3.973003" Z="3.483048" />
         <BoundingCenter X="-0.572403" Y="1.383292" Z="-0.911382" />
@@ -168,7 +168,7 @@
     <Template>
         <Name>Bunker2_Right</Name>
         <File>dz\structures_bliss\military\bunkers\bunker2_right.p3d</File>
-        <Date>08/05/20 21:34:59</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -192,7 +192,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.589711</Height>
         <BoundingMin X="-5.935863" Y="-1.206419" Z="-5.305812" />
         <BoundingMax X="7.173233" Y="3.973003" Z="3.481823" />
         <BoundingCenter X="0.618685" Y="1.383292" Z="-0.911994" />
@@ -201,7 +201,7 @@
     <Template>
         <Name>Mil_ControlTower</Name>
         <File>dz\structures_bliss\military\houses\mil_controltower.p3d</File>
-        <Date>08/05/20 21:35:05</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -225,7 +225,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.133549</Height>
         <BoundingMin X="-5.831732" Y="-1.600096" Z="-4.836850" />
         <BoundingMax X="4.317514" Y="16.667002" Z="5.281280" />
         <BoundingCenter X="-0.757109" Y="7.533453" Z="0.222215" />
@@ -234,7 +234,7 @@
     <Template>
         <Name>Mil_GuardBox_Brown</Name>
         <File>dz\structures_bliss\military\houses\mil_guardbox_brown.p3d</File>
-        <Date>08/05/20 21:35:12</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -258,7 +258,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.783145</Height>
         <BoundingMin X="-1.320170" Y="-1.917840" Z="-1.515341" />
         <BoundingMax X="1.325400" Y="3.648450" Z="3.044480" />
         <BoundingCenter X="0.002615" Y="0.865305" Z="0.764570" />
@@ -267,7 +267,7 @@
     <Template>
         <Name>Mil_GuardBox_Green</Name>
         <File>dz\structures_bliss\military\houses\mil_guardbox_green.p3d</File>
-        <Date>08/05/20 21:34:58</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -291,7 +291,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.783145</Height>
         <BoundingMin X="-1.320170" Y="-1.917840" Z="-1.515341" />
         <BoundingMax X="1.325400" Y="3.648450" Z="3.044480" />
         <BoundingCenter X="0.002615" Y="0.865305" Z="0.764570" />
@@ -300,7 +300,7 @@
     <Template>
         <Name>Mil_GuardBox_Smooth</Name>
         <File>dz\structures_bliss\military\houses\mil_guardbox_smooth.p3d</File>
-        <Date>08/05/20 21:35:06</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -324,7 +324,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.783145</Height>
         <BoundingMin X="-1.320170" Y="-1.917840" Z="-1.515341" />
         <BoundingMax X="1.325400" Y="3.648450" Z="3.044480" />
         <BoundingCenter X="0.002615" Y="0.865305" Z="0.764570" />
@@ -333,7 +333,7 @@
     <Template>
         <Name>Mil_GuardHouse3</Name>
         <File>dz\structures_bliss\military\houses\mil_guardhouse3.p3d</File>
-        <Date>08/05/20 21:35:07</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -357,7 +357,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.495625</Height>
         <BoundingMin X="-7.105350" Y="-1.281890" Z="-5.879444" />
         <BoundingMax X="6.736025" Y="3.709359" Z="4.962617" />
         <BoundingCenter X="-0.184663" Y="1.213735" Z="-0.458413" />
@@ -366,7 +366,7 @@
     <Template>
         <Name>Mil_ControlTower_Acc</Name>
         <File>dz\structures_bliss\military\houses\proxy\mil_controltower_acc.p3d</File>
-        <Date>08/05/20 21:35:12</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -390,7 +390,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>7.848231</Height>
         <BoundingMin X="-4.315331" Y="-0.003152" Z="-4.832250" />
         <BoundingMax X="4.317370" Y="15.693310" Z="5.261140" />
         <BoundingCenter X="0.001020" Y="7.845078" Z="0.214445" />
@@ -399,7 +399,7 @@
     <Template>
         <Name>mil_enoch_map</Name>
         <File>dz\structures_bliss\military\houses\proxy\mil_enoch_map.p3d</File>
-        <Date>08/05/20 21:35:03</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -423,7 +423,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.694561</Height>
         <BoundingMin X="-0.621470" Y="-0.002829" Z="-0.021146" />
         <BoundingMax X="0.621470" Y="1.386293" Z="0.020376" />
         <BoundingCenter X="0.000000" Y="0.691732" Z="-0.000385" />
@@ -432,7 +432,7 @@
     <Template>
         <Name>Misc_DeconShower_Large</Name>
         <File>dz\structures_bliss\military\misc\misc_deconshower_large.p3d</File>
-        <Date>08/05/20 21:35:09</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -456,7 +456,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.485000</Height>
         <BoundingMin X="-5.455210" Y="0.000000" Z="-1.188280" />
         <BoundingMax X="5.472750" Y="6.970000" Z="1.188470" />
         <BoundingCenter X="0.008770" Y="3.485000" Z="0.000095" />
@@ -465,7 +465,7 @@
     <Template>
         <Name>Misc_DragonTeeth_Multiple</Name>
         <File>dz\structures_bliss\military\misc\misc_dragonteeth_multiple.p3d</File>
-        <Date>08/05/20 21:34:58</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -489,7 +489,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.563210</Height>
         <BoundingMin X="-5.191787" Y="-0.008974" Z="-2.097773" />
         <BoundingMax X="5.204708" Y="1.117446" Z="2.095844" />
         <BoundingCenter X="0.006461" Y="0.554236" Z="-0.000964" />
@@ -498,7 +498,7 @@
     <Template>
         <Name>Misc_DragonTeeth_Multiple_RedWhite</Name>
         <File>dz\structures_bliss\military\misc\misc_dragonteeth_multiple_redwhite.p3d</File>
-        <Date>08/05/20 21:34:57</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -522,7 +522,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.563210</Height>
         <BoundingMin X="-5.191787" Y="-0.008974" Z="-2.097773" />
         <BoundingMax X="5.204708" Y="1.117446" Z="2.095844" />
         <BoundingCenter X="0.006461" Y="0.554236" Z="-0.000964" />
@@ -531,7 +531,7 @@
     <Template>
         <Name>Misc_DragonTeeth_Single</Name>
         <File>dz\structures_bliss\military\misc\misc_dragonteeth_single.p3d</File>
-        <Date>08/05/20 21:35:10</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -555,7 +555,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.558951</Height>
         <BoundingMin X="-0.570630" Y="-0.003904" Z="-0.707181" />
         <BoundingMax X="0.637280" Y="1.113999" Z="0.670392" />
         <BoundingCenter X="0.033325" Y="0.555047" Z="-0.018395" />
@@ -564,7 +564,7 @@
     <Template>
         <Name>Misc_DragonTeeth_Single_RedWhite</Name>
         <File>dz\structures_bliss\military\misc\misc_dragonteeth_single_redwhite.p3d</File>
-        <Date>08/05/20 21:35:03</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -588,7 +588,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.558951</Height>
         <BoundingMin X="-0.570630" Y="-0.003904" Z="-0.707181" />
         <BoundingMax X="0.637280" Y="1.113999" Z="0.670392" />
         <BoundingCenter X="0.033325" Y="0.555047" Z="-0.018395" />
@@ -597,7 +597,7 @@
     <Template>
         <Name>ShellCrater1</Name>
         <File>dz\structures_bliss\military\training\shellcrater1.p3d</File>
-        <Date>08/05/20 21:35:08</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -630,7 +630,7 @@
     <Template>
         <Name>ShellCrater1_Decal</Name>
         <File>dz\structures_bliss\military\training\shellcrater1_decal.p3d</File>
-        <Date>08/05/20 21:34:57</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -663,7 +663,7 @@
     <Template>
         <Name>ShellCrater2_Debris</Name>
         <File>dz\structures_bliss\military\training\shellcrater2_debris.p3d</File>
-        <Date>08/05/20 21:35:04</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -687,7 +687,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>0.133238</Height>
         <BoundingMin X="-1.202974" Y="-0.103867" Z="-2.009894" />
         <BoundingMax X="2.366566" Y="0.162610" Z="1.615719" />
         <BoundingCenter X="0.581796" Y="0.029372" Z="-0.197087" />
@@ -696,7 +696,7 @@
     <Template>
         <Name>ShellCrater2_Decal</Name>
         <File>dz\structures_bliss\military\training\shellcrater2_decal.p3d</File>
-        <Date>08/05/20 21:35:05</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -729,7 +729,7 @@
     <Template>
         <Name>ShellCrater2_Large</Name>
         <File>dz\structures_bliss\military\training\shellcrater2_large.p3d</File>
-        <Date>08/05/20 21:35:07</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -753,7 +753,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.857170</Height>
         <BoundingMin X="-10.017197" Y="-4.392747" Z="-10.091494" />
         <BoundingMax X="10.017197" Y="1.321592" Z="10.060141" />
         <BoundingCenter X="0.000000" Y="-1.535577" Z="-0.015676" />
@@ -762,7 +762,7 @@
     <Template>
         <Name>ShellCrater2_Small</Name>
         <File>dz\structures_bliss\military\training\shellcrater2_small.p3d</File>
-        <Date>08/05/20 21:34:58</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -786,7 +786,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.809483</Height>
         <BoundingMin X="-5.963964" Y="-2.507937" Z="-5.458897" />
         <BoundingMax X="5.315372" Y="1.111028" Z="5.655539" />
         <BoundingCenter X="-0.324296" Y="-0.698454" Z="0.098321" />
@@ -795,7 +795,7 @@
     <Template>
         <Name>Target_Concrete1</Name>
         <File>dz\structures_bliss\military\training\target_concrete1.p3d</File>
-        <Date>08/05/20 21:35:08</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -819,7 +819,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.632501</Height>
         <BoundingMin X="-1.632501" Y="-0.024374" Z="-1.346123" />
         <BoundingMax X="1.632501" Y="3.240627" Z="0.407334" />
         <BoundingCenter X="-0.000000" Y="1.608126" Z="-0.469394" />
@@ -828,7 +828,7 @@
     <Template>
         <Name>Target_Concrete2</Name>
         <File>dz\structures_bliss\military\training\target_concrete2.p3d</File>
-        <Date>08/05/20 21:34:57</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -852,7 +852,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.632501</Height>
         <BoundingMin X="-1.632501" Y="-0.024374" Z="-1.346123" />
         <BoundingMax X="1.632501" Y="3.240627" Z="0.407334" />
         <BoundingCenter X="-0.000000" Y="1.608126" Z="-0.469394" />
@@ -861,7 +861,7 @@
     <Template>
         <Name>Target_Concrete_Block</Name>
         <File>dz\structures_bliss\military\training\target_concrete_block.p3d</File>
-        <Date>08/05/20 21:35:12</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -885,7 +885,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.251340</Height>
         <BoundingMin X="-4.950000" Y="-0.500000" Z="-2.942680" />
         <BoundingMax X="4.950000" Y="2.002680" Z="2.942680" />
         <BoundingCenter X="0.000000" Y="0.751340" Z="0.000000" />
@@ -894,7 +894,7 @@
     <Template>
         <Name>Target_Concrete_Ramp</Name>
         <File>dz\structures_bliss\military\training\target_concrete_ramp.p3d</File>
-        <Date>08/05/20 21:34:52</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -918,7 +918,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.307565</Height>
         <BoundingMin X="-2.968944" Y="-1.000220" Z="-5.391951" />
         <BoundingMax X="3.299917" Y="1.614910" Z="8.893887" />
         <BoundingCenter X="0.165486" Y="0.307345" Z="1.750968" />
@@ -927,7 +927,7 @@
     <Template>
         <Name>Target_Support</Name>
         <File>dz\structures_bliss\military\training\target_support.p3d</File>
-        <Date>08/05/20 21:34:57</Date>
+        <Date>07/28/21 17:16:05</Date>
         <Archive></Archive>
         <Fill>-16777056</Fill>
         <Outline>-1</Outline>
@@ -951,7 +951,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.430044</Height>
         <BoundingMin X="-0.619367" Y="-0.672546" Z="-0.900891" />
         <BoundingMax X="0.720873" Y="2.187541" Z="0.894075" />
         <BoundingCenter X="0.050753" Y="0.757498" Z="-0.003408" />

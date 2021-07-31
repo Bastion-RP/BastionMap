@@ -3,7 +3,7 @@
     <Template>
         <Name>zisb_di_cave_90_bend_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_cave_90_bend_1.p3d</File>
-        <Date>09/22/20 19:15:02</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -21,22 +21,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.497839</BBRadius>
-        <BBHScale>0.995336</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.016315</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>0.013563</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.990851" Y="0.248374" Z="-4.052559" />
-        <BoundingMax X="3.115870" Y="4.356946" Z="3.054161" />
-        <BoundingCenter X="-0.437490" Y="2.302660" Z="-0.499199" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_cave_cross_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_cave_cross_1.p3d</File>
-        <Date>09/22/20 19:15:02</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -54,22 +54,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.980947</BBRadius>
-        <BBHScale>0.994373</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.010287</XShift>
-        <YShift>0.119157</YShift>
-        <ZShift>0.014642</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-4.939055" Y="0.178296" Z="-4.768020" />
-        <BoundingMax X="5.022840" Y="4.392944" Z="5.432188" />
-        <BoundingCenter X="0.041893" Y="2.285620" Z="0.332084" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_cave_end_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_cave_end_1.p3d</File>
-        <Date>09/22/20 19:15:02</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -87,22 +87,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.978669</BBRadius>
-        <BBHScale>1.042835</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>0.013502</YShift>
-        <ZShift>0.011461</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-2.105583" Y="0.242816" Z="-1.993801" />
-        <BoundingMax X="2.086773" Y="4.304122" Z="2.002038" />
-        <BoundingCenter X="-0.009405" Y="2.273469" Z="0.004119" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_cave_hall_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_cave_hall_1.p3d</File>
-        <Date>09/22/20 19:15:02</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -120,22 +120,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>7.329501</BBRadius>
-        <BBHScale>0.547348</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.060839</XShift>
-        <YShift>0.010245</YShift>
-        <ZShift>0.142076</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-4.004766" Y="-0.020707" Z="-7.116446" />
-        <BoundingMax X="4.140493" Y="6.039439" Z="7.624449" />
-        <BoundingCenter X="0.067863" Y="3.009366" Z="0.254002" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_cave_short_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_cave_short_1.p3d</File>
-        <Date>09/22/20 19:15:02</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -153,22 +153,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.978426</BBRadius>
-        <BBHScale>0.410126</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.000122</XShift>
-        <YShift>0.000211</YShift>
-        <ZShift>0.013809</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-2.136639" Y="0.149260" Z="-5.543546" />
-        <BoundingMax X="2.086336" Y="4.428405" Z="4.488071" />
-        <BoundingCenter X="-0.025151" Y="2.288832" Z="-0.527737" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_large_cave_90_bend_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_large_cave_90_bend_1.p3d</File>
-        <Date>09/22/20 19:15:02</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -186,22 +186,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>13.991356</BBRadius>
-        <BBHScale>0.995336</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.065258</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>0.054254</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-15.963404" Y="0.993496" Z="-16.210236" />
-        <BoundingMax X="12.463480" Y="17.427784" Z="12.216644" />
-        <BoundingCenter X="-1.749962" Y="9.210640" Z="-1.996796" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_large_cave_cross_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_large_cave_cross_1.p3d</File>
-        <Date>09/22/20 19:15:02</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -219,22 +219,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>19.923786</BBRadius>
-        <BBHScale>0.994373</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.041149</XShift>
-        <YShift>0.476629</YShift>
-        <ZShift>0.058566</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-19.756220" Y="0.713184" Z="-19.072079" />
-        <BoundingMax X="20.091360" Y="17.571775" Z="21.728752" />
-        <BoundingCenter X="0.167570" Y="9.142480" Z="1.328337" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_large_cave_end_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_large_cave_end_1.p3d</File>
-        <Date>09/22/20 19:15:02</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -252,22 +252,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>7.914676</BBRadius>
-        <BBHScale>1.042835</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>0.054010</YShift>
-        <ZShift>0.045842</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-8.422332" Y="0.971264" Z="-7.975204" />
-        <BoundingMax X="8.347092" Y="17.216488" Z="8.008152" />
-        <BoundingCenter X="-0.037620" Y="9.093876" Z="0.016474" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_large_cave_hall_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_large_cave_hall_1.p3d</File>
-        <Date>09/22/20 19:15:04</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -285,22 +285,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>29.318005</BBRadius>
-        <BBHScale>0.547348</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.243358</XShift>
-        <YShift>0.040978</YShift>
-        <ZShift>0.568306</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-16.019064" Y="-0.082828" Z="-28.465782" />
-        <BoundingMax X="16.561972" Y="24.157757" Z="30.497795" />
-        <BoundingCenter X="0.271454" Y="12.037464" Z="1.016006" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_large_cave_short_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_large_cave_short_1.p3d</File>
-        <Date>09/22/20 19:15:04</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -318,22 +318,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>19.913702</BBRadius>
-        <BBHScale>0.410126</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.000487</XShift>
-        <YShift>0.000844</YShift>
-        <ZShift>0.055238</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-8.546556" Y="0.597040" Z="-22.174185" />
-        <BoundingMax X="8.345344" Y="17.713619" Z="17.952286" />
-        <BoundingCenter X="-0.100606" Y="9.155330" Z="-2.110950" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_small_cave_90_bend_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_small_cave_90_bend_1.p3d</File>
-        <Date>09/22/20 19:15:04</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -351,22 +351,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>5.246758</BBRadius>
-        <BBHScale>0.995336</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.024472</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>0.020345</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-5.986277" Y="0.372561" Z="-6.078838" />
-        <BoundingMax X="4.673805" Y="6.535419" Z="4.581242" />
-        <BoundingCenter X="-0.656236" Y="3.453990" Z="-0.748798" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_small_cave_cross_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_small_cave_cross_1.p3d</File>
-        <Date>09/22/20 19:15:04</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -384,22 +384,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>7.471420</BBRadius>
-        <BBHScale>0.994373</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.015431</XShift>
-        <YShift>0.178736</YShift>
-        <ZShift>0.021962</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-7.408583" Y="0.267444" Z="-7.152030" />
-        <BoundingMax X="7.534260" Y="6.589416" Z="8.148282" />
-        <BoundingCenter X="0.062839" Y="3.428430" Z="0.498126" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_small_cave_end_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_small_cave_end_1.p3d</File>
-        <Date>09/22/20 19:15:04</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -417,22 +417,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.968003</BBRadius>
-        <BBHScale>1.042835</BBHScale>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>0.020254</YShift>
-        <ZShift>0.017191</ZShift>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.158374" Y="0.364224" Z="-2.990701" />
-        <BoundingMax X="3.130159" Y="6.456183" Z="3.003057" />
-        <BoundingCenter X="-0.014107" Y="3.410203" Z="0.006178" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_small_cave_hall_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_small_cave_hall_1.p3d</File>
-        <Date>09/22/20 19:15:04</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -450,22 +450,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>10.994251</BBRadius>
-        <BBHScale>0.547348</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.091259</XShift>
-        <YShift>0.015367</YShift>
-        <ZShift>0.213115</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-6.007149" Y="-0.031061" Z="-10.674668" />
-        <BoundingMax X="6.210739" Y="9.059158" Z="11.436673" />
-        <BoundingCenter X="0.101795" Y="4.514049" Z="0.381002" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_di_small_cave_short_1</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_di_small_cave_short_1.p3d</File>
-        <Date>09/22/20 19:15:04</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -483,22 +483,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>7.467638</BBRadius>
-        <BBHScale>0.410126</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.000183</XShift>
-        <YShift>0.000316</YShift>
-        <ZShift>0.020715</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.204958" Y="0.223890" Z="-8.315319" />
-        <BoundingMax X="3.129504" Y="6.642607" Z="6.732107" />
-        <BoundingCenter X="-0.037727" Y="3.433249" Z="-0.791606" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>zisb_was_here</Name>
         <File>bastionrpitems\caves\zisb_modular_caves_for_deerisle\zisb_was_here.p3d</File>
-        <Date>09/22/20 19:15:04</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -516,22 +516,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.042179</BBRadius>
-        <BBHScale>9.183716</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.383505" Y="-0.000075" Z="-0.054149" />
-        <BoundingMax X="0.391215" Y="1.292740" Z="0.030209" />
-        <BoundingCenter X="0.003855" Y="0.646333" Z="-0.011970" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="0.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>jmc_van_pinkies</Name>
         <File>bastionrpitems\caves\jmc_di_objects\jmc_van_pinkies.p3d</File>
-        <Date>09/22/20 19:15:02</Date>
+        <Date>07/28/21 16:33:57</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -555,7 +555,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.127371</Height>
         <BoundingMin X="-1.361335" Y="-0.001272" Z="-2.765548" />
         <BoundingMax X="1.125514" Y="2.253470" Z="3.430136" />
         <BoundingCenter X="-0.117911" Y="1.126099" Z="0.332294" />

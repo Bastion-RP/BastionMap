@@ -3,7 +3,7 @@
     <Template>
         <Name>Billboard Test</Name>
         <File>bastionrpitems\street_pack\signs\billboard test.p3d</File>
-        <Date>11/09/20 20:30:30</Date>
+        <Date>07/30/21 18:38:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -36,7 +36,7 @@
     <Template>
         <Name>Billboard_Ad_2</Name>
         <File>bastionrpitems\street_pack\signs\billboard_ad_2.p3d</File>
-        <Date>08/15/20 00:30:34</Date>
+        <Date>07/28/21 16:34:12</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -60,7 +60,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.250000</Height>
         <BoundingMin X="-3.000000" Y="-0.000001" Z="-0.050001" />
         <BoundingMax X="3.000000" Y="4.500000" Z="1.133900" />
         <BoundingCenter X="0.000000" Y="2.250000" Z="0.541950" />
@@ -69,7 +69,7 @@
     <Template>
         <Name>Billboard_Ad_3</Name>
         <File>bastionrpitems\street_pack\signs\billboard_ad_3.p3d</File>
-        <Date>08/15/20 00:30:34</Date>
+        <Date>07/28/21 16:34:12</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -93,7 +93,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.250000</Height>
         <BoundingMin X="-3.000000" Y="-0.000001" Z="-0.050001" />
         <BoundingMax X="3.000000" Y="4.500000" Z="1.133900" />
         <BoundingCenter X="0.000000" Y="2.250000" Z="0.541950" />
@@ -102,7 +102,7 @@
     <Template>
         <Name>Billboard_Ad_4</Name>
         <File>bastionrpitems\street_pack\signs\billboard_ad_4.p3d</File>
-        <Date>08/15/20 00:30:34</Date>
+        <Date>07/28/21 16:34:12</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -126,7 +126,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.250000</Height>
         <BoundingMin X="-3.000000" Y="-0.000001" Z="-0.050001" />
         <BoundingMax X="3.000000" Y="4.500000" Z="1.133900" />
         <BoundingCenter X="0.000000" Y="2.250000" Z="0.541950" />
@@ -135,7 +135,7 @@
     <Template>
         <Name>Billboard_Ad_5</Name>
         <File>bastionrpitems\street_pack\signs\billboard_ad_5.p3d</File>
-        <Date>08/15/20 00:30:34</Date>
+        <Date>07/28/21 16:34:12</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
         <Outline>-1</Outline>
@@ -159,7 +159,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>2.250000</Height>
         <BoundingMin X="-3.000000" Y="-0.000001" Z="-0.050001" />
         <BoundingMax X="3.000000" Y="4.500000" Z="1.133900" />
         <BoundingCenter X="0.000000" Y="2.250000" Z="0.541950" />
